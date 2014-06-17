@@ -1,0 +1,100 @@
+//
+// Load core variables and mixins
+// --------------------------------------------------
+
+@import "bootstrap/less/variables.less";
+@import "bootstrap/less/mixins.less";
+
+//
+// List groups
+// --------------------------------------------------
+
+.list-group {
+  border-radius: @border-radius-base;
+  .box-shadow(0 1px 2px rgba(0,0,0,.075));
+}
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+  text-shadow: 0 -1px 0 darken(@list-group-active-bg, 10%);
+  #gradient > .vertical(@start-color: @list-group-active-bg; @end-color: darken(@list-group-active-bg, 7.5%));
+  border-color: darken(@list-group-active-border, 7.5%);
+}
+
+
+//
+// Navbar
+// --------------------------------------------------
+
+// Default navbar
+.navbar-default {
+  #gradient > .vertical(@start-color: lighten(@navbar-default-bg, 10%); @end-color: @navbar-default-bg);
+  .reset-filter(); // Remove gradient in IE<10 to fix bug where dropdowns don't get triggered
+  border-radius: @navbar-border-radius;
+  @shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 5px rgba(0,0,0,.075);
+  .box-shadow(@shadow);
+
+  .navbar-nav > .active > a {
+  background: none;
+  background-color: #ededed;
+  background-repeat: repeat-x;
+  background-image: -moz-linear-gradient(top, #ededed 0%, white 90%);
+  background-image: -webkit-linear-gradient(top, #ededed 0%, white 90%);
+  background-image: -ms-linear-gradient(top, #ededed 0%, white 90%);
+  background-image: -o-linear-gradient(top, #ededed 0%, white 90%);
+  background-image: linear-gradient(top, #ededed 0%, #ffffff 90%);
+  }
+}
+
+//
+// Buttons
+// --------------------------------------------------
+
+// Common styles
+.btn-dtnorange,
+.btn-dtnblue,
+.btn-dtngreen, {
+  text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+  @shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 1px rgba(0,0,0,.075);
+  .box-shadow(@shadow);
+
+  // Reset the shadow
+  &:active,
+  &.active {
+    .box-shadow(inset 0 3px 5px rgba(0,0,0,.125));
+  }
+}
+
+// Mixin for generating new styles
+.btn-styles(@btn-color: #555) {
+  #gradient > .vertical(@start-color: @btn-color; @end-color: darken(@btn-color, 12%));
+  .reset-filter(); // Disable gradients for IE9 because filter bleeds through rounded corners
+  background-repeat: repeat-x;
+  border-color: darken(@btn-color, 14%);
+
+  &:hover,
+  &:focus  {
+    background-color: darken(@btn-color, 12%);
+    background-position: 0 -15px;
+  }
+
+  &:active,
+  &.active {
+    background-color: darken(@btn-color, 12%);
+    border-color: darken(@btn-color, 14%);
+  }
+}
+
+// Common styles
+.btn {
+  // Remove the gradient for the pressed/active state
+  &:active,
+  &.active {
+    background-image: none;
+  }
+}
+
+// Apply the mixin to the buttons
+.btn-dtnorange  { .btn-styles(@btn-dtnorange-bg); }
+.btn-dtnblue  { .btn-styles(@btn-dtnblue-bg); }
+.btn-dtngreen  { .btn-styles(@btn-dtngreen-bg); }
