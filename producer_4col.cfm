@@ -39,7 +39,7 @@
         </div>
 
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h1 class="bluelinetan">Weather Station</h1>
                 <img class="img-thumbnail" src="http://placehold.it/360x200">
                 <ul class="pager pull-right">
@@ -48,7 +48,6 @@
                 </ul>
                 <h3>Weather Station</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae unde ea, in! Aspernatur id sint quis consequatur neque, animi deleniti rem. Voluptate dicta repellat excepturi sed vitae omnis deserunt, hic totam nobis rerum, sit saepe assumenda maxime soluta, dolor laudantium ullam quis ipsum minima, suscipit quo! Amet, non minima autem.</p>
-
                 <h1 class="bluelinetan">DTN Six Factors</h1>
                 <img class="img-thumbnail" src="http://placehold.it/360x200">
                 <ul class="pager pull-right">
@@ -62,7 +61,39 @@
 
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-3">
+                <h1 class="bluelinetan">Ag Essential</h1>
+                <img class="img-thumbnail" src="http://placehold.it/360x200">
+                <ul class="pager pull-right">
+                    <li class="next"><a href="#">Learn More &rarr;</a>
+                    </li>
+                </ul>
+                <div class="caption">
+                    <h3>Ag Essential</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae unde ea, in! Aspernatur id sint quis consequatur neque, animi deleniti rem. Voluptate dicta repellat excepturi sed vitae omnis deserunt, hic totam nobis rerum, sit saepe assumenda maxime soluta, dolor laudantium ullam quis ipsum minima, suscipit quo! Amet, non minima autem.</p>
+                </div>
+                <h1 class="bluelinetan">Weather Station</h1>
+                <img class="img-thumbnail" src="http://placehold.it/360x200">
+                <ul class="pager pull-right">
+                    <li class="next"><a href="#">Learn More &rarr;</a>
+                    </li>
+                </ul>
+                <h3>Weather Station</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae unde ea, in! Aspernatur id sint quis consequatur neque, animi deleniti rem. Voluptate dicta repellat excepturi sed vitae omnis deserunt, hic totam nobis rerum, sit saepe assumenda maxime soluta, dolor laudantium ullam quis ipsum minima, suscipit quo! Amet, non minima autem.</p>
+
+            </div>
+
+            <div class="col-md-3">
+                <h1 class="bluelinetan">DTN Six Factors</h1>
+                <img class="img-thumbnail" src="http://placehold.it/360x200">
+                <ul class="pager pull-right">
+                    <li class="next"><a href="#">Learn More &rarr;</a>
+                    </li>
+                </ul>
+                <div class="caption">
+                    <h3>DTN Six Factors</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae unde ea, in! Aspernatur id sint quis consequatur neque, animi deleniti rem. Voluptate dicta repellat excepturi sed vitae omnis deserunt, hic totam nobis rerum, sit saepe assumenda maxime soluta, dolor laudantium ullam quis ipsum minima, suscipit quo! Amet, non minima autem.</p>
+                </div>
                 <h1 class="bluelinetan">Ag Essential</h1>
                 <img class="img-thumbnail" src="http://placehold.it/360x200">
                 <ul class="pager pull-right">
@@ -74,22 +105,21 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae unde ea, in! Aspernatur id sint quis consequatur neque, animi deleniti rem. Voluptate dicta repellat excepturi sed vitae omnis deserunt, hic totam nobis rerum, sit saepe assumenda maxime soluta, dolor laudantium ullam quis ipsum minima, suscipit quo! Amet, non minima autem.</p>
                 </div>
 
-                <h1 class="bluelinetan">DTN Six Factors</h1>
-                <img class="img-thumbnail" src="http://placehold.it/360x200">
-                <ul class="pager pull-right">
-                    <li class="next"><a href="#">Learn More &rarr;</a>
-                    </li>
-                </ul>
-                <div class="caption">
-                    <h3>DTN Six Factors</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae unde ea, in! Aspernatur id sint quis consequatur neque, animi deleniti rem. Voluptate dicta repellat excepturi sed vitae omnis deserunt, hic totam nobis rerum, sit saepe assumenda maxime soluta, dolor laudantium ullam quis ipsum minima, suscipit quo! Amet, non minima autem.</p>
-                </div>
-
             </div>
 
-            <div class="col-sm-4">
-                <cfinclude template="_/cfm/contact_us_sidebar.cfm"></cfinclude> <!--- contact_us_sidebar --->
-                                <div class="list-group css3-shadow">
+
+            <div class="col-sm-3">
+                <div class="list-group">
+                    <a href="#" class="list-group-item active">
+                        Recent Video
+                    </a>
+                    <a href="#" class="list-group-item">
+                        <iframe allowfullscreen="" src="http://player.vimeo.com/video/81413871" frameborder="0" width="100%" height="100%"></iframe>
+                    </a>
+                </div>
+                <cfinclude template="_/cfm/contact_us_sidebar.cfm"></cfinclude>
+
+                <div class="list-group css3-shadow">
                     <a href="#" class="list-group-item active">
                         Case Studies
                     </a>
@@ -98,50 +128,16 @@
                     <a href="#" class="list-group-item"><i class="fa fa-file-pdf-o red-pdf"></i>Porta ac consectetur ac</a>
                     <a href="#" class="list-group-item"><i class="fa fa-file-pdf-o red-pdf"></i>Vestibulum at eros</a>
                 </div>
-<div class="panel-group" id="accordion">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          Collapsible Group Item #1
-        </a>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-          Collapsible Group Item #2
-        </a>
-      </h4>
-    </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-          Collapsible Group Item #3
-        </a>
-      </h4>
-    </div>
-    <div id="collapseThree" class="panel-collapse collapse">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-</div>                <a href="#" class="btn btn-dtnorange btn-lg btn-block" role="button">Take a Free 14-day Trial <i class="fa fa-cog"></i></a>
+                <div class="list-group css3-shadow">
+                    <a href="#" class="list-group-item active">
+                        White Papers
+                    </a>
+                    <a href="#" class="list-group-item"><i class="fa fa-file-pdf-o red-pdf"></i>Dapibus ac facilisis in</a>
+                    <a href="#" class="list-group-item"><i class="fa fa-file-pdf-o red-pdf"></i>Morbi leo risus</a>
+                    <a href="#" class="list-group-item"><i class="fa fa-file-pdf-o red-pdf"></i>Porta ac consectetur ac</a>
+                    <a href="#" class="list-group-item"><i class="fa fa-file-pdf-o red-pdf"></i>Vestibulum at eros</a>
+                </div>
+                <a href="#" class="btn btn-dtnorange btn-lg btn-block" role="button">Take a Free 14-day Trial <i class="fa fa-cog"></i></a>
                 <a href="#" class="btn btn-dtnorange btn-lg btn-block" role="button">Download a Brochure <span class="glyphicon glyphicon-file"></span></a>
 
             </div>

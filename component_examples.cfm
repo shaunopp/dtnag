@@ -60,6 +60,11 @@
             </button>
             <button type="button" class="btn btn-link">Link</button>
         </p>
+
+                        <div class="clearfix"><h4><a href="#"><i class="fa fa-arrow-circle-down"></i> Free Trial</a> &nbsp;&nbsp;&nbsp;
+                <a href="#"><i class="fa fa-envelope"></i> Contact Us</a>
+                </h4></div>
+
         <!-- button samples -->
 
         <div class="page-header">

@@ -35,8 +35,7 @@
             <cfinclude template="_/cfm/carousel_1.cfm"></cfinclude>
             <!--- carousel --->
             <div class="col-md-12">
-                <h1 class="zero-tm page-header">Overview</h1>
-                <p>DTN/The Progressive Farmer is revolutionizing the agriculture industry with its game-changing agricultural information solutions and market intelligence that enable customers to actively and effectively manage their businesses. Our insightful, independent content along with proprietary business management tools and in-depth market analysis empower better decision making from today's forward-looking agricultural producers, agribusiness leaders and commodity market traders.</p>
+                <p style="font-size:16px">DTN/The Progressive Farmer is revolutionizing the agriculture industry with its game-changing agricultural information solutions and market intelligence that enable customers to actively and effectively manage their businesses. Our insightful, independent content along with proprietary business management tools and in-depth market analysis empower better decision making from today's forward-looking agricultural producers, agribusiness leaders and commodity market traders.</p>
 
             </div>
             <div class="col-md-4">
@@ -94,14 +93,7 @@
                         <iframe allowfullscreen="" src="http://player.vimeo.com/video/81413871" frameborder="0" width="100%" height="100%"></iframe>
                     </a>
                 </div>
-                <div class="list-group css3-shadow">
-                    <a href="#" class="list-group-item active">
-                        Contact Us
-                    </a>
-                    <a href="#" class="list-group-item"><i class="fa fa-phone-square bluelarge"></i>Phone</a>
-                    <a href="#" class="list-group-item"><i class="fa fa-envelope-square bluelarge"></i>Email</a>
-                    <a href="#" class="list-group-item"><i class="fa fa-comments bluelarge"></i>Chat</a>
-                </div>
+                <cfinclude template="_/cfm/contact_us_sidebar.cfm"></cfinclude>
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h3 class="panel-title">Contact Us</h3>
@@ -114,7 +106,7 @@
                 </div>
             </div>
             <div class="col-md-12">
-            <cfinclude template="_/cfm/news_tabs.cfm"></cfinclude>
+                <cfinclude template="_/cfm/news_tabs.cfm"></cfinclude>
             </div>
         </div>
         <!-- /container -->
