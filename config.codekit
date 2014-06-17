@@ -2965,7 +2965,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "_",
-	"displayValue": "ag2",
+	"displayValue": "dtnag",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "compass_darkGray"
 	},
@@ -3098,7 +3098,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:8500\/ag2",
+	"externalServerAddress": "http:\/\/localhost:8500\/dtnag",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp, cfm",
 	"hamlAutoOutputPathRelativePath": "",
