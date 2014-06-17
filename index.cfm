@@ -113,9 +113,10 @@
                     </div>
                 </div>
             </div>
-
+            <div class="col-md-12">
+            <cfinclude template="_/cfm/news_tabs.cfm"></cfinclude>
+            </div>
         </div>
-
         <!-- /container -->
 
         <cfinclude template="_/cfm/footer.cfm"></cfinclude>
