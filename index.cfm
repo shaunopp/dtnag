@@ -104,30 +104,31 @@
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Panel title</h3>
+                        <h3 class="panel-title">Contact Us</h3>
                     </div>
                     <div class="panel-body">
-                        Panel content
+                        <a href="#" class="list-group-item"><i class="fa fa-phone-square bluelarge"></i>Phone</a>
+                        <a href="#" class="list-group-item"><i class="fa fa-envelope-square bluelarge"></i>Email</a>
+                        <a href="#" class="list-group-item"><i class="fa fa-comments bluelarge"></i>Chat</a>
                     </div>
                 </div>
             </div>
+
         </div>
 
-    </div>
+        <!-- /container -->
 
-    <!-- /container -->
-
-    <cfinclude template="_/cfm/footer.cfm"></cfinclude>
+        <cfinclude template="_/cfm/footer.cfm"></cfinclude>
 
 
 
-    <!-- Bootstrap core JavaScript
+        <!-- Bootstrap core JavaScript
     ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscript.js"></script>
-    <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
-    <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="_/js/bootstrap.js"></script>
+        <script src="_/js/myscript.js"></script>
+        <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
+        <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 
 
 </body>
