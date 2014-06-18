@@ -1,19 +1,70 @@
 //
-// Carousel
+// my carousel edits
 // --------------------------------------------------
 
-// move up under nav
-
-.carousel {
-  margin-top: 0px;
-}
-// force max-height of carousel to 400
 
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  max-height:400px;
+  max-height:240px;  //set new height
   width: 100%;
-  margin-bottom:20px;
+  margin-bottom:20px; //give bottom margin
+}
+
+  .carousel-indicators {
+    bottom: 0px; //move idicator dots down
+  }
+
+  .carousel-control {
+    .glyphicon-chevron-left,
+    .glyphicon-chevron-right,
+    .icon-prev,
+    .icon-next {
+      width: 20px;  // reduce all - 30>20 and 15>10
+      height: 20px;
+      margin-top: -10px;
+      margin-left: -10px;
+      font-size: 20px;
+    }
+  }
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  margin-left: -30%;
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    width:  8px; //reduced 10>8
+    height: 8px;
+    margin: 1px;
+    text-indent: -999px;
+    border: 1px solid @carousel-indicator-border-color;
+    border-radius: 0px; // reduced 10>0 -make square indicators
+    cursor: pointer;
+
+    // IE8-9 hack for event handling
+    //
+    // Internet Explorer 8-9 does not support clicks on elements without a set
+    // `background-color`. We cannot use `filter` since that's not viewed as a
+    // background color by the browser. Thus, a hack is needed.
+    //
+    // For IE8, we set solid black as it doesn't support `rgba()`. For IE9, we
+    // set alpha transparency for the best results possible.
+    background-color: #000 \9; // IE8
+    background-color: rgba(0,0,0,0); // IE9
+  }
+  .active {
+    margin: 0;
+    width:  10px; //reduced 12>10
+    height: 10px;
+    background-color: @carousel-indicator-active-bg;
+  }
 }
 
