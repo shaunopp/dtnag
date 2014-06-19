@@ -1,0 +1,3 @@
+<article class="dtnoverview">
+        <p>DTN/The Progressive Farmer is revolutionizing the agriculture industry with its game-changing agricultural information solutions and market intelligence that enable customers to actively and effectively manage their businesses. Our insightful, independent content along with proprietary business management tools and in-depth market analysis empower better decision making from today&rsquo;s forward-looking agricultural producers, agribusiness leaders and commodity market traders.</p>
+</article>

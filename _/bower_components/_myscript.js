@@ -18,7 +18,6 @@ $(function() {
     }); //hover
 
     // show modals
-
     $('.modalphotos img').on('click', function() {
         $('#modal').modal({
             show: true,
@@ -31,5 +30,8 @@ $(function() {
             /* Act on the event */
         });
     });
+
+    //tooltip toggle
+    $('[data-toggle="tooltip"]').tooltip({'placement': 'bottom'});
 
 }); //jquery is loaded

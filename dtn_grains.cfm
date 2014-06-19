@@ -26,24 +26,21 @@
 </head>
 
 <body id="producer" role="document">
-    <cfinclude template="_/cfm/navbar.cfm"></cfinclude>
+    <cfinclude template="_/cfm/header.cfm"></cfinclude>
 
     <div class="container" role="main">
         <div class="row">
             <div class="col-md-8">
-                <h1>DTN Grains
-                    <span style="font-size:14px;position:relative;bottom:20px">®</span>
+                <h1>DTN Grains<span style="font-size:14px;position:relative;bottom:20px">&reg;</span>
                 </h1>
                 <h2 style="margin-top:-10px">Become more profitable and efficient</h2>
                 <div>
                     <iframe allowfullscreen="" src="http://player.vimeo.com/video/81413871" frameborder="0" width="100%" height="420"></iframe>
-                </div><!-- video -->
+                </div>
+                <!-- video -->
 
                 <h3>Overview</h3>
-                <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat.  </h4>
+                <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
                 <ul>
 
                     <li>
@@ -77,7 +74,9 @@
                     <strong>Call&nbsp;800.511.0095 to learn more.</strong>
                 </p>
                 <a href="#" class="btn btn-dtnblue btn-lg" role="button">Take a Free 14-day Trial <i class="fa fa-cog"></i></a>
-                <a href="#" class="btn btn-dtnblue btn-lg" role="button">Download a Brochure <span class="glyphicon glyphicon-file"></span></a> <br><br>
+                <a href="#" class="btn btn-dtnblue btn-lg" role="button">Download a Brochure <span class="glyphicon glyphicon-file"></span></a> 
+                <br>
+                <br>
 
             </div>
             <div class="col-sm-4">

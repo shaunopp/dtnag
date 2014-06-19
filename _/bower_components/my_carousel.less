@@ -41,12 +41,12 @@
 
   li {
     display: inline-block;
-    width:  8px; //reduced 10>8
-    height: 8px;
-    margin: 1px;
+    width:  10px;
+    height: 10px;
+    margin: 0px; // reduced to 0
     text-indent: -999px;
     border: 1px solid @carousel-indicator-border-color;
-    border-radius: 0px; // reduced 10>0 -make square indicators
+    border-radius: 10px; 
     cursor: pointer;
 
     // IE8-9 hack for event handling
@@ -62,7 +62,7 @@
   }
   .active {
     margin: 0;
-    width:  10px; //reduced 12>10
+    width:  10px; //reduced 12>10 
     height: 10px;
     background-color: @carousel-indicator-active-bg;
   }
