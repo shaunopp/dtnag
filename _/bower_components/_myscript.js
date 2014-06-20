@@ -34,4 +34,22 @@ $(function() {
     //tooltip toggle
     $('[data-toggle="tooltip"]').tooltip({'placement': 'bottom'});
 
+    // //accordian 'see more' 'see less'
+    //     $(document).ready(function () {
+    //     $("#morebtn").click(function () {
+    //         $(this).text($(this).text() == "See more " ? "See less " : "See more ");
+    //     });
+    // });
+
+jQuery(function ($) {
+
+    $('#swap').on('click', function () {
+        var $el = $(this),
+            textNode = this.firstChild;
+        $el.find('i').toggleClass('fa-angle-down fa-angle-up');
+        textNode.nodeValue = '' + ($el.hasClass('showArchieved') ? 'less ' : 'more ');
+        $el.toggleClass('showArchieved');
+    });
+});
+
 }); //jquery is loaded

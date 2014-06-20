@@ -1,14 +1,77 @@
+// top trial button
+
+// .top-trial {
+//   margin: 10px 0px 20px 0px;
+// }
+
+
+// fontawesome list items 
+ul.fa-ul { list-style-type: none; }
+.fa-li { 
+  top: 5px; 
+  color: @brand-dtnorange;
+  font-size: 18px;
+}
+
+.fa-ul li {
+  margin-bottom:10px;
+}
+
+ul.fa-ul {
+  margin-top:-20px;
+  margin-bottom:20px;
+}
+
+// media edits
+
+.media {
+  margin-top:20px;
+}
+.media h2 {
+  margin-top:0px;
+}
+
+// producer circle photo position
+.spotlight {
+  margin-right:40px;
+  margin-left:40px;
+  border:10px solid lightgray;
+  position:relative;
+  top:-20px
+}
+
+
+// footer - make social icons blue and smaller
+footer .fa-stack-1x {
+  color:@brand-dtnblue;
+}
+
+footer .fa-stack {
+  font-size: 12px;
+}
+
+
+
+// static masthead margin
 
 .mast {
   margin-bottom: 10px;
 }
 
-.producer-grid i {
-margin-top:10px;
-padding-right: 20px;
-font-size:35px;
-color: lightgray;
+
+// smaller labels
+
+.label {
+  font-size:50%;
+  position:relative;
+  top:-3px;
 }
+
+// sup/sub edit
+
+sup {vertical-align: baseline; position: relative; font-size: 50%;} /* 70% size of its parent element font-size which is good. */
+sub {bottom: -0.9em;} /* use em becasue they adapt to parent font-size */
+sup {top: -0.9em;} /* use em because they adapt to parent font-size */
 
 
 // paragraph margin-top
@@ -79,20 +142,8 @@ h1.bluelinetan {
 	z-index: -3;
 }
 
-//
-// fontawesome edits
-// --------------------------------------------------
 
-.list-group i.red-pdf {
-  color:red;
-  padding-right:10px;
-}
-
-.list-group-item i.bluelarge {
-  color:@brand-dtnblue;
-  padding-right:20px;
-  font-size:32px;
-}
+// tab icons for news and events tabs
 
 i.blue-tab-icon {
   color:@brand-dtnblue;
@@ -100,25 +151,6 @@ i.blue-tab-icon {
   font-size:24px;
 }
 
-
-.btn i {
-}
-
-//
-// List groups edits
-// --------------------------------------------------
-
-.list-group {
-  border-radius: @border-radius-base;
-  .box-shadow(0 1px 2px rgba(0,0,0,.075));
-}
-.list-group-item.active,
-.list-group-item.active:hover,
-.list-group-item.active:focus {
-  text-shadow: 0 -1px 0 darken(@list-group-active-bg, 10%);
-  #gradient > .vertical(@start-color: @list-group-active-bg; @end-color: darken(@list-group-active-bg, 7.5%));
-  border-color: darken(@list-group-active-border, 7.5%);
-}
 
 //
 // navbar logo fix - vertically centers logo in navbar

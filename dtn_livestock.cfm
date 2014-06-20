@@ -33,23 +33,23 @@
             <div class="col-md-8">
 
 
-                <h1>DTN Grains<sup>&trade;</sup>
+                <h1>DTN Livestock<sup>&trade;</sup>
                 </h1>
-                <img class="img-circle pull-right spotlight img-responsive" src="images/producer_grid/grains_tn.jpg" alt="haybale photo" height="170px" width="170px">
-                <h2 style="margin-top:-10px">Become more profitable and efficient</h2>
-                <p>DTN Grains provides growers of corn, soybeans, and wheat with market-specific information, real-time field-level weather conditions and forecasts, and award-winning farm business news. With it, you can earn better prices for your crops, spend less on inputs, and manage key business issues and weather-related challenges. With it you can:</p>
-
+                <img class="img-circle pull-right spotlight img-responsive" src="images/producer_grid/livestock_tn.jpg" alt="haybale photo" height="170px" width="170px">
+                <h2 style="margin-top:-10px">A complete livestock business and operations solution</h2>
+                <p>DTN Livestock gives you access to cattle and swine-specific market information, real-time operational weather tools, and award-winning, unique farm business news to help you earn better prices for your livestock, spend less on replacements and inputs, and manage key business issues and weather-related challenges. With it you can:</p>
+<br>
                 <div class="row">
                     <div class="col-md-8">
                         <ul class="fa-ul">
                             <li><i class="fa-li fa fa-check-square-o"></i>
-                                <strong>Improve hedging</strong> by aggregating futures and options with a current cash grain position to determine your net position</li>
+                                <strong>Protect your cattle from extreme heat and cold</strong> with our easy-to-read, color-coded cattle stress index forecasts and alerts</li>
                             <li><i class="fa-li fa fa-check-square-o"></i>
-                                <strong>Save time and money</strong> by staying on top of fast-moving markets and responding quickly</li>
+                                <strong>Improve the quality of your hay and haylage</strong> by knowing your optimal three-day production window</li>
                             <li><i class="fa-li fa fa-check-square-o"></i>
-                                <strong>Avoid costly mistakes</strong> with custom recommendations for preparing tank mixes — ensuring compatibility and performance</li>
+                                <strong>Increase your profits</strong> with unbiased, easy to follow livestock and feedstuffs market recommendations and daily analysis</li>
                             <li><i class="fa-li fa fa-check-square-o"></i>
-                                <strong>Improve pesticide timing</strong> with field-specific corn growth projections to protect and maximize yields</li>
+                                <strong>Spend less on replacement stock</strong> with extensive information on cattle prices and auctions locations for your area </li>
                         </ul>
                     </div>
                 </div>

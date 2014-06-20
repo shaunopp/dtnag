@@ -26,8 +26,8 @@
 </head>
 
 <body id="contact" role="document">
-    <cfinclude template="_/cfm/navbar.cfm"></cfinclude>
-    <cfinclude template="_/cfm/carousel_1.cfm"></cfinclude>
+    <cfinclude template="_/cfm/header.cfm"></cfinclude>
+    <cfinclude template="_/cfm/snippet_carousel.cfm"></cfinclude>
     <!--- carousel --->
 
     <div class="container theme-showcase" role="main">

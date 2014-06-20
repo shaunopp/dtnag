@@ -27,7 +27,7 @@
                             <li class="dropdown-header">DTN Online</li>
                             <li><a href="dtn_grains.cfm">DTN Grains</a>
                             </li>
-                            <li><a href="#">DTN Livestock</a>
+                            <li><a href="dtn_livestock.cfm">DTN Livestock</a>
                             </li>
                             <li><a href="#">DTN Dairy</a>
                             </li>
@@ -89,7 +89,7 @@
                         </ul>
                     </li>
                     <!--- agribusiness --->
-                    <li><a href="trading.cfm">Trading</a>
+                    <li><a href="http://www.dtn.com/trading" target="_blank">Trading</a>
                     </li>
                     <!--- trading --->
                     <li><a href="advertising.cfm">Advertising</a>
@@ -104,24 +104,24 @@
         <div class="container">
             <ol class="breadcrumb pull-right">
                 <li>
-                    <a href="#">
+                    <a href="http://www.dtnprogressivefarmer.com/go/twitter" target="_blank">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i>  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="#">
+                    <a href="http://www.facebook.com/dtnprogressivefarmer" target="_blank">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i>  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="#">
-                        <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i>  <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    <a href="http://www.youtube.com/dtnprogressivefarmer" target="_blank">
+                        <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i>  <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="#">
+                    <a href="http://www.dtnprogressivefarmer.com/go/linkedin" target="_blank">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i>  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
                 </li>
-                <li class="active"><a href="news.cfm">News & Events</a>
+                <li class="active"><a href="news_and_events.cfm">News & Events</a>
                 </li>
                 <li><a href="subscribe.cfm">Subscribe</a>
                 </li>

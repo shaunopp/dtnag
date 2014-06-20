@@ -26,13 +26,13 @@
 </head>
 
 <body id="home" role="document">
-    <cfinclude template="_/cfm/navbar.cfm"></cfinclude>
+    <cfinclude template="_/cfm/header.cfm"></cfinclude>
     <!--- navbar --->
 
 
     <div class="container" role="main">
         <div class="row">
-            <cfinclude template="_/cfm/carousel_1.cfm"></cfinclude>
+            <cfinclude template="_/cfm/snippet_carousel.cfm"></cfinclude>
             <!--- carousel --->
 
 
@@ -174,7 +174,7 @@
             </div>
             
             <div class="col-md-12">
-                <cfinclude template="_/cfm/news_tabs.cfm"></cfinclude>
+                <cfinclude template="_/cfm/snippet_news_tabs.cfm"></cfinclude>
             </div>
         </div>
     </div>
