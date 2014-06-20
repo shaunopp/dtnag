@@ -23,7 +23,7 @@ $(function() {
             show: true,
         })
 
-        var mysrc = this.src.substr(0, this.src.length-7) + '.jpg';
+        var mysrc = this.src.substr(0, this.src.length - 7) + '.jpg';
         $('#modalimage').attr('src', mysrc);
         $('#modalimage').on('click', function() {
             $('#modal').modal('hide');
@@ -32,24 +32,32 @@ $(function() {
     });
 
     //tooltip toggle
-    $('[data-toggle="tooltip"]').tooltip({'placement': 'bottom'});
-
-    // //accordian 'see more' 'see less'
-    //     $(document).ready(function () {
-    //     $("#morebtn").click(function () {
-    //         $(this).text($(this).text() == "See more " ? "See less " : "See more ");
-    //     });
-    // });
-
-jQuery(function ($) {
-
-    $('#swap').on('click', function () {
-        var $el = $(this),
-            textNode = this.firstChild;
-        $el.find('i').toggleClass('fa-angle-down fa-angle-up');
-        textNode.nodeValue = '' + ($el.hasClass('showArchieved') ? 'less ' : 'more ');
-        $el.toggleClass('showArchieved');
+    $('[data-toggle="tooltip"]').tooltip({
+        'placement': 'bottom'
     });
-});
+
+
+    // swap more/less text in resources accordian
+    jQuery(function($) {
+
+        $('#swap_cs').on('click', function() {
+            var $el = $(this),
+                textNode = this.firstChild;
+            $el.find('i').toggleClass('fa-angle-down fa-angle-up');
+            textNode.nodeValue = '' + ($el.hasClass('showArchieved') ? 'less ' : 'more ');
+            $el.toggleClass('showArchieved');
+        });
+    });
+
+    jQuery(function($) {
+
+        $('#swap_vids').on('click', function() {
+            var $el = $(this),
+                textNode = this.firstChild;
+            $el.find('i').toggleClass('fa-angle-down fa-angle-up');
+            textNode.nodeValue = '' + ($el.hasClass('showArchieved') ? 'less ' : 'more ');
+            $el.toggleClass('showArchieved');
+        });
+    });
 
 }); //jquery is loaded
