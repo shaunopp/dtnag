@@ -15,19 +15,19 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="index.cfm">
-                    <img class="dtnlogo" src="images/dtnpf_logo_nav.png" alt="DTN The Progressive Farmer Logo" width="160" height="50">
+                    <img class="dtnlogo" src="/ag/images/dtnpf_logo_nav.png" alt="DTN The Progressive Farmer Logo" width="160" height="50">
                 </a>
             </div>
             <!--- branding --->
             <div class="navbar-collapse collapse pull-right">
                 <ul class="nav navbar-nav">
                     <li class="dropdown">
-                        <a href="producer.cfm">Producer <b class="caret"></b></a>
+                        <a href="/ag/producer.cfm">Producer <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header">DTN Online</li>
-                            <li><a href="dtn_grains.cfm">DTN Grains</a>
+                            <li><a href="/ag/producer/grains/index.cfm">DTN Grains</a>
                             </li>
-                            <li><a href="dtn_livestock.cfm">DTN Livestock</a>
+                            <li><a href="/ag/producer/livestock/index.cfm">DTN Livestock</a>
                             </li>
                             <li><a href="#">DTN Dairy</a>
                             </li>

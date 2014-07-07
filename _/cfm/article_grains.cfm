@@ -1,7 +1,7 @@
 <article>
     <div class="row">
     <h1>DTN Grains<sup>&trade;</sup></h1>
-    <img class="img-circle pull-right spotlight img-responsive" src="images/producer_grid/grains_tn.jpg" alt="haybale photo" height="170px" width="170px">
+    <img class="img-circle pull-right spotlight img-responsive" src="/ag/images/producer_products/grains_tn.jpg" alt="haybale photo" height="170px" width="170px">
     <h2 style="margin-top:-10px">Become more profitable and efficient</h2>
     <p>DTN Grains provides growers of corn, soybeans, and wheat with market-specific information, real-time field-level weather conditions and forecasts, and award-winning farm business news. With it, you can earn better prices for your crops, spend less on inputs, and manage key business issues and weather-related challenges. With it you can:</p>
     <div class="row">

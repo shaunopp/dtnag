@@ -2,7 +2,7 @@
     <div class="list-group css3-shadow">
         <a href="#" class="list-group-item active">Video</a>
         <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
-            <img src="images/video_preview.jpg" class="img-responsive" alt="">
+            <img src="/ag/images/video_preview.jpg" class="img-responsive" alt="">
             <!--- <iframe allowfullscreen="" src="http://player.vimeo.com/video/81413871" frameborder="0" width="100%" height="100%"></iframe> --->
         </a>
         <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

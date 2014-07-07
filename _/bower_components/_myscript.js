@@ -60,4 +60,13 @@ $(function() {
         });
     });
 
+    // auto-size modal boxes -- solution here: http://stackoverflow.com/questions/16152275/how-to-resize-twitter-bootstrap-modal-dynamically-based-on-the-content
+    // $('#modal').on('show', function() {
+    //     $('.modal-body', this).css({
+    //         width: 'auto',
+    //         height: 'auto',
+    //         'max-height': '100%'
+    //     });
+    // });
+
 }); //jquery is loaded

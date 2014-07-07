@@ -7,7 +7,7 @@
     <div class="col-md-4">
         <div class="media">
             <a class="pull-left" href="#">
-                <img class="media-object img-circle" src="images/producer_grid/agweatherstation_tn.jpg" alt="haybale photo">
+                <img class="media-object img-circle" src="/ag/images/producer_products/agweatherstation_tn.jpg" alt="haybale photo">
             </a>
             <div class="media-body">
                 <h4 class="media-heading">DTN Ag Weather Station
@@ -21,7 +21,7 @@
     <div class="col-md-4">
         <div class="media">
             <a class="pull-left" href="#">
-                <img class="media-object img-circle" src="images/producer_grid/livestock_tn.jpg" alt="haybale photo">
+                <img class="media-object img-circle" src="/ag/images/producer_products/livestock_tn.jpg" alt="haybale photo">
             </a>
             <div class="media-body">
                 <h4 class="media-heading">DTN Livestock<sup>&reg;</sup>
@@ -34,7 +34,7 @@
     <div class="col-md-4">
         <div class="media">
             <a class="pull-left" href="#">
-                <img class="media-object img-circle" src="images/producer_grid/southerncrops_tn.jpg" alt="haybale photo">
+                <img class="media-object img-circle" src="/ag/images/producer_products/southerncrops_tn.jpg" alt="haybale photo">
             </a>
             <div class="media-body">
                 <h4 class="media-heading">DTN Southern Crops<sup>&reg;</sup>

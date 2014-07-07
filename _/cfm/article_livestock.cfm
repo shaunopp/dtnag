@@ -2,7 +2,7 @@
     <div class="row">
         <h1>DTN Livestock<sup>&trade;</sup>
         </h1>
-        <img class="img-circle pull-right spotlight img-responsive" src="images/producer_grid/livestock_tn.jpg" alt="haybale photo" height="170px" width="170px">
+        <img class="img-circle pull-right spotlight img-responsive" src="/ag/images/producer_products/livestock_tn.jpg" alt="haybale photo" height="170px" width="170px">
         <h2 style="margin-top:-10px">A complete livestock business and operations solution</h2>
         <p>DTN Livestock gives you access to cattle and swine-specific market information, real-time operational weather tools, and award-winning, unique farm business news to help you earn better prices for your livestock, spend less on replacements and inputs, and manage key business issues and weather-related challenges. With it you can:</p>
     </div>

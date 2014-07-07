@@ -12,8 +12,8 @@
     <title>DTN The Progressive Farmer</title>
 
     <!-- core CSS: Bootstrap + customs -->
-    <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link href="_/css/mystyles.css" rel="stylesheet">
+    <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
+    <link href="/ag/_/css/mystyles.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -26,16 +26,16 @@
 </head>
 
 <body id="producer" role="document">
-    <cfinclude template="_/cfm/header.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
 
     <section class="container producer-grid" role="main">
-        <img class="mast img-responsive img-rounded" src="images/mast_producer.jpg">
+        <img class="mast img-responsive img-rounded" src="/ag/images/mast_producer.jpg">
 
         <div class="row">
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/grains_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/grains_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Grains<sup>&trade;</sup>
@@ -49,7 +49,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/livestock_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/livestock_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Livestock<sup>&reg;</sup>
@@ -62,7 +62,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/dairy_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/dairy_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Dairy<sup>&reg;</sup>
@@ -75,7 +75,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/northerngrains_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/northerngrains_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Northern Grains<sup>&reg;</sup> 
@@ -91,7 +91,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/canada_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/canada_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Canada<sup>&reg;</sup>
@@ -104,7 +104,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/agweatherstation_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/agweatherstation_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Ag Weather Station
@@ -118,7 +118,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/agweatherexpert_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/agweatherexpert_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Ag Weather Expert</h4>
@@ -130,7 +130,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/agessential_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/agessential_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">Ag Essential<sup>&trade;</sup> 
@@ -147,7 +147,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/mobile_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/mobile_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Mobile<sup>&reg;</sup>
@@ -160,7 +160,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/sixfactors_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/sixfactors_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Six Factors<sup>&reg;</sup>
@@ -173,7 +173,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/mobileforipad_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/mobileforipad_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
@@ -186,7 +186,7 @@
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="images/producer_grid/premiumservices_tn.jpg" alt="haybale photo">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/premiumservices_tn.jpg" alt="haybale photo">
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">DTN Premium Services</h4>
@@ -198,6 +198,21 @@
         </div>
         <!--- third row --->
         <div class="row">
+            <div class="col-md-3">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                        <img class="media-object img-circle" src="/ag/images/producer_products/southerncrops_tn.jpg" alt="haybale photo">
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">DTN Southern Crops<sup>&reg;</sup>
+                        </h4>
+                        <p>Region-specific business and operational information for Southern United States producers 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
@@ -208,7 +223,7 @@
                             <div class="col-md-6">
                                 <div class="media">
                                     <a class="pull-left" href="#">
-                                        <img class="media-object img-circle" src="images/producer_grid/app_tn.jpg" alt="haybale photo">
+                                        <img class="media-object img-circle" src="/ag/images/producer_products/app_tn.jpg" alt="haybale photo">
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">Ag Weather Tools App</h4>
@@ -220,7 +235,7 @@
                             <div class="col-md-6">
                                 <div class="media">
                                     <a class="pull-left" href="#">
-                                        <img class="media-object img-circle" src="images/producer_grid/app_tn.jpg" alt="haybale photo">
+                                        <img class="media-object img-circle" src="/ag/images/producer_products/app_tn.jpg" alt="haybale photo">
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">DTN Market Strategies App</h4>
@@ -234,7 +249,7 @@
                             <div class="col-md-6">
                                 <div class="media">
                                     <a class="pull-left" href="#">
-                                        <img class="media-object img-circle" src="images/producer_grid/app_tn.jpg" alt="haybale photo">
+                                        <img class="media-object img-circle" src="/ag/images/producer_products/app_tn.jpg" alt="haybale photo">
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">DTN Ag iPad<sup>&reg;</sup> App</h4>
@@ -260,8 +275,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscript.js"></script>
+    <script src="/ag/_/js/bootstrap.js"></script>
+    <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 

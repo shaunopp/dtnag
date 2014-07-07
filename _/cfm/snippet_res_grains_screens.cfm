@@ -1,40 +1,40 @@
 <a href="#" class="list-group-item bg-gray">Screenshots</a>
         <div class="list-group-item pull-center screenshots">
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
             <a href="#" class="" data-toggle="modal" data-target="#myModal2">
-                <img src="images/haybales_tn.jpg" height="52px" width="52px">
+                <img src="/ag/images/haybales_tn.jpg" height="52px" width="52px">
             </a>
         </div>
         <!--- screenshot thumbnails --->
@@ -47,7 +47,7 @@
                         <h4 class="modal-title" id="myModalLabel">Modal title</h4>
                     </div>
                     <div class="modal-body">
-                        <img class="img-responsive" src="images/haybales.jpg">
+                        <img class="img-responsive" src="/ag/images/haybales.jpg">
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
