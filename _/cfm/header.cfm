@@ -22,7 +22,7 @@
             <div class="navbar-collapse collapse pull-right">
                 <ul class="nav navbar-nav">
                     <li class="dropdown">
-                        <a href="/ag/producer.cfm">Producer <b class="caret"></b></a>
+                        <a href="/ag/producer/index.cfm">Producer <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header">DTN Online</li>
                             <li><a href="/ag/producer/grains/index.cfm">DTN Grains</a>
@@ -64,7 +64,7 @@
                     </li>
                     <!--- producer --->
                     <li class="dropdown">
-                        <a href="agribusiness.cfm">Agribusiness <b class="caret"></b></a>
+                        <a href="/ag/agribusiness.cfm">Agribusiness <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">DTN Ag Host</a>
                             </li>
@@ -92,7 +92,7 @@
                     <li><a href="http://www.dtn.com/trading" target="_blank">Trading</a>
                     </li>
                     <!--- trading --->
-                    <li><a href="advertising.cfm">Advertising</a>
+                    <li><a href="/ag/advertising.cfm">Advertising</a>
                     </li>
                     <!--- advertising --->
                 </ul>

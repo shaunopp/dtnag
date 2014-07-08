@@ -13,7 +13,6 @@
 
     <!-- core CSS: Bootstrap + customs -->
     <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link href="_/css/mystyles.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->

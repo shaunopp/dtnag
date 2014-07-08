@@ -13,7 +13,6 @@
 
     <!-- core CSS: Bootstrap + customs -->
     <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
-    <link href="/ag/_/css/mystyles.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -30,7 +29,7 @@
 
     <section class="container" role="main">
         <div class="row">
-            <section class="col-md-8">
+            <section class="col-md-8 embed-responsive">
                 <cfinclude template="/ag/_/cfm/article_grains.cfm">
                 <cfinclude  template="/ag/_/cfm/snippet_grains_related.cfm">
             </section>

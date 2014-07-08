@@ -12,8 +12,8 @@
     <title>DTN The Progressive Farmer</title>
 
     <!-- core CSS: Bootstrap + customs -->
-    <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link href="_/css/mystyles.css" rel="stylesheet">
+    <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
+    <link href="/ag/_/css/mystyles.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -27,7 +27,7 @@
 
 <body id="home" role="document">
 
-    <cfinclude template="_/cfm/header.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
     <!--- header --->
 
     <section class="container" role="main">
@@ -35,7 +35,7 @@
             <section class="container hidden-xs">
                 <div class="row">
                     <div class="col-md-12">
-                        <cfinclude template="_/cfm/snippet_carousel.cfm"></cfinclude>
+                        <cfinclude template="/ag/_/cfm/snippet_carousel.cfm"></cfinclude>
                     </div>
                 </div>
             </section>
@@ -45,49 +45,49 @@
                 <div class="row">
                     <!--- nested columns --->
                     <div class="col-md-12">
-                        <cfinclude template="_/cfm/article_dtn_overview.cfm">
+                        <cfinclude template="/ag/_/cfm/article_dtn_overview.cfm">
                     </div>
                     <div class="col-md-6">
-                        <cfinclude template="_/cfm/article_producer_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/article_producer_teaser.cfm">
                     </div>
                     <div class="col-md-6">
-                        <cfinclude template="_/cfm/article_agbiz_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/article_agbiz_teaser.cfm">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <cfinclude template="_/cfm/article_trading_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/article_trading_teaser.cfm">
                     </div>
                     <div class="col-md-6">
-                        <cfinclude template="_/cfm/article_advert_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/article_advert_teaser.cfm">
                     </div>
                 </div>
             </section>
             <!--- main --->
 
             <section class="col-sm-4">
-                <cfinclude template="_/cfm/aside_video.cfm">
-                <cfinclude template="_/cfm/aside_contact.cfm">
+                <cfinclude template="/ag/_/cfm/aside_video.cfm">
+                <cfinclude template="/ag/_/cfm/aside_contact.cfm">
             </section>
             <!--- sidebar --->
 
             <section class="col-md-12">
-                <cfinclude template="_/cfm/snippet_news_tabs.cfm"></cfinclude>
+                <cfinclude template="/ag/_/cfm/snippet_news_tabs.cfm"></cfinclude>
             </section>
             <!--- news and events --->
         </div>
     </section>
     <!-- /container -->
 
-    <cfinclude template="_/cfm/footer.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/footer.cfm"></cfinclude>
 
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscript.js"></script>
+    <script src="/ag/_/js/bootstrap.js"></script>
+    <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 

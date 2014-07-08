@@ -15,7 +15,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row"> <!--- nested row/cols instead of bs media class --->                                           
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -26,7 +26,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -37,7 +37,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -48,7 +48,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -59,7 +59,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -70,7 +70,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -81,7 +81,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -92,7 +92,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -103,7 +103,7 @@
     <a href="#" class="list-group-item" data-toggle="modal" data-target="#myModal3">
         <div class="row">
             <div class="col-md-5 pull-left">
-                <img src="images/producer_products/video_tn.jpg" height="72px" width="128px">
+                <img src="/ag/images/producer_products/video_tn.jpg" height="72px" width="128px">
             </div>
             <div class="col-md-7">
                 <!--- <h4 class="list-group-item-heading">Heading</h4> --->
@@ -127,26 +127,26 @@
 <script src="/_/scripts/swfobject_modified.js" type="text/javascript"></script>
 
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="600" height="440" id="FLVPlayer">
-          <param name="movie" value="/_/video/FLVPlayer_Progressive.swf" />
+          <param name="movie" value="/ag/_/video/FLVPlayer_Progressive.swf" />
           <param name="quality" value="high" />
           <param name="wmode" value="opaque" />
           <param name="scale" value="noscale" />
           <param name="salign" value="lt" />
-          <param name="FlashVars" value="&amp;MM_ComponentVersion=1&amp;skinName=/_/video/Corona_Skin_3&amp;streamName=/_/video/Measurement_and_Currency_Preferences&amp;autoPlay=true&amp;autoRewind=true" />
+          <param name="FlashVars" value="&amp;MM_ComponentVersion=1&amp;skinName=/ag/_/video/Corona_Skin_3&amp;streamName=/ag/_/video/Measurement_and_Currency_Preferences&amp;autoPlay=true&amp;autoRewind=true" />
           <param name="swfversion" value="8,0,0,0" />
           <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
           <param name="expressinstall" value="/_/video/expressInstall.swf" />
           <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
           <!--[if !IE]>-->
-          <object type="application/x-shockwave-flash" data="/_/video/FLVPlayer_Progressive.swf" width="640" height="480">
+          <object type="application/x-shockwave-flash" data="/ag/_/video/FLVPlayer_Progressive.swf" width="640" height="480">
                 <!--<![endif]-->
                 <param name="quality" value="high" />
                 <param name="wmode" value="opaque" />
                 <param name="scale" value="noscale" />
                 <param name="salign" value="lt" />
-                <param name="FlashVars" value="&amp;MM_ComponentVersion=1&amp;skinName=/_/video/Corona_Skin_3&amp;streamName=/_/video/Measurement_and_Currency_Preferences&amp;autoPlay=true&amp;autoRewind=true" />
+                <param name="FlashVars" value="&amp;MM_ComponentVersion=1&amp;skinName=/ag/_/video/Corona_Skin_3&amp;streamName=/ag/_/video/Measurement_and_Currency_Preferences&amp;autoPlay=true&amp;autoRewind=true" />
                 <param name="swfversion" value="8,0,0,0" />
-                <param name="expressinstall" value="/_/video/expressInstall.swf" />
+                <param name="expressinstall" value="/ag/_/video/expressInstall.swf" />
                 <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
                 <div>
                       <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>

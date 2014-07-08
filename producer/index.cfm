@@ -13,7 +13,6 @@
 
     <!-- core CSS: Bootstrap + customs -->
     <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
-    <link href="/ag/_/css/mystyles.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -32,75 +31,54 @@
         <img class="mast img-responsive img-rounded" src="/ag/images/mast_producer.jpg">
 
         <div class="row">
-            <div class="col-md-3">
-                <div class="media">
-                    <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="/ag/images/producer_products/grains_tn.jpg" alt="haybale photo">
-                    </a>
-                    <div class="media-body">
-                        <h4 class="media-heading">DTN Grains<sup>&trade;</sup>
-                        </h4>
-                        <p>Become more profitable and efficient.
-                        </p>
-                    </div>
-                    <p></p>
-                </div>
+            <div class="col-xs-3">
+                <a href="/ag/producer/grains/index.cfm" class="list-group-item">
+                        <img class="pull-left img-circle img-responsive" src="/ag/images/producer_products/grains_tn.jpg" alt="haybale photo" >
+                        <h4>DTN Grains<sup>&trade;</sup></h4>
+                        <p>Become more profitable and efficient.</p>
+                </a>
             </div>
-            <div class="col-md-3">
-                <div class="media">
-                    <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="/ag/images/producer_products/livestock_tn.jpg" alt="haybale photo">
-                    </a>
-                    <div class="media-body">
-                        <h4 class="media-heading">DTN Livestock<sup>&reg;</sup>
-                        </h4>
-                        <p>A complete livestock business and operations solution.
-                        </p>
-                    </div>
-                </div>
+            <div class="col-xs-3">
+                <a href="#" class="list-group-item">
+                        <img class="pull-left img-circle img-responsive" src="/ag/images/producer_products/livestock_tn.jpg" alt="haybale photo" >
+                        <h4>DTN Livestock<sup>&trade;</sup></h4>
+                        <p>A complete livestock business and operations solution.</p>
+                </a>
             </div>
-            <div class="col-md-3">
-                <div class="media">
-                    <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="/ag/images/producer_products/dairy_tn.jpg" alt="haybale photo">
-                    </a>
-                    <div class="media-body">
-                        <h4 class="media-heading">DTN Dairy<sup>&reg;</sup>
-                        </h4>
-                        <p>A complete dairy business and operational solution
-                        </p>
-                    </div>
-                </div>
+            <div class="col-xs-3">
+                <a href="#" class="list-group-item">
+                        <img class="pull-left img-circle img-responsive" src="/ag/images/producer_products/dairy_tn.jpg" alt="haybale photo" >
+                        <h4>DTN Dairy<sup>&reg;</sup></h4>
+                        <p>A complete dairy business and operational solution</p>
+                </a>
             </div>
-            <div class="col-md-3">
-                <div class="media">
-                    <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="/ag/images/producer_products/northerngrains_tn.jpg" alt="haybale photo">
-                    </a>
-                    <div class="media-body">
-                        <h4 class="media-heading">DTN Northern Grains<sup>&reg;</sup> 
-                        </h4>
-                        <p>Region-specific business and operational information for Northern Plains producers
-                        </p>
-                    </div>
-                </div>
+            <div class="col-xs-3">
+                <a href="#" class="list-group-item">
+                        <img class="pull-left img-circle img-responsive" src="/ag/images/producer_products/northerngrains_tn.jpg" alt="haybale photo" >
+                        <h4>DTN Northern Grains<sup>&reg;</sup></h4>
+                        <p>Region-specific business and operational information for Northern Plains producers</p>
+                </a>
             </div>
         </div>
         <!--- 1st row --->
         <div class="row well">
-            <div class="col-md-3">
-                <div class="media">
-                    <a class="pull-left" href="#">
-                        <img class="media-object img-circle" src="/ag/images/producer_products/canada_tn.jpg" alt="haybale photo">
-                    </a>
-                    <div class="media-body">
-                        <h4 class="media-heading">DTN Canada<sup>&reg;</sup>
-                        </h4>
-                        <p>Region-specific business and operational information for Canadian producers
-                        </p>
+
+                        <div class="col-md-3">
+                <a href="#" class="list-group-item list-grid">
+                    <div class="row">
+                        <div class="col-md-4">
+                        <img class="img-circle" src="/ag/images/producer_products/canada_tn.jpg" alt="haybale photo" >
+                        </div>
+
+                        <div class="col-md-8">
+                        <h4 class="list-group-item-heading">DTN Canada<sup>&reg;</sup></h4>
+                        <p class="list-group-item-text">Region-specific business and operational information for Canadian producers</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
+
+
             <div class="col-md-3">
                 <div class="media">
                     <a class="pull-left" href="#">
@@ -268,7 +246,7 @@
 
 
 
-    <cfinclude template="_/cfm/footer.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/footer.cfm"></cfinclude>
 
 
 
