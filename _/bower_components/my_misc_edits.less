@@ -1,9 +1,58 @@
-// thumbnail test edit
-a.thumbnail:hover {
-background-color: #f5f5f5;
-text-decoration: none;
-border-color: transparent;
+//
+// Thumbnails - NEW CLASS - .thumbnail-prodgrid - for product grid thumbnails
+// --------------------------------------------------------------------------
+
+
+// Mixin and adjust the regular image class
+.thumbnail-prodgrid {
+  display: block;
+  padding: @thumbnail-padding;
+  margin-bottom: @line-height-computed;
+  line-height: @line-height-base;
+  background-color: @thumbnail-bg;
+  // border: 1px solid @thumbnail-border;
+  border-radius: @thumbnail-border-radius;
+  .transition(all .2s ease-in-out);
+
+  > img,
+  a > img {
+    &:extend(.img-responsive);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  // Add a hover state for linked versions only
+  a&:hover,
+  a&:focus,
+  a&.active {
+    // border-color: @link-color;
+    background-color: #f5f5f5;
+    text-decoration: none;
+  }
+
+  // Image captions
+  .caption {
+    padding: @thumbnail-caption-padding;
+    color: @thumbnail-caption-color;
+  }
 }
+
+.thumbnail-prodgrid h4 {
+  margin:0px;
+  padding-left:10px;
+}
+
+.thumbnail-prodgrid p {
+  margin-bottom:0px;
+}
+
+
+// .thumbnail-prodgrid img {
+//   padding-right:10px;
+// }
+
+// 
+
 
 // Producer page teaser images grid
 // --------------------------------------------------

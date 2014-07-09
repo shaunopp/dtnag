@@ -51,8 +51,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscript.js"></script>
+    <script src="/ag/_/js/bootstrap.js"></script>
+    <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 
