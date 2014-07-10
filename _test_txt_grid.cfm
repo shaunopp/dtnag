@@ -225,102 +225,95 @@
         </div>
 
     <div class="row">
-        <a href="/ag/producer/grains/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
-            <img src="/ag/images/producer_products/grains_tn.jpg" class="img-circle pull-left img-responsive" alt="grains thumbnail">
-            <div class="caption" class="pull-right">
+        <a href="/ag/producer/grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+            <img src="/ag/images/producer_products/grains_tn.jpg" class="img-circle img-responsive" alt="grains thumbnail">
+            <div class="caption" >
                 <h4>DTN Grains<sup>&reg;</sup></h4>
                 <p>Become more profitable and efficient.</p>
             </div>
         </a>
-        <a href="/ag/producer/livestock/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/livestock/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/livestock_tn.jpg" class="img-circle pull-left img-responsive" alt="livestock thumbnail">
             <div class="caption" class="pull-right">
                 <h4>DTN Livestock<sup>&reg;</sup></h4>
                 <p>A complete livestock business and operations solution.</p>
             </div>
         </a>
-        <a href="/ag/producer/dairy/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/dairy/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/dairy_tn.jpg" alt="dairy thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Dairy<sup>&reg;</sup></h4>
                 <p>A complete dairy business and operational solution</p>
             </div>
         </a>
-        <a href="/ag/producer/northern_grains/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/northern_grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/northerngrains_tn.jpg" alt="northern grains thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Northern Grains<sup>&reg;</sup></h4>
                 <p>Region-specific business and operational information for Northern Plains producers</p>
             </div>
         </a>
-        <a href="/ag/producer/canada/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/canada/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/canada_tn.jpg" alt="canada thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Canada<sup>&reg;</sup></h4>
                 <p>Region-specific business and operational information for Canadian producers</p>
             </div>
         </a>
-        <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/agweatherstation_tn.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Ag Weather Station <span class="label label-primary">New</span></h4>
                 <p>Increase yields and savings with precision weather</p>
             </div>
         </a>
-        <a href="/ag/producer/ag_weather_expert/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/ag_weather_expert/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/agweatherexpert_tn.jpg" alt="ag weather expert thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Ag Weather Expert</h4>
                 <p>Highly localized weather-ony service</p>
             </div>
         </a>
-        <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/agessential_tn.jpg" alt="ag essential thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                         <h4>Ag Essential<sup>&trade;</sup> <span class="label label-primary">New</span></h4>
                         <p>Inventory, financials, margins, and market values – all tied together in one place</p>
             </div>
         </a>
-        <a href="/ag/producer/mobile/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/mobile_tn.jpg" alt="mobile thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Mobile<sup>&reg;</sup></h4>
                 <p>Stay on top of markets, news, and weather wherever you go</p>
             </div>
         </a>
-        <a href="/ag/producer/six_factors/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/six_factors/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/sixfactors_tn.jpg" alt="six factors thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Six Factors<sup>&reg;</sup></h4>
                 <p>Unbiased market insight and advice for better business decisions</p>
             </div>
         </a>
-        <a href="/ag/producer/mobile_for_ipad/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/mobile_for_ipad/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/mobileforipad_tn.jpg" alt="mobile for ipad thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup></h4>
                 <p>Your mobile command center starts here</p>
             </div>
         </a>
-        <a href="/ag/producer/southern_crops/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
+        <a href="/ag/producer/premium_services/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+            <img src="/ag/images/producer_products/premiumservices_tn.jpg" alt="premium services thumbnail" class="img-circle pull-left">
+            <div class="caption" class="pull-right">
+                <h4>Premium Services</h4>
+                <p>Insight above and beyond essential basic market and weather information</p>
+            </div>
+        </a>
+        <a href="/ag/producer/southern_crops/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/southerncrops_tn.jpg" alt="southern crops thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Southern Crops<sup>&reg;</sup></h4>
                 <p>Region-specific business and operational information for Southern United States producers</p>
-            </div>
-        </a>
-        <a href="/ag/producer/premium_services/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
-            <img src="/ag/images/producer_products/premiumservices_tn.jpg" alt="premium services thumbnail" class="img-circle pull-left">
-            <div class="caption" class="pull-right">
-                <h4>Premium Services</h4>
-                <p>Insight above and beyond essential basic market and weather information</p>
-            </div>
-        </a>
-        <a href="/ag/producer/premium_services/index.cfm" class="thumbnail-prodgrid col-md-3 col-xs-12 clearfix">
-            <img src="/ag/images/producer_products/premiumservices_tn.jpg" alt="premium services thumbnail" class="img-circle pull-left">
-            <div class="caption" class="pull-right">
-                <h4>Premium Services</h4>
-                <p>Insight above and beyond essential basic market and weather information</p>
             </div>
         </a>
     </div>
