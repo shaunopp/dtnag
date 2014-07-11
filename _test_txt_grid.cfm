@@ -224,6 +224,8 @@
 
         </div>
 
+ <!--- PROD GRID TEST 2 --->
+
     <div class="row">
         <a href="/ag/producer/grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/grains_tn.jpg" class="img-circle img-responsive" alt="grains thumbnail">

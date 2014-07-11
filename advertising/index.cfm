@@ -7,12 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="/ag/images/favicon.ico">
 
     <title>DTN The Progressive Farmer</title>
 
     <!-- core CSS: Bootstrap + customs -->
-    <link href="_/css/bootstrap.css" rel="stylesheet">
+    <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -24,9 +24,9 @@
     <![endif]-->
 </head>
 
-<body id="newsandevents" role="document">
+<body id="advertising" role="document">
 
-    <cfinclude template="_/cfm/header.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
     <!--- header --->
 
     <section class="container" role="main">
@@ -47,21 +47,21 @@
             <!--- phone --->
 
             <section class="col-md-4">
-                <cfinclude template="_/cfm/aside_contact.cfm">
+                <cfinclude template="/ag/_/cfm/aside_contact.cfm">
             </section>
         </div>
     </section>
     <!-- /container -->
 
-    <cfinclude template="_/cfm/footer.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/footer.cfm"></cfinclude>
 
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscript.js"></script>
+    <script src="/ag/_/js/bootstrap.js"></script>
+    <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 

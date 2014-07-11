@@ -64,7 +64,7 @@
                     </li>
                     <!--- producer --->
                     <li class="dropdown">
-                        <a href="/ag/agribusiness.cfm">Agribusiness <b class="caret"></b></a>
+                        <a href="/ag/agribusiness/index.cfm">Agribusiness <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">DTN Ag Host</a>
                             </li>
@@ -92,7 +92,7 @@
                     <li><a href="http://www.dtn.com/trading" target="_blank">Trading</a>
                     </li>
                     <!--- trading --->
-                    <li><a href="/ag/advertising.cfm">Advertising</a>
+                    <li><a href="/ag/advertising/index.cfm">Advertising</a>
                     </li>
                     <!--- advertising --->
                 </ul>
@@ -121,11 +121,11 @@
                         </span>
                     </a>
                 </li>
-                <li class="active"><a href="news_and_events.cfm">News & Events</a>
+                <li class="active"><a href="/ag/news_and_events/index.cfm">News & Events</a>
                 </li>
-                <li><a href="subscribe.cfm">Subscribe</a>
+                <li><a href="/ag/subscribe/index.cfm">Subscribe</a>
                 </li>
-                <li><a href="contact.cfm">Contact Us</a>
+                <li><a href="/ag/contact/index.cfm">Contact Us</a>
                 </li>
             </ol>
         </div>

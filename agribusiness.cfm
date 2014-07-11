@@ -26,8 +26,8 @@
 </head>
 
 <body id="agribusiness" role="document">
-    <cfinclude template="/ag/_/cfm/navbar.cfm"></cfinclude>
-    <cfinclude template="/ag/_/cfm/carousel_1.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
+    <cfinclude template="/ag/_/cfm/snippet_carousel.cfm"></cfinclude>
    
     <div class="container theme-showcase" role="main">
 
