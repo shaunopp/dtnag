@@ -29,13 +29,13 @@
 
     <section class="container" role="main">
         <div class="row">
-            <section class="col-md-8 embed-responsive">
-                <cfinclude template="/ag/_/cfm/article_grains.cfm">
-                <cfinclude  template="/ag/_/cfm/snippet_grains_related.cfm">
+            <section class="col-md-8">
+                <cfinclude template="/ag/_/cfm/grains/article_grains.cfm">
+                <cfinclude  template="/ag/_/cfm/grains/snippet_grains_related.cfm">
             </section>
             <section class="col-md-4">
                 <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
-                <cfinclude template="/ag/_/cfm/aside_grains.cfm">
+                <cfinclude template="/ag/_/cfm/grains/aside_grains.cfm">
             </section>
         </div>
     </section>

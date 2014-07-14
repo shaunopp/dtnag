@@ -255,6 +255,8 @@
                 <p>Region-specific business and operational information for Northern Plains producers</p>
             </div>
         </a>
+    </div>
+    <div class="row">
         <a href="/ag/producer/canada/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/canada_tn.jpg" alt="canada thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
@@ -283,6 +285,8 @@
                         <p>Inventory, financials, margins, and market values – all tied together in one place</p>
             </div>
         </a>
+    </div>
+    <div class="row">
         <a href="/ag/producer/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/mobile_tn.jpg" alt="mobile thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
@@ -311,6 +315,8 @@
                 <p>Insight above and beyond essential basic market and weather information</p>
             </div>
         </a>
+    </div>
+    <div class="row">
         <a href="/ag/producer/southern_crops/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
             <img src="/ag/images/producer_products/southerncrops_tn.jpg" alt="southern crops thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
