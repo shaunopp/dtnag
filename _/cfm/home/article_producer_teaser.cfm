@@ -2,7 +2,7 @@
         <h1 class="bluelinetan">Producer</h1>
         <img class="img-thumbnail" src="http://placehold.it/360x200">
         <ul class="pager pull-right">
-            <li class="next"><a href="#">Learn More &rarr;</a>
+            <li class="next"><a href="/ag/producer/">Learn More &rarr;</a>
             </li>
         </ul>
         <p>

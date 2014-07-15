@@ -28,7 +28,7 @@
     <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
 
     <section class="container" role="main">
-        <img class="mast img-responsive img-rounded" src="/ag/images/mast_producer.jpg">
+        <img class="mast img-responsive img-rounded hidden-xs" src="/ag/images/mast_producer.jpg">
 
         <div class="row">
             <a href="/ag/producer/grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
@@ -74,7 +74,7 @@
                 </div>
             </a>
             <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
-                <img src="/ag/images/producer_products/agweatherstation_sm.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
+                <img src="/ag/images/producer_products/ag_wx_station_sm.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
                     <h4>DTN Ag Weather Station
                         <span class="label label-primary">New</span>
@@ -83,7 +83,7 @@
                 </div>
             </a>
             <a href="/ag/producer/ag_weather_expert/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
-                <img src="/ag/images/producer_products/agweatherexpert_sm.jpg" alt="ag weather expert thumbnail" class="img-circle pull-left">
+                <img src="/ag/images/producer_products/ag_wx_expert_sm.jpg" alt="ag weather expert thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
                     <h4>DTN Ag Weather Expert</h4>
                     <p>Highly localized weather-ony service</p>
@@ -134,7 +134,7 @@
         </div>
         <div class="row">
             <a href="/ag/producer/southern_crops/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
-                <img src="/ag/images/producer_products/southerncrops_sm.jpg" alt="southern crops thumbnail" class="img-circle pull-left">
+                <img src="/ag/images/producer_products/southern_crops_sm.jpg" alt="southern crops thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
                     <h4>DTN Southern Crops<sup>&reg;</sup>
                     </h4>

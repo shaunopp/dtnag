@@ -45,21 +45,21 @@
                 <div class="row">
                     <!--- nested columns --->
                     <div class="col-md-12">
-                        <cfinclude template="/ag/_/cfm/article_dtn_overview.cfm">
+                        <cfinclude template="/ag/_/cfm/home/article_dtn_overview.cfm">
                     </div>
                     <div class="col-md-6">
-                        <cfinclude template="/ag/_/cfm/article_producer_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/home/article_producer_teaser.cfm">
                     </div>
                     <div class="col-md-6">
-                        <cfinclude template="/ag/_/cfm/article_agbiz_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/home/article_agbiz_teaser.cfm">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <cfinclude template="/ag/_/cfm/article_trading_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/home/article_trading_teaser.cfm">
                     </div>
                     <div class="col-md-6">
-                        <cfinclude template="/ag/_/cfm/article_advert_teaser.cfm">
+                        <cfinclude template="/ag/_/cfm/home/article_advert_teaser.cfm">
                     </div>
                 </div>
             </section>

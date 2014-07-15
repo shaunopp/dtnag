@@ -2,6 +2,19 @@ $(function() {
 
     // highlight the current nav
     $("#producer a:contains('Producer')").parent().addClass('active');
+    $("#grains a:contains('DTN Grains')").parent().parent().parent().addClass('active');
+    $("#livestock a:contains('DTN Livestock')").parent().parent().parent().addClass('active');
+    $("#dairy a:contains('DTN Dairy')").parent().parent().parent().addClass('active');
+    $("#northern_grains a:contains('DTN Northern Grains')").parent().parent().parent().addClass('active');
+    $("#southern_crops a:contains('DTN Southern Crops')").parent().parent().parent().addClass('active');
+    $("#canada a:contains('DTN Canada')").parent().parent().parent().addClass('active');
+    $("#ag_wx_station a:contains('DTN Ag Weather Station')").parent().parent().parent().addClass('active');
+    $("#ag_wx_expert a:contains('DTN Ag Weather Expert')").parent().parent().parent().addClass('active');
+    $("#ag_essential a:contains('DTN Ag Essential')").parent().parent().parent().addClass('active');
+    $("#mobile a:contains('DTN Mobile')").parent().parent().parent().addClass('active');
+    $("#sixfactors a:contains('DTN Six Factors')").parent().parent().parent().addClass('active');
+    $("#mobileforipad a:contains('DTN Mobile bundle for iPad')").parent().parent().parent().addClass('active');
+
     $("#agribusiness a:contains('Agribusiness')").parent().addClass('active');
     $("#news a:contains('News')").parent().addClass('active');
     $("#subscribe a:contains('Subscribe')").parent().addClass('active');
