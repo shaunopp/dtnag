@@ -29,8 +29,17 @@
 
     <section class="container" role="main">
         <div class="row">
-            <section class="col-md-12">
+            <section class="col-md-8">
                 <cfinclude template="/ag/_/cfm/premiumservices/article_premiumservices.cfm">
+            </section>
+            <section class="col-md-4">
+                <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
+            </section>
+        </div>
+        <div class="row">
+            <section class="col-md-12">
+                <cfinclude template="/ag/_/cfm/premiumservices/snippet_premiumservices_table.cfm">
+                <cfinclude template="/ag/_/cfm/premiumservices/snippet_premiumservices_related.cfm">
             </section>
         </div>
     </section>

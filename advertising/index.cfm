@@ -8,15 +8,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="/ag/images/favicon.ico">
-
     <title>DTN The Progressive Farmer</title>
-
     <!-- core CSS: Bootstrap + customs -->
     <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
-
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -25,38 +21,20 @@
 </head>
 
 <body id="advertising" role="document">
-
     <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
-    <!--- header --->
-
     <section class="container" role="main">
+        <img class="mast img-responsive img-rounded hidden-xs" src="/ag/images/mast_advertising.jpg">
         <div class="row">
-            <section class="container hidden-xs">
-                <div class="row">
-                    <div class="col-md-12">
-                        <cfinclude template="/ag/_/cfm/snippet_carousel.cfm">
-                    </div>
-                </div>
+            <section class="col-md-7">
+                <cfinclude template="/ag/_/cfm/advertising/article_advertising.cfm">
             </section>
-            <!--- carousel --->
-
-            <section class="col-md-8">
-                <h1>Advertising</h1>
-                
-            </section>
-            <!--- phone --->
-
-            <section class="col-md-4">
-                <cfinclude template="/ag/_/cfm/aside_contact.cfm">
+            <section class="col-md-5">
+                <cfinclude template="/ag/_/cfm/advertising/snippet_advertising_mkemail.cfm">
+                <cfinclude template="/ag/_/cfm/advertising/aside_advertising.cfm">
             </section>
         </div>
     </section>
-    <!-- /container -->
-
     <cfinclude template="/ag/_/cfm/footer.cfm"></cfinclude>
-
-
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -64,8 +42,6 @@
     <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
-
-
 </body>
 
 </html>

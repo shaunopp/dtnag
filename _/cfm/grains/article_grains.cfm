@@ -8,13 +8,13 @@
 
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Improve hedging</strong>by aggregating futures and options with a current cash grain position to determine your net position</li>
+                    <strong>Improve hedging</strong> by aggregating futures and options with a current cash grain position to determine your net position</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Save time and money</strong>by staying on top of fast-moving markets and responding quickly</li>
+                    <strong>Save time and money</strong> by staying on top of fast-moving markets and responding quickly</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Avoid costly mistakes</strong>with custom recommendations for preparing tank mixes — ensuring compatibility and performance</li>
+                    <strong>Avoid costly mistakes</strong> with custom recommendations for preparing tank mixes &mdash; ensuring compatibility and performance</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Improve pesticide timing</strong>with field-specific corn growth projections to protect and maximize yields</li>
+                    <strong>Improve pesticide timing</strong> with field-specific corn growth projections to protect and maximize yields</li>
             </ul>
             <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
         </div>

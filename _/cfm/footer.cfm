@@ -1,11 +1,12 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <!-- Widget 1 -->
                 <div class="widget">
                     <h4>About Us</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum dolor eget nisi fermentum quis hendrerit magna vestibulum.</p>
+                    <p>Insightful, independent content, proprietary business management tools and in-depth, unbiased market analysis, to help empower producers, agribusiness professionals, and commodity traders to make their best decisions.
+</p>
                     <!-- Social Media -->
                     <div class="social">
                         <a href="http://www.dtnprogressivefarmer.com/go/twitter" target="_blank">
@@ -36,11 +37,7 @@
                         </li>
                         <li><i class="fa fa-angle-right"></i>  <a href="#">Ag Summit</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">DTN Products</a>
-                        </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Etiam at in rhoncus puru nul</a>
-                        </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Fusce vel magnais dapibus facilisis</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="#">Free Trial</a>
                         </li>
                     </ul>
                 </div>
@@ -48,35 +45,29 @@
             <div class="col-md-3">
                 <!-- Widget 3 -->
                 <div class="widget">
-                    <h4>Categories</h4>
+                    <h4>DTN Products</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Condimentum</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/producer/">Producer</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Etiam at</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/agribusiness/">Agribusiness</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Fusce vel</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/trading" target="_blank">Trading</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Vivamus</a>
-                        </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Pellentesque</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/advertising/">Advertising</a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <!-- Widget 3 -->
                 <div class="widget">
-                    <h4>Categories</h4>
+                    <h4>Help & Info</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Condimentum</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/customer_service/">Customer Service</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Etiam at</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/legal/">Legal</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Fusce vel</a>
-                        </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Vivamus</a>
-                        </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Pellentesque</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact_us/">Contact Us</a>
                         </li>
                     </ul>
                 </div>

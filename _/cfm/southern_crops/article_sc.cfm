@@ -12,7 +12,7 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Save time and money</strong> by staying on top of fast-moving markets and acting quickly </li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Avoid costly mistakes</strong> with custom recommendations for preparing tank mixes — ensuring compatibility and performance</li>
+                    <strong>Avoid costly mistakes</strong> with custom recommendations for preparing tank mixes &mdash; ensuring compatibility and performance</li>
             </ul>
             <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
         </div>

@@ -1,7 +1,14 @@
 $(function() {
 
     // highlight the current nav
+
+    // main buttons
     $("#producer a:contains('Producer')").parent().addClass('active');
+    $("#agribusiness a:contains('Agribusiness')").parent().addClass('active');
+    $("#advertising .advnav a:contains('Advertising')").parent().addClass('active');
+
+
+    //producer
     $("#grains a:contains('DTN Grains')").parent().parent().parent().addClass('active');
     $("#livestock a:contains('DTN Livestock')").parent().parent().parent().addClass('active');
     $("#dairy a:contains('DTN Dairy')").parent().parent().parent().addClass('active');
@@ -11,16 +18,26 @@ $(function() {
     $("#ag_wx_station a:contains('DTN Ag Weather Station')").parent().parent().parent().addClass('active');
     $("#ag_wx_expert a:contains('DTN Ag Weather Expert')").parent().parent().parent().addClass('active');
     $("#ag_essential a:contains('DTN Ag Essential')").parent().parent().parent().addClass('active');
-    $("#mobile a:contains('DTN Mobile')").parent().parent().parent().addClass('active');
+    $("#mobile .producernav a:contains('DTN Mobile')").parent().parent().parent().addClass('active');
     $("#sixfactors a:contains('DTN Six Factors')").parent().parent().parent().addClass('active');
     $("#mobileforipad a:contains('DTN Mobile bundle for iPad')").parent().parent().parent().addClass('active');
+    $("#premiumservices .producernav a:contains('DTN Premium Services')").parent().parent().parent().addClass('active');
+    $("#agweathertoolsapp a:contains('Ag Weather Tools App')").parent().parent().parent().addClass('active');
+    $("#marketstrategiesapp a:contains('DTN Market Strategies App')").parent().parent().parent().addClass('active');
+    $("#agappforipad a:contains('Agriculture App for the iPad')").parent().parent().parent().addClass('active');
 
-    $("#agribusiness a:contains('Agribusiness')").parent().addClass('active');
-    $("#news a:contains('News')").parent().addClass('active');
-    $("#subscribe a:contains('Subscribe')").parent().addClass('active');
-    $("#contact a:contains('Contact')").parent().addClass('active');
-    $("#trading a:contains('Trading')").parent().addClass('active');
-    $("#advertising a:contains('Advertising')").parent().addClass('active');
+    //agribusiness
+    $("#aghost a:contains('DTN AgHost')").parent().parent().parent().addClass('active');
+    $("#aghost_mobile a:contains('DTN AgHost')").parent().parent().parent().addClass('active');
+    $("#marketer a:contains('DTN Marketer')").parent().parent().parent().addClass('active');
+    $("#portal a:contains('DTN Portal')").parent().parent().parent().addClass('active');
+    $("#prophetx a:contains('DTN ProphetX')").parent().parent().parent().addClass('active');
+    $("#instant a:contains('DTN Instant')").parent().parent().parent().addClass('active');
+    $("#multisight a:contains('DTN MultiSight')").parent().parent().parent().addClass('active');
+    $("#mobile_ab .abiznav a:contains('DTN Mobile')").parent().parent().parent().addClass('active');
+    $("#premiumservices_ab .abiznav a:contains('DTN Premium Services')").parent().parent().parent().addClass('active');
+    $("#connect .abiznav a:contains('DTN Connect')").parent().parent().parent().addClass('active');
+    $("#scout .abiznav a:contains('DTN Scout')").parent().parent().parent().addClass('active');
 
 
     //make menus drop automatically

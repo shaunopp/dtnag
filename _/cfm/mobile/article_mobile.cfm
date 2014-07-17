@@ -4,11 +4,11 @@
             <h1>DTN Mobile<sup>&reg;</sup>
             </h1>
             <h2>Stay on top of markets, news, and weather wherever you go</h2>
-            <p>DTN Mobile helps you protect your profitability and operate more effectively with the real-time information you need while on the go. Its customizable alerts notify you of critical market moves and important weather thresholds, and it provides real-time access to quotes and news — all via your smart phone or tablet.</p>
+            <p>DTN Mobile helps you protect your profitability and operate more effectively with the real-time information you need while on the go. Its customizable alerts notify you of critical market moves and important weather thresholds, and it provides real-time access to quotes and news &mdash; all via your smart phone or tablet.</p>
 
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Be more profitable</strong> by never missing a market change with mobile access to the industry’s largest cash bid database</li>
+                    <strong>Be more profitable</strong> by never missing a market change with mobile access to the industry&rsquo;s largest cash bid database</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Stay on top of changing weather</strong> with custom alerts for the conditions that matter most to you while you are in your fields </li>
                 <li><i class="fa-li fa fa-check-square-o"></i>

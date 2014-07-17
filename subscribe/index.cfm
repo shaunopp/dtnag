@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,41 +7,44 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="/ag/images/favicon.ico">
-
     <title>DTN The Progressive Farmer</title>
-
     <!-- core CSS: Bootstrap + customs -->
     <link href="/ag/_/css/bootstrap.css" rel="stylesheet">
-
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-
 <body id="subscribe" role="document">
     <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
-
     <section class="container producer-grid" role="main">
-        <img class="mast img-responsive img-rounded" src="/ag/images/mast_producer.jpg">
-
         <div class="row">
-            <h1>Subscribe</h1>
+            <section class="container hidden-xs">
+                <div class="row">
+                    <div class="col-md-12">
+                        <cfinclude template="/ag/_/cfm/snippet_carousel.cfm">
+                    </div>
+                </div>
+            </section>
+            <section class="col-md-12">
+                <h1>to come...</h1>
                 <a href="http://about.dtnpf.com/ag/subscribe/" target="_blank">old subscribe page</a>
-          </div>
-
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+            </section>
+        </div>
     </section>
-
-
-
     <cfinclude template="/ag/_/cfm/footer.cfm"></cfinclude>
-
-
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -50,8 +52,5 @@
     <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
-
-
 </body>
-
 </html>

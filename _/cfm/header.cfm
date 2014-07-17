@@ -21,70 +21,77 @@
             <!--- branding --->
             <div class="navbar-collapse collapse pull-right">
                 <ul class="nav navbar-nav">
-                    <li class="dropdown">
+                    <li class="dropdown producernav">
                         <a href="/ag/producer/index.cfm">Producer <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li class="dropdown-header">DTN Online</li>
-                            <li><a href="/ag/producer/grains/index.cfm">DTN Grains</a>
+                            <li class="dropdown-header"><i class="fa fa-desktop"></i> DTN Online</li>
+                            <li><a href="/ag/producer/grains/index.cfm">DTN Grains<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/livestock/index.cfm">DTN Livestock</a>
+                            <li><a href="/ag/producer/livestock/index.cfm">DTN Livestock<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/dairy/index.cfm">DTN Dairy</a>
+                            <li><a href="/ag/producer/dairy/index.cfm">DTN Dairy<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/northern_grains/index.cfm">DTN Northern Grains</a>
+                            <li><a href="/ag/producer/northern_grains/index.cfm">DTN Northern Grains<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/southern_crops/index.cfm">DTN Southern Crops</a>
+                            <li><a href="/ag/producer/southern_crops/index.cfm">DTN Southern Crops<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/canada/index.cfm">DTN Canada</a>
+                            <li><a href="/ag/producer/canada/index.cfm">DTN Canada<sup>&reg;</sup></a>
                             </li>
                             <li class="divider"></li>
                             <li><a href="/ag/producer/ag_weather_station/index.cfm">DTN Ag Weather Station</a>
                             </li>
                             <li><a href="/ag/producer/ag_weather_expert/index.cfm">DTN Ag Weather Expert</a>
                             </li>
-                            <li><a href="/ag/producer/ag_essential/index.cfm">DTN Ag Essential</a>
+                            <li><a href="/ag/producer/ag_essential/index.cfm">DTN Ag Essential<sup>&trade;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/mobile/index.cfm">DTN Mobile</a>
+                            <li><a href="/ag/producer/mobile/index.cfm">DTN Mobile<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/six_factors/index.cfm">DTN Six Factors</a>
+                            <li><a href="/ag/producer/six_factors/index.cfm">DTN Six Factors<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="/ag/producer/mobile_bundle_for_ipad/index.cfm">DTN Mobile bundle for iPad</a>
+                            <li><a href="/ag/producer/mobile_bundle_for_ipad/index.cfm">DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup></a>
                             </li>
                             <li><a href="/ag/producer/premium_services/index.cfm">DTN Premium Services</a>
                             </li>
                             <li class="divider"></li>
-                            <li class="dropdown-header">Apps</li>
-                            <li><a href="/ag/producer/ag_weather_tools_app/index.cfm">Ag Weather Tools app</a>
+                            <li class="dropdown-header"><i class="fa fa-mobile fa-lg"></i> Mobile Apps</li>
+                            <li><a href="/ag/producer/ag_weather_tools_app/index.cfm">Ag Weather Tools App</a>
                             </li>
-                            <li><a href="/ag/producer/market_strategies_app/index.cfm">Market Strategies app</a>
+                            <li><a href="/ag/producer/market_strategies_app/index.cfm">DTN Market Strategies App</a>
                             </li>
-                            <li><a href="/ag/producer/ag_ipad_app/index.cfm">Ag iPad app</a>
+                            <li><a href="/ag/producer/ag_app_for_ipad/index.cfm">Agriculture App for the iPad<sup>&reg;</sup></a>
                             </li>
                         </ul>
                     </li>
                     <!--- producer --->
-                    <li class="dropdown">
+                    <li class="dropdown abiznav">
                         <a href="/ag/agribusiness/index.cfm">Agribusiness <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">DTN Ag Host</a>
+                            <li><a href="/ag/agribusiness/aghost/">DTN AgHost<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="#">DTN Ag Host Mobile</a>
+                            <li><a href="/ag/agribusiness/aghost_mobile/">DTN AgHost<sup>&reg;</sup> Mobile</a>
                             </li>
-                            <li><a href="#">DTN Advertising</a>
+                            <li><a href="/ag/agribusiness/marketer/">DTN Marketer</a>
                             </li>
-                            <li><a href="#">DTN Portal</a>
+                            <li><a href="/ag/agribusiness/portal/">DTN Portal<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="#">DTN ProphetX</a>
+
+                            <li><a href="/ag/agribusiness/prophetx/">DTN ProphetX<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="#">DTN Instant</a>
+
+
+                            <li><a href="/ag/agribusiness/instant/">DTN Instant<sup>&reg;</sup></a>
                             </li>
-                            <li><a href="#">DTN Multisight</a>
+                            <li><a href="/ag/agribusiness/multisight/">DTN Multisight<sup>&trade;</sup></a>
+                            </li>
+                            <li><a href="/ag/agribusiness/premium_services/index.cfm">DTN Premium Services</a>
+                            </li>
+                            <li><a href="/ag/agribusiness/mobile/index.cfm">DTN Mobile</a>
                             </li>
                             <li class="divider"></li>
-                            <li class="dropdown-header">Nav header</li>
-                            <li><a href="#">Separated link</a>
+                            <li class="dropdown-header"><i class="fa fa-mobile"></i> Mobile Apps</li>
+                            <li><a href="/ag/agribusiness/connect/">DTN Connect<sup>&trade;</sup></a>
                             </li>
-                            <li><a href="#">One more separated link</a>
+                            <li><a href="/ag/agribusiness/scout/">DTN Scout<sup>&trade;</sup></a>
                             </li>
                         </ul>
                     </li>
@@ -92,7 +99,7 @@
                     <li><a href="http://www.dtn.com/trading" target="_blank">Trading</a>
                     </li>
                     <!--- trading --->
-                    <li><a href="/ag/advertising/index.cfm">Advertising</a>
+                    <li class="advnav"><a href="/ag/advertising/index.cfm">Advertising</a>
                     </li>
                     <!--- advertising --->
                 </ul>

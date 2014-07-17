@@ -29,8 +29,9 @@
 
     <section class="container" role="main">
         <img class="mast img-responsive img-rounded hidden-xs" src="/ag/images/mast_producer.jpg">
-
+<p><strong>Improve your bottom line with our unmatched resources.</strong> No matter what part of the ag industry you&rsquo;re in, we deliver innovative tools, unbiased market analysis, the most accurate field-level weather forecasts, and extensive, proprietary industry coverage to help enhance your manage risk and your protect profits.</p><br>
         <div class="row">
+
             <a href="/ag/producer/grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                 <img src="/ag/images/producer_products/grains_sm.jpg" class="img-circle img-responsive" alt="grains thumbnail">
                 <div class="caption">
@@ -73,6 +74,14 @@
                     <p>Region-specific business and operational information for Canadian producers</p>
                 </div>
             </a>
+            <a href="/ag/producer/southern_crops/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                <img src="/ag/images/producer_products/southern_crops_sm.jpg" alt="southern crops thumbnail" class="img-circle pull-left">
+                <div class="caption" class="pull-right">
+                    <h4>DTN Southern Crops<sup>&reg;</sup>
+                    </h4>
+                    <p>Region-specific business and operational information for Southern United States producers</p>
+                </div>
+            </a>
             <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                 <img src="/ag/images/producer_products/ag_wx_station_sm.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
@@ -89,17 +98,17 @@
                     <p>Highly localized weather-ony service</p>
                 </div>
             </a>
+        </div>
+        <div class="row">
             <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                 <img src="/ag/images/producer_products/agessential_sm.jpg" alt="ag essential thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
                     <h4>Ag Essential<sup>&trade;</sup> 
                         <span class="label label-primary">New</span>
                     </h4>
-                    <p>Inventory, financials, margins, and market values – all tied together in one place</p>
+                    <p>Inventory, financials, margins, and market values &ndash; all tied together in one place</p>
                 </div>
             </a>
-        </div>
-        <div class="row">
             <a href="/ag/producer/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                 <img src="/ag/images/producer_products/mobile_sm.jpg" alt="mobile thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
@@ -116,7 +125,7 @@
                     <p>Unbiased market insight and advice for better business decisions</p>
                 </div>
             </a>
-            <a href="/ag/producer/mobile_for_ipad/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+            <a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                 <img src="/ag/images/producer_products/mobileforipad_sm.jpg" alt="mobile for ipad thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
                     <h4>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
@@ -124,21 +133,13 @@
                     <p>Your mobile command center starts here</p>
                 </div>
             </a>
+        </div>
+        <div class="row">
             <a href="/ag/producer/premium_services/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                 <img src="/ag/images/producer_products/premiumservices_sm.jpg" alt="premium services thumbnail" class="img-circle pull-left">
                 <div class="caption" class="pull-right">
                     <h4>Premium Services</h4>
                     <p>Insight above and beyond essential basic market and weather information</p>
-                </div>
-            </a>
-        </div>
-        <div class="row">
-            <a href="/ag/producer/southern_crops/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
-                <img src="/ag/images/producer_products/southern_crops_sm.jpg" alt="southern crops thumbnail" class="img-circle pull-left">
-                <div class="caption" class="pull-right">
-                    <h4>DTN Southern Crops<sup>&reg;</sup>
-                    </h4>
-                    <p>Region-specific business and operational information for Southern United States producers</p>
                 </div>
             </a>
         </div>
@@ -150,29 +151,29 @@
             <div class="col-md-9 col-sm-12 col-xs-12">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Applications</h3>
+                        <h3 class="panel-title">Mobile Apps</h3>
                     </div>
                     <div class="panel-body">
                         <div class="row">
-                            <a href="/ag/producer/mobile_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/producer/ag_weather_tools_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
                                 <img src="/ag/images/producer_products/ag_wx_tools_sm.jpg" alt="mobile for ipad thumbnail" class="img-rounded pull-left">
                                 <div class="caption" class="pull-right">
-                                    <h4>Ag Weather Tools App</h4>
+                                    <h4>Ag Weather Tools App<sup>&reg;</sup></h4>
                                     <p>Comprehensive ag weather information
                                     </p>
                                 </div>
                             </a>
-                            <a href="/ag/producer/premium_services/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/producer/market_strategies_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
                                 <img src="/ag/images/producer_products/market_strategies_sm.jpg" alt="premium services thumbnail" class="pull-left img-rounded">
                                 <div class="caption" class="pull-right">
-                                    <h4>DTN Market Strategies App</h4>
+                                    <h4>DTN Market Strategies<sup>&reg;</sup> App</h4>
                                     <p>Market strategies on the go
                                 </div>
                             </a>
                         </div>
                         <div class="row">
-                            <a href="/ag/producer/premium_services/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                                <img src="/ag/images/producer_products/ag_ipad_sm.jpg" alt="premium services thumbnail" class="img-rounded pull-left">
+                            <a href="/ag/producer/ag_app_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                                <img src="/ag/images/producer_products/ag_app_for_ipad_sm.jpg" alt="premium services thumbnail" class="img-rounded pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>Agriculture App for the iPad<sup>&reg;</sup></h4>
                                     <p>Ag news on the go</p>
