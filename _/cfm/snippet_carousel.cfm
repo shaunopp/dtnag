@@ -7,26 +7,18 @@
     <!-- Indicators -->
     <div class="carousel-inner">
         <div class="item active">
-            <a href="http://www.dtn.com" target="_blank">
+            <a href="/ag/producer/ag_weather_station/index.cfm">
                 <img src="/ag/images/wx_station.jpg" alt="weather station photo">
             </a>
         </div>
         <div class="item">
-            <a href="http://www.dtn.com" target="_blank">
-                <img src="/ag/images/baling_hay_240.jpg" alt="baling hay photo">
-                <div class="carousel-caption">
-                    <h1>Ag Essential</h1>
-                    <p>Try Ag Essential</p>
-                </div>
+            <a href="/ag/agribusiness/marketer/">
+                <img src="/ag/images/marketer.jpg" alt="weather station photo">
             </a>
         </div>
         <div class="item">
-            <a href="http://www.dtn.com" target="_blank">
-                <img src="/ag/images/storm_corn_240.jpg" alt="storm corn photo">
-                <div class="carousel-caption">
-                    <h1>Weather Station</h1>
-                    <p>Try Weather Station.</p>
-                </div>
+            <a href="/ag/agribusiness/prophetx/">
+                <img src="/ag/images/prophetx.jpg" alt="weather station photo">
             </a>
         </div>
     </div>

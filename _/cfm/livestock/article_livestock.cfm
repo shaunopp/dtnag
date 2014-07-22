@@ -8,13 +8,13 @@
 
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Protect your cattle from extreme heat and cold</strong>with our easy-to-read, color-coded cattle stress index forecasts and alerts</li>
+                    <strong>Protect your cattle from extreme heat and cold</strong> with our easy-to-read, color-coded cattle stress index forecasts and alerts</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Improve the quality of your hay and haylage</strong>by knowing your optimal three-day production window</li>
+                    <strong>Improve the quality of your hay and haylage</strong> by knowing your optimal three-day production window</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Increase your profits</strong>with unbiased, easy to follow livestock and feedstuffs market recommendations and daily analysis</li>
+                    <strong>Increase your profits</strong> with unbiased, easy to follow livestock and feedstuffs market recommendations and daily analysis</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Spend less on replacement stock</strong>with extensive information on cattle prices and auctions locations for your area</li>
+                    <strong>Spend less on replacement stock</strong> with extensive information on cattle prices and auctions locations for your area</li>
             </ul>
             <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
         </div>

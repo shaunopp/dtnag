@@ -9,15 +9,13 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Turn data into insights</strong> by using the valuable, unified data to make your job and productivity better.</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Connect multiple systems</strong> by integrating your precision ag platform, your back office system and many others to give you a broader view of your farmers’ entire operations.</li>
+                    <strong>Connect multiple systems</strong> by integrating your precision ag platform, your back office system and many others to give you a broader view of your farmers&rsquo; entire operations.</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Create proposals and grow sales</strong> using year-over-year historical insights and yield to justify your agronomic recommendations</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Take fertilizer contracts from the field</strong> using real time margins and cost of unsold inventory available.</li>
-
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Take orders at the point of sale</strong> by using our Order-to-Cash module that will allow orders for fertilizer contracts, seed bookings or chemical prepays.</li>
-
             </ul>
             <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
         </div>

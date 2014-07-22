@@ -19,7 +19,7 @@
                         <div class="caption" class="pull-right">
                             <h4>DTN ProphetX<sup>&reg;</sup>
                             </h4>
-                            <p>The industry’s most powerful, complete desktop trading solution</p>
+                            <p>The industry&rsquo;s most powerful, complete desktop trading solution</p>
                         </div>
                     </a>
                 </div>

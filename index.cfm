@@ -66,7 +66,7 @@
             <!--- main --->
 
             <section class="col-sm-4">
-                <cfinclude template="/ag/_/cfm/aside_video.cfm">
+                <cfinclude template="/ag/_/cfm/home/aside_video.cfm">
                 <cfinclude template="/ag/_/cfm/aside_contact.cfm">
             </section>
             <!--- sidebar --->

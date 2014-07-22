@@ -33,9 +33,9 @@
                 <div class="widget">
                     <h4>Sign-Up</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Webinars & Rebroadcasts</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/news_and_events/index.cfm">Webinars & Rebroadcasts</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Ag Summit</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtnprogressivefarmer.com/go/agsummit/" target="_blank">Ag Summit</a>
                         </li>
                         <li><i class="fa fa-angle-right"></i>  <a href="#">Free Trial</a>
                         </li>
@@ -63,11 +63,11 @@
                 <div class="widget">
                     <h4>Help & Info</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/customer_service/">Customer Service</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/">Customer Service</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/legal/">Legal</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="#">Legal</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact_us/">Contact Us</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/">Contact Us</a>
                         </li>
                     </ul>
                 </div>

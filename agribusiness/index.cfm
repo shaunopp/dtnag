@@ -23,7 +23,7 @@
     <section class="container" role="main">
         <img class="mast img-responsive img-rounded hidden-xs" src="/ag/images/mast_agribusiness.jpg">
         <p>
-            <strong>Build customer loyalty, cut costs, and make better-informed decisions.</strong>Our mission-critical solutions connect you with producers — from private, secure grain portals to custom-branded websites to high-impact advertising to email-driven communication tools.</p>
+            <strong>Build customer loyalty, cut costs, and make better-informed decisions.</strong> Our mission-critical solutions connect you with producers &mdash; from private, secure grain portals to custom-branded websites to high-impact advertising to email-driven communication tools.</p>
         <br>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -49,7 +49,7 @@
                                     <p>Take your website mobile in less than five minutes</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/dairy/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/marketer/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                                 <img src="/ag/images/agribusiness_products/marketer_sm.jpg" alt="marketer thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Marketer<sup>&reg;</sup>
@@ -57,7 +57,7 @@
                                     <p>A high-impact solution to support your marketing efforts</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/northern_grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                                 <img src="/ag/images/agribusiness_products/portal_sm.jpg" alt="portal thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Portal<sup>&reg;</sup>
@@ -78,7 +78,7 @@
                     </div>
                     <div class="panel-body">
                         <div class="row">
-                            <a href="/ag/agribusiness/dairy/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/marketer/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                                 <img src="/ag/images/agribusiness_products/marketer_sm.jpg" alt="marketer thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Marketer<sup>&reg;</sup>
@@ -120,10 +120,10 @@
                                 <div class="caption" class="pull-right">
                                     <h4>DTN ProphetX<sup>&reg;</sup>
                                     </h4>
-                                    <p>The industry’s most powerful, complete desktop trading solution</p>
+                                    <p>The industry&rsquo;s most powerful, complete desktop trading solution</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/northern_grains/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
                                 <img src="/ag/images/agribusiness_products/portal_sm.jpg" alt="portal thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Portal<sup>&reg;</sup>

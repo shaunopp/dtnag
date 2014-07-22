@@ -7,11 +7,11 @@
             <p>Protect your bottom line, eliminate your futures risk, and enhance your customer service in today's competitive, volatile markets by automating your offer deck and streamlining offer hedging. With DTN Portal, you can:</p>
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Keep everyone on the same page</strong>with real-time, centralized buy/sell offers</li>
+                    <strong>Keep everyone on the same page</strong> with real-time, centralized buy/sell offers</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Eliminate costly errors</strong>with smart cancel/replace on hedging orders</li>
+                    <strong>Eliminate costly errors</strong> with smart cancel/replace on hedging orders</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Focus on revenue-generating activities</strong>with solutions that streamline and simplify</li>
+                    <strong>Focus on revenue-generating activities</strong> with solutions that streamline and simplify</li>
             </ul>
             <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
         </div>

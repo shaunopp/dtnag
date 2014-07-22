@@ -96,7 +96,7 @@
                         </ul>
                     </li>
                     <!--- agribusiness --->
-                    <li><a href="http://www.dtn.com/trading" target="_blank">Trading</a>
+                    <li><a href="http://www.dtn.com/trading">Trading</a>
                     </li>
                     <!--- trading --->
                     <li class="advnav"><a href="/ag/advertising/index.cfm">Advertising</a>

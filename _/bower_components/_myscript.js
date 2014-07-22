@@ -1,7 +1,55 @@
+    // stop modal videos from continuing to play when modal closes
+    // solution from here: https://teamtreehouse.com/forum/bootstrap-video-modal-will-not-stop-playing
+
+//grains
+$('.quitvid').click(function () {
+  $('#1').hide();
+  $('#1 iframe').attr("src", jQuery("#1 iframe").attr("src")); 
+});
+$('.quitvid').click(function () {
+   $('#2').hide();
+  $('#2 iframe').attr("src", jQuery("#2 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#3').hide();
+  $('#3 iframe').attr("src", jQuery("#3 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#4').hide();
+  $('#4 iframe').attr("src", jQuery("#4 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#5').hide();
+  $('#5 iframe').attr("src", jQuery("#5 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#6').hide();
+  $('#6 iframe').attr("src", jQuery("#6 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#7').hide();
+  $('#7 iframe').attr("src", jQuery("#7 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#8').hide();
+  $('#8 iframe').attr("src", jQuery("#8 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#9').hide();
+  $('#9 iframe').attr("src", jQuery("#9 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#10').hide();
+  $('#10 iframe').attr("src", jQuery("#10 iframe").attr("src"));
+});
+$('.quitvid').click(function () {
+  $('#12').hide();
+  $('#12 iframe').attr("src", jQuery("#12 iframe").attr("src"));
+});
+
+
+    // highlight the current nav - from Lynda.com tut
 $(function() {
-
-    // highlight the current nav
-
     // main buttons
     $("#producer a:contains('Producer')").parent().addClass('active');
     $("#agribusiness a:contains('Agribusiness')").parent().addClass('active');
@@ -40,7 +88,7 @@ $(function() {
     $("#scout .abiznav a:contains('DTN Scout')").parent().parent().parent().addClass('active');
 
 
-    //make menus drop automatically
+    //make menus drop automatically - from Lynda.com tut
     $('ul.nav li.dropdown').hover(function() {
         $('.dropdown-menu', this).fadeIn();
     }, function() {

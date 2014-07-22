@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,9 +19,10 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body id="contact" role="document">
     <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
-    <section class="container producer-grid" role="main">
+    <section class="container" role="main">
         <div class="row">
             <section class="container hidden-xs">
                 <div class="row">
@@ -29,18 +31,14 @@
                     </div>
                 </div>
             </section>
+            <section class="col-md-8">
+                <cfinclude template="/ag/_/cfm/contact/article_contact.cfm">
+            </section>
+            <section class="col-md-4">
+                <cfinclude template="/ag/_/cfm/contact/aside_social.cfm">
+            </section>
             <section class="col-md-12">
-                <h1>to come...</h1>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
+                <cfinclude template="/ag/_/cfm/contact/article_pf_faqs.cfm">
             </section>
         </div>
     </section>
@@ -53,4 +51,5 @@
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 </body>
+
 </html>

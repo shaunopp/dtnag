@@ -2,7 +2,7 @@
 
 
 <a href="/ag/_/pdf/prophetx/cs_PMC_north_2013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>PCM North Platte</a>
-    <a href="/ag/_/pdf/prophetx/cs_sd_wheat_2013.pdf" target="_blank" class="list-group-item">S<i class="fa fa-file-pdf-o pad-rt"></i>outh Dakota Wheat</a>
+    <a href="/ag/_/pdf/prophetx/cs_sd_wheat_2013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>South Dakota Wheat</a>
     <a href="/ag/_/pdf/prophetx/cs_stewart_peterson_2013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>Stewart Peterson</a>
     <a href="/ag/_/pdf/prophetx/cs_left_field_2013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>LeftField Commodity Research</a>
 
