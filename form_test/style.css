@@ -1,0 +1,49 @@
+/* CSS Document */
+
+body {
+background:url(images/layout_body_back.gif);
+background-repeat:repeat-x;
+background-color:#86A9BC;
+margin-top:0px;
+}
+a:link, a:visited 
+{
+	text-decoration:none;
+	color:#129049;
+}
+
+a:hover 
+{
+	text-decoration:underline;
+	color:#129049;
+}
+td {
+	  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:11px;
+  color:#222222;
+  line-height:16px;
+}
+.pane_title {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    color: #dc6b01;
+    margin: 0px 0px 0px -10px;
+    padding: 10px 0px 5px 12px;
+}
+.news_summary_content
+{
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:11px;
+  color:#222222;
+  line-height:16px;
+  margin-top:3px;
+  margin-left:0px;
+  margin-bottom:2px;
+}
+form {
+margin-bottom:0px;
+margin-top:0px;
+padding-top:0px;
+padding-bottom:0px
+}

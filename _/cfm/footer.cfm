@@ -9,7 +9,7 @@
 </p>
                     <!-- Social Media -->
                     <div class="social">
-                        <a href="http://www.dtnprogressivefarmer.com/go/twitter" target="_blank">
+                        <a href="http://www.twitter.com/dtnpf" target="_blank">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
@@ -21,7 +21,7 @@
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="http://www.dtnprogressivefarmer.com/go/linkedin" target="_blank">
+                    <a href="http://www.linkedin.com/groups/DTN-Progressive-Farmer-2162056/about" target="_blank">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>

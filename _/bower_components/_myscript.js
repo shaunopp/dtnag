@@ -1,3 +1,64 @@
+// form field validation
+
+$(document).ready(function() {
+    $('#registerForm').bootstrapValidator({
+        message: 'This value is not valid',
+        feedbackIcons: {
+            valid: 'fa fa-check',
+            invalid: 'glyphicon glyphicon-remove',
+            validating: 'glyphicon glyphicon-refresh'
+        },
+        fields: {
+            firstname: {
+                validators: {
+                    notEmpty: {
+                        message: 'A first name is required and cannot be empty'
+                    },
+                }
+            },
+            lastname: {
+                validators: {
+                    notEmpty: {
+                        message: 'A last name is required and cannot be empty'
+                    },
+                }
+            },
+            company: {
+                validators: {
+                    notEmpty: {
+                        message: 'A company name is required and cannot be empty'
+                    },
+                }
+            },
+            title: {
+                validators: {
+                    notEmpty: {
+                        message: 'A title is required and cannot be empty'
+                    },
+                }
+            },
+            address: {
+                validators: {
+                    notEmpty: {
+                        message: 'An address is required and cannot be empty'
+                    },
+                }
+            },
+            country: {
+                validators: {
+                    notEmpty: {
+                        message: 'A country is required and cannot be empty'
+                    },
+                }
+            },
+        }
+    });
+});
+
+
+
+
+
     // stop modal videos from continuing to play when modal closes
     // solution from here: https://teamtreehouse.com/forum/bootstrap-video-modal-will-not-stop-playing
 

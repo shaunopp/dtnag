@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
-
+    <link rel="shortcut icon" href="/ag/images/dtnfav5.ico">
+  
     <title>DTN The Progressive Farmer</title>
 
     <!-- core CSS: Bootstrap + customs -->

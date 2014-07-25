@@ -8,17 +8,17 @@
     <div class="carousel-inner">
         <div class="item active">
             <a href="/ag/producer/ag_weather_station/index.cfm">
-                <img src="/ag/images/wx_station.jpg" alt="weather station photo">
+                <img src="/ag/images/carousel_producer.jpg" alt="producer photo">
             </a>
         </div>
         <div class="item">
             <a href="/ag/agribusiness/marketer/">
-                <img src="/ag/images/marketer.jpg" alt="weather station photo">
+                <img src="/ag/images/carousel_agribusiness.jpg" alt="agribusiness photo">
             </a>
         </div>
         <div class="item">
             <a href="/ag/agribusiness/prophetx/">
-                <img src="/ag/images/prophetx.jpg" alt="weather station photo">
+                <img src="/ag/images/carousel_traders.jpg" alt="traders photo">
             </a>
         </div>
     </div>

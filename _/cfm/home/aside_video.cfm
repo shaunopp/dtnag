@@ -1,6 +1,6 @@
 <aside class="video">
     <div class="list-group css3-shadow">
-        <a href="#" class="list-group-item active">Video</a>
+        <a href="#" class="list-group-item active"><i class="fa fa-vimeo-square"></i> <strong>Video:</strong> Producer Solution</a>
         <a href="#" class="list-group-item vidpreview-lg" data-toggle="modal" data-target="#1">
             <i class="fa fa-youtube-play fa-5x"></i>
             <img src="http://i.vimeocdn.com/video/482816733_640.jpg" class="img-rounded img-responsive">

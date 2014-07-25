@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="/ag/images/dtnfav5.ico">
+    
 
     <title>DTN The Progressive Farmer</title>
 
@@ -275,7 +276,7 @@
             <img src="/ag/images/producer_products/agweatherexpert_tn.jpg" alt="ag weather expert thumbnail" class="img-circle pull-left">
             <div class="caption" class="pull-right">
                 <h4>DTN Ag Weather Expert</h4>
-                <p>Highly localized weather-ony service</p>
+                <p>Highly localized weather-only service</p>
             </div>
         </a>
         <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">

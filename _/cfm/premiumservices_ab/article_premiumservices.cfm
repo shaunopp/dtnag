@@ -4,7 +4,7 @@
                     <h1>DTN Premium Services
                     </h1>
                     <h2>For insight above and beyond essential basic market and weather information</h2>
-                    <p>With DTN Premium Services’ expert advice, you’ll spend less time agonizing over market trades and more time enjoying the results.
+                    <p>With DTN Premium Services&rsquo; expert advice, you&rsquo;ll spend less time agonizing over market trades and more time enjoying the results.
                     </p>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">

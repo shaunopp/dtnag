@@ -36,7 +36,7 @@
                         <img src="/ag/images/producer_products/ag_wx_expert_sm.jpg" alt="ag weather expert thumbnail" class="img-circle pull-left">
                         <div class="caption" class="pull-right">
                             <h4>DTN Ag Weather Expert</h4>
-                            <p>Highly localized weather-ony service</p>
+                            <p>Highly localized weather-only service</p>
                         </div>
                     </a>
                 </div>
