@@ -15,7 +15,7 @@
                     <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Ensure uninterrupted information</strong> with rugged, dependable satellite delivery</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
+            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/agribusiness_products/instant_lg.jpg" alt="mobile photo" height="170px" width="170px">

@@ -1,4 +1,4 @@
-<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1">
+<!--- <a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1">
     <div class="row">
         <div class="col-md-5 pull-left">
             <i class="fa fa-youtube-play fa-3x"></i>
@@ -10,7 +10,7 @@
             </p>
         </div>
     </div>
-</a>
+</a> --->
     <a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#2">
         <div class="row">
             <div class="col-md-5 pull-left">
@@ -23,10 +23,6 @@
             </div>
         </div>
     </a>
-
-
-<!--- collapse all but 1 video --->
-<div class="collapse-group collapse" id="more_vids">
     <a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#3">
         <div class="row">
             <div class="col-md-5 pull-left">
@@ -39,6 +35,11 @@
             </div>
         </div>
     </a>
+
+
+<!--- collapse all but 2 videos --->
+<div class="collapse-group collapse" id="more_vids">
+    
     <a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#4">
         <div class="row">
             <div class="col-md-5 pull-left">

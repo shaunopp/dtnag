@@ -14,10 +14,14 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Improve operational decisions</strong> with hourly and five-day weather forecasts, plus interactive radar and satellite maps</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-responsive" src="/ag/images/producer_products/ag_app_for_ipad_lg.jpg" alt="six factors photo" height="170px" width="170px">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <a style="margin:0px 5px 5px 0px" href="itms://itunes.apple.com/us/app/dtn-the-progressive-farmer/id404268539?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the app </a>
         </div>
     </div>
     <br>

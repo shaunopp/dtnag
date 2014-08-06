@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="/ag/images/dtnfav5.ico">
-    
+
 
     <title>DTN The Progressive Farmer</title>
 
@@ -32,10 +32,12 @@
         <div class="row">
             <section class="col-md-8">
                 <cfinclude template="/ag/_/cfm/ag_wx_station/article_ag_wx_station.cfm">
-                <cfinclude  template="/ag/_/cfm/ag_wx_station/snippet_ag_wx_station_related.cfm">
+                    <cfinclude template="/ag/_/cfm/ag_wx_station/snippet_ag_wx_station_related.cfm">
             </section>
             <section class="col-md-4">
-                <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
+                <div class="well hidden-sm hidden-xs">
+                    <a href="http://www.dtn.com/forms/ag/agweatherstation/<cfoutput>#agweatherstation_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button"><i class="fa fa-chevron-right"></i> Learn more now</a>
+                </div>
                 <cfinclude template="/ag/_/cfm/ag_wx_station/aside_ag_wx_station.cfm">
             </section>
         </div>

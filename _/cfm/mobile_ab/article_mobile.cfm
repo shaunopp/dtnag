@@ -12,7 +12,7 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Protect your bottom line</strong> with mobile device friendly, customized grain bids for multiple periods and commodities in a single view</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
+            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/producer_products/mobile_lg.jpg" alt="mobile photo" height="170px" width="170px">

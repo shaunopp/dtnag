@@ -16,11 +16,16 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Find the news you need faster</strong> by using our mobile-friendly tools to customize your prefered content and views</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
+            
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/producer_products/mobile_lg.jpg" alt="mobile photo" height="170px" width="170px">
         </div>
+    </div>
+    <div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+    <a href="http://www.dtn.com/forms/ag/try/mobile/new/<cfoutput>#mobiletry_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a> <a href="http://www.dtn.com/forms/ag/buy/mobile/<cfoutput>#mobilebuy_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Sign up now </a>
+    </div>
     </div>
     <br>
 </article>

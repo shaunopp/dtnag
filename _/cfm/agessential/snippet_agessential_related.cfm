@@ -6,10 +6,10 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/producer/grains/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/professional/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
                         <img src="/ag/images/producer_products/grains_sm.jpg" class="img-circle img-responsive" alt="grains thumbnail">
                         <div class="caption">
-                            <h4>DTN Grains<sup>&reg;</sup>
+                            <h4>DTN Professional<sup>&reg;</sup>
                             </h4>
                             <p>Become more profitable and efficient.</p>
                         </div>
@@ -21,24 +21,6 @@
                                 <span class="label label-primary">New</span>
                             </h4>
                             <p>Increase yields and savings with precision weather</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="row">
-                    <a href="/ag/producer/six_factors/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/sixfactors_sm.jpg" alt="six factors thumbnail" class="img-circle pull-left">
-                        <div class="caption" class="pull-right">
-                            <h4>DTN Six Factors<sup>&reg;</sup>
-                            </h4>
-                            <p>Unbiased market insight and advice for better business decisions</p>
-                        </div>
-                    </a>
-                    <a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/mobileforipad_sm.jpg" alt="mobile for ipad thumbnail" class="img-circle pull-left">
-                        <div class="caption" class="pull-right">
-                            <h4>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
-                            </h4>
-                            <p>Your mobile command center starts here</p>
                         </div>
                     </a>
                 </div>

@@ -24,18 +24,20 @@
     <![endif]-->
 </head>
 
-<body id="grains" role="document">
+<body id="professional" role="document">
     <cfinclude template="/ag/_/cfm/header.cfm"></cfinclude>
 
     <section class="container" role="main">
         <div class="row">
             <section class="col-md-8">
-                <cfinclude template="/ag/_/cfm/grains/article_grains.cfm">
-                <cfinclude  template="/ag/_/cfm/grains/snippet_grains_related.cfm">
+                <cfinclude template="/ag/_/cfm/professional/article_grains.cfm">
+                <cfinclude template="/ag/_/cfm/professional/snippet_grains_related.cfm">
             </section>
             <section class="col-md-4">
-                <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
-                <cfinclude template="/ag/_/cfm/grains/aside_grains.cfm">
+                <div class="well hidden-sm hidden-xs">
+                    <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+                </div>
+                <cfinclude template="/ag/_/cfm/professional/aside_grains.cfm">
             </section>
         </div>
     </section>

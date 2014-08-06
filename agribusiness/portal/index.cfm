@@ -34,7 +34,9 @@
                 <cfinclude  template="/ag/_/cfm/portal/snippet_portal_related.cfm">
             </section>
             <section class="col-md-4">
-                <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
+                <div class="well hidden-sm hidden-xs">
+                    <a href="#" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button"><i class="fa fa-chevron-right"></i> Request a demo </a>
+                </div>
                 <cfinclude template="/ag/_/cfm/portal/aside_portal.cfm">
             </section>
         </div>

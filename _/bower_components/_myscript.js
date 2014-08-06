@@ -1,59 +1,59 @@
 // form field validation
 
-$(document).ready(function() {
-    $('#registerForm').bootstrapValidator({
-        message: 'This value is not valid',
-        feedbackIcons: {
-            valid: 'fa fa-check',
-            invalid: 'glyphicon glyphicon-remove',
-            validating: 'glyphicon glyphicon-refresh'
-        },
-        fields: {
-            firstname: {
-                validators: {
-                    notEmpty: {
-                        message: 'A first name is required and cannot be empty'
-                    },
-                }
-            },
-            lastname: {
-                validators: {
-                    notEmpty: {
-                        message: 'A last name is required and cannot be empty'
-                    },
-                }
-            },
-            company: {
-                validators: {
-                    notEmpty: {
-                        message: 'A company name is required and cannot be empty'
-                    },
-                }
-            },
-            title: {
-                validators: {
-                    notEmpty: {
-                        message: 'A title is required and cannot be empty'
-                    },
-                }
-            },
-            address: {
-                validators: {
-                    notEmpty: {
-                        message: 'An address is required and cannot be empty'
-                    },
-                }
-            },
-            country: {
-                validators: {
-                    notEmpty: {
-                        message: 'A country is required and cannot be empty'
-                    },
-                }
-            },
-        }
-    });
-});
+// $(document).ready(function() {
+//     $('#registerForm').bootstrapValidator({
+//         message: 'This value is not valid',
+//         feedbackIcons: {
+//             valid: 'fa fa-check',
+//             invalid: 'glyphicon glyphicon-remove',
+//             validating: 'glyphicon glyphicon-refresh'
+//         },
+//         fields: {
+//             firstname: {
+//                 validators: {
+//                     notEmpty: {
+//                         message: 'A first name is required and cannot be empty'
+//                     },
+//                 }
+//             },
+//             lastname: {
+//                 validators: {
+//                     notEmpty: {
+//                         message: 'A last name is required and cannot be empty'
+//                     },
+//                 }
+//             },
+//             company: {
+//                 validators: {
+//                     notEmpty: {
+//                         message: 'A company name is required and cannot be empty'
+//                     },
+//                 }
+//             },
+//             title: {
+//                 validators: {
+//                     notEmpty: {
+//                         message: 'A title is required and cannot be empty'
+//                     },
+//                 }
+//             },
+//             address: {
+//                 validators: {
+//                     notEmpty: {
+//                         message: 'An address is required and cannot be empty'
+//                     },
+//                 }
+//             },
+//             country: {
+//                 validators: {
+//                     notEmpty: {
+//                         message: 'A country is required and cannot be empty'
+//                     },
+//                 }
+//             },
+//         }
+//     });
+// });
 
 
 
@@ -118,17 +118,17 @@ $(function() {
 
 
     //producer
-    $("#grains a:contains('DTN Grains')").parent().parent().parent().addClass('active');
-    $("#livestock a:contains('DTN Livestock')").parent().parent().parent().addClass('active');
-    $("#dairy a:contains('DTN Dairy')").parent().parent().parent().addClass('active');
-    $("#northern_grains a:contains('DTN Northern Grains')").parent().parent().parent().addClass('active');
-    $("#southern_crops a:contains('DTN Southern Crops')").parent().parent().parent().addClass('active');
-    $("#canada a:contains('DTN Canada')").parent().parent().parent().addClass('active');
+    $("#professional a:contains('DTN Professional')").parent().parent().parent().addClass('active');
+    // $("#livestock a:contains('DTN Livestock')").parent().parent().parent().addClass('active');
+    // $("#dairy a:contains('DTN Dairy')").parent().parent().parent().addClass('active');
+    // $("#northern_grains a:contains('DTN Northern Grains')").parent().parent().parent().addClass('active');
+    // $("#southern_crops a:contains('DTN Southern Crops')").parent().parent().parent().addClass('active');
+    // $("#canada a:contains('DTN Canada')").parent().parent().parent().addClass('active');
     $("#ag_wx_station a:contains('DTN Ag Weather Station')").parent().parent().parent().addClass('active');
-    $("#ag_wx_expert a:contains('DTN Ag Weather Expert')").parent().parent().parent().addClass('active');
+    // $("#ag_wx_expert a:contains('DTN Ag Weather Expert')").parent().parent().parent().addClass('active');
     $("#ag_essential a:contains('DTN Ag Essential')").parent().parent().parent().addClass('active');
     $("#mobile .producernav a:contains('DTN Mobile')").parent().parent().parent().addClass('active');
-    $("#sixfactors a:contains('DTN Six Factors')").parent().parent().parent().addClass('active');
+    // $("#sixfactors a:contains('DTN Six Factors')").parent().parent().parent().addClass('active');
     $("#mobileforipad a:contains('DTN Mobile bundle for iPad')").parent().parent().parent().addClass('active');
     $("#premiumservices .producernav a:contains('DTN Premium Services')").parent().parent().parent().addClass('active');
     $("#agweathertoolsapp a:contains('Ag Weather Tools App')").parent().parent().parent().addClass('active');

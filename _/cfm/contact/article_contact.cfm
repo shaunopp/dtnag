@@ -6,7 +6,7 @@
     <div class="col-md-6 description">
         <strong>Sales</strong>
         <br>
-        <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i> Toll-free: 800.500.0095</abbr>
+        <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i> Toll-free: 800.511.0095</abbr>
         <br>
         <a href="http://www.dtn.com/forms/ag/contact/new?DCMP=dtnpf-contactus-page"><i class="fa fa-envelope"></i> Email</a>
         <br>

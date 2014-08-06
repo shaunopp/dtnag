@@ -6,37 +6,22 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/producer/grains/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/grains_sm.jpg" class="img-circle img-responsive" alt="grains thumbnail">
-                        <div class="caption">
-                            <h4>DTN Grains<sup>&reg;</sup>
+                    <a href="/ag/producer/ag_weather_tools_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                        <img src="/ag/images/producer_products/ag_wx_tools_sm.jpg" alt="mobile for ipad thumbnail" class="img-rounded pull-left">
+                        <div class="caption" class="pull-right">
+                            <h4>Ag Weather Tools App<sup>&reg;</sup>
                             </h4>
-                            <p>Become more profitable and efficient.</p>
+                            <p>Comprehensive ag weather information
+                            </p>
                         </div>
                     </a>
-                    <a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/mobileforipad_sm.jpg" alt="mobile for ipad thumbnail" class="img-circle pull-left">
+                    <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                        <img src="/ag/images/producer_products/agessential_sm.jpg" alt="ag essential thumbnail" class="img-circle pull-left">
                         <div class="caption" class="pull-right">
-                            <h4>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
+                            <h4>Ag Essential<sup>&trade;</sup> 
+                                <span class="label label-primary">New</span>
                             </h4>
-                            <p>Your mobile command center starts here</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="row">
-                    <a href="/ag/producer/mobile/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/mobile_sm.jpg" alt="mobile thumbnail" class="img-circle pull-left">
-                        <div class="caption" class="pull-right">
-                            <h4>DTN Mobile<sup>&reg;</sup>
-                            </h4>
-                            <p>Stay on top of markets, news, and weather wherever you go</p>
-                        </div>
-                    </a>
-                    <a href="/ag/producer/ag_weather_expert/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/ag_wx_expert_sm.jpg" alt="ag weather expert thumbnail" class="img-circle pull-left">
-                        <div class="caption" class="pull-right">
-                            <h4>DTN Ag Weather Expert</h4>
-                            <p>Highly localized weather-only service</p>
+                            <p>Inventory, financials, margins, and market values &ndash; all tied together in one place</p>
                         </div>
                     </a>
                 </div>

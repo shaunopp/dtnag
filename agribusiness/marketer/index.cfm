@@ -34,7 +34,9 @@
                 <cfinclude  template="/ag/_/cfm/marketer/snippet_marketer_related.cfm">
             </section>
             <section class="col-md-4">
-                <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
+                <div class="well hidden-sm hidden-xs">
+                    <a href="#" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+                </div>
                 <cfinclude template="/ag/_/cfm/marketer/aside_marketer.cfm">
             </section>
         </div>

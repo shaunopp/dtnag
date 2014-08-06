@@ -4,7 +4,7 @@
             <h1>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
             </h1>
             <h2>Your mobile command center starts here</h2>
-            <p>DTN’s Mobile Bundle for iPad is your personal mobile command center for complete decision support freedom. Stay connected with the information you need for an added edge and greater confidence in making business and operational decisions. </p>
+            <p>DTN&rsquo;s Mobile Bundle for iPad is your personal mobile command center for complete decision support freedom. Stay connected with the information you need for an added edge and greater confidence in making business and operational decisions. </p>
 
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check-square-o"></i>
@@ -16,7 +16,7 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Be more confident</strong> with expert, independent insight, analysis, and recommendations, in both summary and detailed formats</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Take a Free 14-day Trial </a>
+            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/producer_products/mobileforipad_lg.jpg" alt="six factors photo" height="170px" width="170px">

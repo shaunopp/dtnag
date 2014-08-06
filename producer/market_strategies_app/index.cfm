@@ -35,7 +35,9 @@
                 <cfinclude  template="/ag/_/cfm/marketstrategiesapp/snippet_marketstrategiesapp_related.cfm">
             </section>
             <section class="col-md-4">
-                <cfinclude template="/ag/_/cfm/snippet_trial_btn_well.cfm">
+                <div class="well hidden-sm hidden-xs">
+                    <a style="margin:0px 0px 5px 0px" href="http://itunes.apple.com/us/app/dtn-progressive-farmer-market/id503976323?ls=1mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the iPhone app </a><a href="https://play.google.com/store/apps/details?id=com.telventdtn.agmarketstrategies&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50ZWx2ZW50ZHRuLmFnbWFya2V0c3RyYXRlZ2llcyJd" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-android"></i> Download the Android app </a>
+                </div>
                 <cfinclude template="/ag/_/cfm/marketstrategiesapp/aside_marketstrategiesapp.cfm">
             </section>
         </div>

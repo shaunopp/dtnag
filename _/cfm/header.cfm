@@ -1,6 +1,8 @@
 <!--- NEW AG GOOGLE ANALYTICS --->
+<!--- commented out for local testing only; restore if syncing with pre or live server --->
 <!--- <cfinclude template="/analytics/google_new_ag_marketing.cfm">   
  --->
+<cfinclude template="mkt_vars_tracker.cfm">
 <header>
     <div class="container-fluid" style="background-color:#0093D0">
         <div class="row">
@@ -22,15 +24,15 @@
                 </a>
             </div>
             <!--- branding --->
-            <div class="navbar-collapse collapse pull-right">
+            <div class="collapse navbar-collapse  pull-right">
                 <ul class="nav navbar-nav">
                     <li class="dropdown producernav">
                         <a href="/ag/producer/index.cfm">Producer <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li class="dropdown-header"><i class="fa fa-desktop"></i> DTN Online</li>
-                            <li><a href="/ag/producer/grains/index.cfm">DTN Grains<sup>&reg;</sup></a>
+                            <!--- <li class="dropdown-header"><i class="fa fa-desktop"></i> DTN Online</li> --->
+                            <li><a href="/ag/producer/professional/index.cfm">DTN Professional</a>
                             </li>
-                            <li><a href="/ag/producer/livestock/index.cfm">DTN Livestock<sup>&reg;</sup></a>
+                            <!--- <li><a href="/ag/producer/livestock/index.cfm">DTN Livestock<sup>&reg;</sup></a>
                             </li>
                             <li><a href="/ag/producer/dairy/index.cfm">DTN Dairy<sup>&reg;</sup></a>
                             </li>
@@ -39,25 +41,26 @@
                             <li><a href="/ag/producer/southern_crops/index.cfm">DTN Southern Crops<sup>&reg;</sup></a>
                             </li>
                             <li><a href="/ag/producer/canada/index.cfm">DTN Canada<sup>&reg;</sup></a>
-                            </li>
-                            <li class="divider"></li>
+                            </li> 
+                            <li class="divider"></li>--->
                             <li><a href="/ag/producer/ag_weather_station/index.cfm">DTN Ag Weather Station</a>
                             </li>
-                            <li><a href="/ag/producer/ag_weather_expert/index.cfm">DTN Ag Weather Expert</a>
+<!---                             <li><a href="/ag/producer/ag_weather_expert/index.cfm">DTN Ag Weather Expert</a>
                             </li>
-                            <li><a href="/ag/producer/ag_essential/index.cfm">DTN Ag Essential<sup>&trade;</sup></a>
-                            </li>
-                            <li><a href="/ag/producer/mobile/index.cfm">DTN Mobile<sup>&reg;</sup></a>
-                            </li>
-                            <li><a href="/ag/producer/six_factors/index.cfm">DTN Six Factors<sup>&reg;</sup></a>
-                            </li>
-                            <li><a href="/ag/producer/mobile_bundle_for_ipad/index.cfm">DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup></a>
+ --->                       <li><a href="/ag/producer/ag_essential/index.cfm">DTN Ag Essential<sup>&trade;</sup></a>
                             </li>
                             <li><a href="/ag/producer/premium_services/index.cfm">DTN Premium Services</a>
                             </li>
-                            <li class="divider"></li>
+                            <li><a href="/ag/producer/mobile/index.cfm">DTN Mobile<sup>&reg;</sup></a>
+                            </li>
+<!---                             <li><a href="/ag/producer/six_factors/index.cfm">DTN Six Factors<sup>&reg;</sup></a>
+                            </li>
+ --->                            <li><a href="/ag/producer/mobile_bundle_for_ipad/index.cfm">DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup></a>
+                            </li>
+                            
+<!---                             <li class="divider"></li>
                             <li class="dropdown-header"><i class="fa fa-mobile fa-lg"></i> Mobile Apps</li>
-                            <li><a href="/ag/producer/ag_weather_tools_app/index.cfm">Ag Weather Tools App</a>
+ --->                            <li><a href="/ag/producer/ag_weather_tools_app/index.cfm">Ag Weather Tools App</a>
                             </li>
                             <li><a href="/ag/producer/market_strategies_app/index.cfm">DTN Market Strategies App</a>
                             </li>
@@ -77,7 +80,8 @@
                             </li>
                             <li><a href="/ag/agribusiness/portal/">DTN Portal<sup>&reg;</sup></a>
                             </li>
-
+                            <li><a href="/ag/agribusiness/connect/">DTN Connect<sup>&trade;</sup></a>
+                            </li>
                             <li><a href="/ag/agribusiness/prophetx/">DTN ProphetX<sup>&reg;</sup></a>
                             </li>
 
@@ -90,12 +94,10 @@
                             </li>
                             <li><a href="/ag/agribusiness/mobile/index.cfm">DTN Mobile</a>
                             </li>
-                            <li class="divider"></li>
-                            <li class="dropdown-header"><i class="fa fa-mobile"></i> Mobile Apps</li>
-                            <li><a href="/ag/agribusiness/connect/">DTN Connect<sup>&trade;</sup></a>
-                            </li>
                             <li><a href="/ag/agribusiness/scout/">DTN Scout<sup>&trade;</sup></a>
                             </li>
+                            <!--- <li class="divider"></li>
+                            <li class="dropdown-header"><i class="fa fa-mobile"></i> Mobile Apps</li> --->
                         </ul>
                     </li>
                     <!--- agribusiness --->
@@ -108,6 +110,8 @@
                 </ul>
             </div>
         </div>
+
+
     </section>
     <!--- navbar --->
     <section class="row subnav">
