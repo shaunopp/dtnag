@@ -6,5 +6,5 @@
 
 <!---     <cfinclude template="/ag/_/cfm/agweathertoolsapp/snippet_agweathertoolsapp_cs.cfm">
  --->    <cfinclude template="/ag/_/cfm/agweathertoolsapp/snippet_agweathertoolsapp_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/agweathertoolsapp/snippet_agweathertoolsapp_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/agweathertoolsapp/snippet_agweathertoolsapp_screens.cfm">
+ ---></section>

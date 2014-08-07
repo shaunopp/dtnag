@@ -6,5 +6,5 @@
 
     <cfinclude template="/ag/_/cfm/portal/snippet_portal_cs.cfm">
     <cfinclude template="/ag/_/cfm/portal/snippet_portal_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/portal/snippet_portal_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/portal/snippet_portal_screens.cfm">
+ ---></section>

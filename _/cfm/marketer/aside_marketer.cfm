@@ -6,5 +6,5 @@
 
     <cfinclude template="/ag/_/cfm/marketer/snippet_marketer_cs.cfm">
     <cfinclude template="/ag/_/cfm/marketer/snippet_marketer_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/marketer/snippet_marketer_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/marketer/snippet_marketer_screens.cfm">
+ ---></section>

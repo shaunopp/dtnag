@@ -14,11 +14,13 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Maximize margins</strong> with real-time inventory and market valuations across planted fields and on-farm and agribusiness storage</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+            <a href="http://www.dtn.com/forms/ag/try/agessential/<cfoutput>#agessential_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/producer_products/agessential_lg.jpg" alt="ag essential photo" height="170px" width="170px">
         </div>
     </div>
+    <br>
+    <cfinclude template="/ag/_/cfm/snippet_producer_phone.cfm">
     <br>
 </article>

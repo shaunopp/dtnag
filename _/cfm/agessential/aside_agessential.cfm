@@ -6,5 +6,5 @@
 
     <cfinclude template="/ag/_/cfm/agessential/snippet_agessential_cs.cfm">
     <cfinclude template="/ag/_/cfm/agessential/snippet_agessential_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/agessential/snippet_agessential_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/agessential/snippet_agessential_screens.cfm">
+ ---></section>

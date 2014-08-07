@@ -6,5 +6,5 @@
 
 <!---     <cfinclude template="/ag/_/cfm/marketstrategiesapp/snippet_marketstrategiesapp_cs.cfm">
  --->    <cfinclude template="/ag/_/cfm/marketstrategiesapp/snippet_marketstrategiesapp_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/marketstrategiesapp/snippet_marketstrategiesapp_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/marketstrategiesapp/snippet_marketstrategiesapp_screens.cfm">
+ ---></section>

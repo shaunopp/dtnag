@@ -23,7 +23,61 @@
 </cfif>
  ---><!--- END SET KEYWORD COOKIE --->
 
-<!--- SET VAR MARKETING CODES --->
+<!--- ************************************************* --->
+<!--- *************** SET PHONE NUMBERS *************** --->
+<!--- ************************************************* --->
+<!--- PRODUCER --->
+<!--- Look for producer_phone variable in URL and set cookie if found --->
+<cfif isDefined("URL.pphone")>
+<cfcookie name="pphone" value="#pphone#" expires="30"></cfcookie>
+</cfif>
+<cfif isDefined("cookie.pphone")>
+<cfset producer_phone_value = cookie.pphone>
+<cfelse> 
+<cfset producer_phone_value = "800.511.0095">
+</cfif>
+
+<!--- AGRIBUSINESS --->
+<cfsavecontent 
+    variable = "default_phones">
+    <h4>
+        <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i>
+                Elevators & Co-ops 888.703.0096
+            </abbr>
+        </h4>
+        <h4>
+            <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i>
+                Brokers, Banks, Retail & Others 800.926.3875
+            </abbr>
+        </h4>
+</cfsavecontent>
+
+<!--- Look for producer_phone variable in URL and set cookie if found --->
+<cfif isDefined("URL.abphone1")>
+<cfcookie name="abphone1" value="#abphone1#" expires="30"></cfcookie>
+</cfif>
+<cfif isDefined("cookie.abphone1")>
+<cfsavecontent 
+    variable = "campaign_phone">
+    <h4>
+        <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i>
+                Call: <cfoutput>#cookie.abphone1#</cfoutput>
+            </abbr>
+        </h4>
+</cfsavecontent>
+</cfif>
+<cfif isDefined("cookie.abphone1")>
+<cfset ab_phone1_value = #campaign_phone# >
+<cfelse> 
+<cfset ab_phone1_value = #default_phones#>
+</cfif>
+<!--- END PHONE NUMBER CODE --->
+
+
+
+<!--- ************************************************* --->
+<!--- ************** SET MARKETING WAVS *************** --->
+<!--- ************************************************* --->
 <!--- PROFESSIONAL --->
 <!--- Look for dtnprofessional_wavs variable in URL and set cookie if found --->
 <cfparam name="dtnprofessional_wavs" default="">
@@ -127,7 +181,7 @@
 <cfcookie name="aghostmobile_wavs" value="#aghostmobile_wavs#" expires="30"></cfcookie>
 </cfif>
 <!--- Look for aghostmobile_wavs cookie and set a new variable with ?vars= for output to link  --->
-<cfparam name="aghostmobile_cookie_value" default="">
+<cfparam name="aghostmobile_cookie_value" default="?vars=32848|32850|32849|32851">
 <cfif isDefined("cookie.aghostmobile_wavs")>
 <cfset aghostmobile_cookie_value = "?vars=" & cookie.aghostmobile_wavs>
 </cfif>

@@ -23,10 +23,6 @@
         </div>
     </div>
     <br>
-    <div class="row">
-    <div class="col-md-12 description">
-        <h4><abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i> Call: 800.511.0095</abbr></h4>
-        </div>
-    </div>
+    <cfinclude template="/ag/_/cfm/snippet_producer_phone.cfm">
     <br>
 </article>

@@ -6,5 +6,5 @@
 
     <cfinclude template="/ag/_/cfm/ag_wx_station/snippet_ag_wx_station_cs.cfm">
     <cfinclude template="/ag/_/cfm/ag_wx_station/snippet_ag_wx_station_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/ag_wx_station/snippet_ag_wx_station_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/ag_wx_station/snippet_ag_wx_station_screens.cfm">
+ ---></section>

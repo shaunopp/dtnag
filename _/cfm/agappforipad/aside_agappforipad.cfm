@@ -6,5 +6,5 @@
 
 <!---     <cfinclude template="/ag/_/cfm/agappforipad/snippet_agappforipad_cs.cfm">
  --->    <cfinclude template="/ag/_/cfm/agappforipad/snippet_agappforipad_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/agappforipad/snippet_agappforipad_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/agappforipad/snippet_agappforipad_screens.cfm">
+ ---></section>

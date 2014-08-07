@@ -6,5 +6,5 @@
 
     <cfinclude template="/ag/_/cfm/aghost/snippet_aghost_cs.cfm">
     <cfinclude template="/ag/_/cfm/aghost/snippet_aghost_vids.cfm"> 
-	<cfinclude template="/ag/_/cfm/aghost/snippet_aghost_screens.cfm">
-</section>
+<!--- 	<cfinclude template="/ag/_/cfm/aghost/snippet_aghost_screens.cfm">
+ ---></section>

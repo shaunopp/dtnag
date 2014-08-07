@@ -16,11 +16,13 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Be more confident</strong> with expert, independent insight, analysis, and recommendations, in both summary and detailed formats</li>
             </ul>
-            <a href="#" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+            <a href="http://www.dtn.com/go/bundle/tryform/<cfoutput>#mobilebundleipad_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/producer_products/mobileforipad_lg.jpg" alt="six factors photo" height="170px" width="170px">
         </div>
     </div>
+    <br>
+    <cfinclude template="/ag/_/cfm/snippet_producer_phone.cfm">
     <br>
 </article>
