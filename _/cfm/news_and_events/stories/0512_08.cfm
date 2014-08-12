@@ -1,0 +1,20 @@
+
+
+<p class="newsheader_t1">The Seattle Times</p>
+<p class="newssubhead_t1">Wheat soars on dry weather; crude and gold sink</p>
+<p>Wheat futures soared 5 percent as dry weather in the U.S. brought worries that the crop wouldn't be nearly as large as traders had expected.</p>
+<p>Reports of a drought in Russia also had traders anticipating tighter supplies of wheat. The July contract settled up 30.25 cents at $6.3875. Corn also jumped, 4 percent.</p>
+<p>Oil and gold futures fell to their lowest levels in months as the dollar continued to march higher against the euro. Traders have been buying dollars aggressively over the past two weeks because they're nervous that Greece might be forced to exit the euro bloc.</p>
+<p>Dollar-priced commodities like oil and gold tend to fall when the dollar rises. Crude is at the lowest level since November, and gold is the lowest since December.</p>
+<p>In wheat trading, the market got a rare bit of bullish news. The grain had been on a steady decline since late April, but has turned around over the past two days on worries about dry weather in the southern plains.</p>
+<p>&quot;We needed one more rain to finish the crop up to the bumper level everyone was expecting,&quot; said John Sanow, Telvent DTN in Omaha. &quot;Instead it's been dry and we've had above-average temperatures. On top of that, in Russia they've been going through a spring drought and there are reports of irreversible damage to a portion of the wheat crop.&quot;</p>
+<p>July corn increased 22.75 cents to $6.20 per bushel. Soybeans edged up 9 cents to $14.22 per bushel.</p>
+<p>In metals trading, gold for June delivery fell $20.50 to finish at $1,536.60 per ounce. Gold is now $252 below the year-to-date high of $1,788 it reached on Feb. 28. That's also roughly when the dollar resumed its appreciation against the euro as investors became more worried about Europe's debt crisis. A political stalemate in Greece, which has raised the risk that the country could be booted from the currency bloc, has sent the dollar sharply higher over the past two weeks.</p>
+<p>Jon Nadler, senior analyst at Montreal-based Kitco Metals, said the dollar's surge and grossly exaggerated optimism about gold's future prospects have been key factors behind the sharp decline in the metal's price.</p>
+<p>&quot;Effectively, reality has caught up with the market,&quot; Nadler said.</p>
+<p>The end of the gold rally can be traced back to last August, Nadler said, when gold approached $1,900 an ounce as turmoil seized the stock market following the downgrade of the U.S. government's debt rating. Investors piled into gold at that time as a safe harbor to ride out the turbulence. They anticipated severe weakness in the dollar because of the Federal Reserve's easy-money policy.</p>
+<p>Yet as Europe's debt woes escalated over this year and the Fed indicated it would end its bond-buying program aimed at keeping interest rates low, the dollar has replaced gold as the favored safe haven investment. Instead of falling against other currencies, an index measuring the dollar against six other currencies has surged 9 percent since September.</p>
+<p>&quot;We had been promised by all these doomsday newsletters that the Fed was willing to sacrifice the dollar for the sake of the economic recovery,&quot; Nadler said. &quot;It turned out to be an ill-placed bet anticipating runaway inflation.&quot;</p>
+<p>May silver dropped 88.4 cents, 3 percent, to $27.17 per ounce. May copper declined 3.7 cents to $3.485 per pound. July platinum fell $14.30 to $1,432.20 per ounce and June palladium fell $7 to $594.10 per ounce.</p>
+<p>Benchmark crude oil fell $1.17 to end at $92.81 per barrel on the New York Mercantile Exchange. Heating oil fell 3.54 cents to $2.8976 per gallon, gasoline futures fell 2.32 cents to $2.9209 per gallon. Natural gas rose 11.8 cents, or 5 percent, to $2.618 per 1,000 cubic feet.</p>
+<p id="p2">Copyright&copy; The Seattle Times. All rights reserved. <a href="http://seattletimes.nwsource.com/html/businesstechnology/2018223371_apuscommoditiesreview.html" target="_blank">Original Article</a></p>

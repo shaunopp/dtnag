@@ -1,0 +1,13 @@
+
+
+<p class="newsheader_t1">BusinessWeek.com</p>
+<p class="newssubhead_t1">Wheat Fields Parched by Drought From U.S. to Russia: Commodities</p>
+<p>Russia and Ukraine<br />
+The funds were also betting on lower prices in May 2010, three months before Russia and Ukraine imposed export curbs after drought decimated their crops. Russian production plunged 33 percent and Ukraine's harvest slumped 19 percent, USDA data show. A basket of 55 foods tracked by the United Nations jumped 32 percent in the next seven months, reaching a record in February 2011. The gauge fell 10 percent since then.</p>
+<p>The rain that fell in the past several days in east and south Ukraine won't be enough to revive wheat and barley crops, said Adamenko of the National Meteorology Center in Kiev. The stress on plants extends into neighboring Russia and Kazakhstan, and rain would slow the decline in yields rather than reverse it, said Don Keeney, a senior agricultural meteorologist for MDA EarthSat Weather/CropCast in Gaithersburg, Maryland.</p>
+<p>Warmer Weather<br />
+  Kansas will be mostly dry with only scattered light showers for the next week, and temperatures will be warmer than normal, Mike Palmerino, an agricultural meteorologist at Telvent DTN in Minneapolis, said in a May 23 report. As recently as May 3, yields were forecast at a record 49.1 bushels an acre by the Wheat Quality Council, after the industry group tallied 608 samples from its annual three-day tour of fields.</p>
+<p>The outlook is no better in Western Australia, which produces 40 percent of the country's wheat. The state had below- average rainfall in April, according to the Bureau of Meteorology. Production in Australia, the second-biggest exporter after the U.S., will drop 12 percent to 26 million tons in the year through May 2013, USDA data show.</p>
+<p>Wheat fields in France, Germany and Poland, which account for about 10 percent of global output, were damaged by unusually cold weather in February. The 27-nation European Union cut its outlook for soft-wheat production to 126.7 million tons last month, about 4.7 percent less than forecast in March.</p>
+<p>&quot;Across the board, we have production concerns,&quot; said Shawn McCambridge, the senior grain analyst for Jefferies Bache LLC in Chicago. &quot;If we do see that hot, dry pattern come in, it's not an opportune time for the crop.&quot;</p>
+<p id="p2">Copyright&copy; BusinessWeek.com. All rights reserved. <a href="http://www.businessweek.com/news/2012-05-23/wheat-fields-parched-by-drought-from-u-dot-s-dot-to-russia-commodities#p2" target="_blank">Original Article</a></p>

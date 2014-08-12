@@ -1,6 +1,5 @@
 <br>
-<div class="page-header"><h1>DTN/
-    <em>The Progressive Farmer Customer Service FAQ</em>
+<div class="page-header"><h1>DTN/<em>The Progressive Farmer Customer Service FAQ</em>
     </sup>
 </h1></div>
 <p>

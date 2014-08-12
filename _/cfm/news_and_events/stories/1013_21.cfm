@@ -1,0 +1,16 @@
+
+
+<p class="newsheader_t1">The Wall Street Journal</p>
+<p class="newssubhead_t1">U.S. Natural-Gas Futures Settle Up as Weather Trumps Stock Build</p>
+<p>Natural-gas-futures prices settled modestly higher Thursday as hopes for stronger demand from a near-term Midwest cold snap overshadowed a bigger-than-expected rise in inventories.</p>
+<p>The Energy Information Administration said gas inventories rose by 87 billion cubic feet in the week ended Oct. 18, compared with a rise of 79 bcf in a Wall Street Journal survey of 12 analysts. The rise exceeded the highest estimate, for an increase of 84 bcf. It also topped the increase of 64 bcf in the same week last year and the five-year average rise of 67 bcf for the week.</p>
+<p>&quot;That's a huge miss&quot; said Matt Smith, analyst at Schneider Electric.</p>
+<p>The data accelerated earlier weakness, pushing prices down to the lowest level since Oct. 7. But strong buying interest soon emerged, erasing losses.</p>
+<p>November-delivery natural-gas futures on the New York Mercantile Exchange settled one cent higher, at $3.629 per million British thermal units. In recent days, prices settled at near three-week lows in anticipation of a big rise in inventories, given relatively moderate temperatures last week and continued strong production levels.</p>
+<p>Analysts said many market players appear to be focusing on differing time frames for shifting weather forecasts that are sending opposite signals about demand in the Midwest, the nation's biggest market for residential gas heating.</p>
+<p>MDA Weather Services said current Midwest temperatures are the lowest since spring. But it projects that conditions in the next six to 10 days won't be as cold as previously thought, reducing demand. The outlook for the next six to 10 days shows &quot;not a warm map by any stretch for much of the Plains and upper Midwest,&quot; the forecasters said in a note to clients. But &quot;the threat of strong cold is reduced today.&quot;</p>
+<p>Stronger gas-heating demand in the current cold snap could limit the size of inventory increases in coming weeks as the start of the heating season draws near, traders said.</p>
+<p>At 3.741 trillion cubic feet, the EIA said current gas inventories are 2.4% below the unusually high year-earlier level and 2.1% above the five-year average level for the week ended Oct. 18.</p>
+<p>&quot;We've probably seen the last big injection of the season,&quot; said Aaron Calder, senior market analyst at Gelber &amp; Associates, of the rise reported Thursday. Still, he said, &quot;there's plenty of gas in storage&quot; and inventories are likely to hit the comfort level 3.8 tcf by early November, when they traditionally begin to drop as demand increases.</p>
+<p>Mr. Calder said higher coal prices open the door for gas prices to rise further and still remain competitive with coal in the power-generation market. He said gas could trade to around $3.74/mmBtu, based on current coal prices, without losing market share.</p>
+<p id="p2">Copyright&copy; The Wall Street Journal. All rights reserved. <a href="http://online.wsj.com/article/BT-CO-20131024-714226.html" target="_blank">Original Article</a></p>

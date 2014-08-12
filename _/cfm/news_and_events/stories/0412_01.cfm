@@ -1,0 +1,13 @@
+
+
+<p class="newsheader_t1">Bloomberg</p>
+<p class="newssubhead_t1">Wheat Declines as Rains in U.S., Russia Improve Crop Prospects</p>
+<p>Wheat dropped for the second time this week as rain in the U.S., Russia and Ukraine boosted crop prospects and investor appetite waned after U.S. Federal Reserve minutes showed it may hold off more monetary stimulus.</p>
+<p>Winter-wheat areas in the southern U.S. Great Plains had as much as 1.25 inches (3.2 centimeters) of rain since yesterday, with another inch forecast in the next five days, Bethesda, Maryland-based Commodity Weather Group said today in an e-mailed report. Showers in Russia and Ukraine also will aid crops, Telvent DTN said. The Fed will refrain from increasing monetary accommodation unless the U.S. economic expansion falters or prices rise at a rate slower than its 2 percent target, according to minutes of its March 13 meeting.</p>
+<p>&ldquo;U.S. weather conditions are favorable for the wheat crop,&rdquo; Adam Davis, a commodity trader at Melbourne-based Merricks Capital Services Pty., said in an e-mail today. &ldquo;Risk- off sentiment is also affecting all commodities.&rdquo;</p>
+<p>Wheat for May delivery fell 1.1 percent to $6.505 a bushel on the Chicago Board of Trade by 1:47 p.m. London time. The price was down 0.4 percent in the first two days this week. In Paris, milling wheat for November delivery lost 1 percent to 203.75 euros ($267) a metric ton on NYSE Liffe.</p>
+<p>The U.S. is the largest wheat exporter, followed by Australia and Russia, according to U.S. Department of Agriculture data released March 9.</p>
+<p>May-delivery corn rose 0.3 percent to $6.605 a bushel, after earlier climbing as much as 0.8 percent. The price gained a fourth day, the longest winning streak in more than a month, as supply from the last U.S. harvest declined and cold weather threatened to slow planting in the top grower and exporter.</p>
+<p>Inventories (UGRSCNTO) of corn in the U.S. on March 1 dropped from a year earlier to 6.01 billion bushels, the lowest for the date since 2004, the USDA said March 30. Nonghyup Feed Inc., South Korea&rsquo;s biggest buyer of feed grains, purchased 118,000 tons of U.S. corn for arrival in September yesterday, according to Lee Tae Woong, a deputy general manager. The company has a corn tender today to buy as much as 140,000 tons, he said.</p>
+<p>Soybeans for May delivery fell 0.4 percent to $14.1175 a bushel in Chicago. Yesterday, the price touched $14.3425, the highest for a most-active contract since Sept. 7.</p>
+<p id="p2">Copyright&copy; Bloomberg. All rights reserved. <a href="http://www.bloomberg.com/news/2012-04-04/wheat-declines-as-rains-in-u-s-russia-improve-crop-prospects.html" target="_blank">Original Article</a></p>

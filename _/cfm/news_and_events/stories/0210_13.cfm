@@ -1,0 +1,9 @@
+
+<p class="newsheader_t1">FuturesMagazine.com	</p>
+<p class="newssubhead_t1">Orange juice futures squeezed</p>
+<p>A deep freeze in Florida in early January caused a sharp rally in frozen concentrated orange juice futures, but although the cold put the crop in jeopardy, as of mid-January prices retreated some and it is unknown what the damage to the crop was.</p>
+<p>&ldquo;It&rsquo;s too early to tell the full extent of the damage. There&rsquo;s going to be some losses, but the market&rsquo;s anticipated the freeze premium as well. That&rsquo;s why we haven&rsquo;t extended this rally as much as we would have if we were still below $1 a pound,&rdquo; says Mike Zarembski, senior commodities analyst at optionsXpress.</p>
+<p><font style="background-color:#E6EEFF">&ldquo;It&rsquo;s a classic &lsquo;buy the rumor/sell the fact&rsquo; [scenario] in orange juice,&rdquo; says Darin Newsom, senior analyst at Telvent DTN. &ldquo;If we see this market start to show signs that damage wasn&rsquo;t as bad as was anticipated, there&rsquo;s a possibility of [orange juice] dropping near support at $1.06. We&rsquo;re probably going to find some [initial] support around $1.20,&rdquo; in late February to early March.</font></p>
+<p>Zarembski expects the market to trade in a consolidated range of $1.20 to $1.25 versus May futures. &ldquo;On the upside, if the damage is severe enough, it could take out $1.50 to $1.60 in the upside. This freeze will hurt next year&rsquo;s production as well,&rdquo; he says, adding that orange juice prices could go even higher in the long-term due to declining production in Brazil and Florida.</p>
+<p>Copyright&copy;  2010 FuturesMagazine.com. All rights reserved. <a href="http://www.futuresmag.com/Issues/2010/February-2010/Pages/Orange-juice-futures-squeezed.aspx" target="_blank">Original Article</a></p>
+

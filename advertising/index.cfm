@@ -42,6 +42,14 @@
     <script src="/ag/_/js/myscript.js"></script>
     <!-- for thumbnail photo placeholder; can remove and use placehold.it -->
     <script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
+<!--- Crazy Egg Script --->
+        <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5266.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+    <!--- end --->
 </body>
 
 </html>

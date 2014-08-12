@@ -1,0 +1,23 @@
+
+
+<p class="newsheader_t1">DesMoinesRegister.com</p>
+<p class="newssubhead_t1">USDA's corn planting report to attract extra attention</p>
+<p> With grain prices soaring and food prices rising, everyone from farmers to ethanol producers and meatpackers are watching closely to see how much corn growers will plant this spring.</p>
+<p>The first indication will come Thursday when the Agriculture Department releases its annual survey of farmers' planting intentions.</p>
+<p>The stakes are huge. Corn stocks are at their lowest levels since the mid-1990s, with the equivalent of just over two weeks of grain on hand.</p>
+<p>&quot;We always pay attention to the numbers. You absolutely pay a little more attention to them when the stocks are either very tight or very plentiful,&quot; said Jon Doggett, a lobbyist for the National Corn Growers Association.</p>
+<p>Corn prices have been surging in recent months, raising the cost of producing meat and milk, which means higher prices at the supermarket. Higher corn prices increase feed costs for livestock farms and encourage them to cut production.</p>
+<p>The price increases are fueling criticism in Congress of the federal incentives for ethanol, including the 45-cent-per-gallon tax credit that subsidizes the gasoline additive. The subsidy is scheduled to expire at the end of the year, and critics in Congress are pushing to abolish it earlier to help reduce the budget deficit.</p>
+<p>Every increase in food prices is blamed on corn and ethanol, and a disappointing planting survey Thursday could provide a boost to critics of federal biofuel policy, said Darin Newsom, an agricultural commodity analyst for DTN. Food prices are already expected to rise as much as 4 percent this year, compared with less than 1 percent in 2010.</p>
+<p>&quot;I do think that if we see the corn market just explode higher, that talk is going to heat up. But we have to realize this is not all ethanol-driven,&quot; Newsom said.</p>
+<p>China will also be watching the report, according to analyst Arlan Suderman of Farm Futures. China &quot;would probably become more aggressive in buying corn, if the USDA releases a relatively low acreage estimate,&quot; he wrote Tuesday. If the number is higher, China would likely delay corn purchases, counting on the price to come down.</p>
+<p>USDA economists have been predicting that farmers will plant 92 million acres of corn this spring, 4 million more than last year. That would be the largest amount of corn planted since World War II except for 2007. According to media surveys, market analysts expect Thursday's survey to show farmers will plant between 91 million and 92 million acres of corn.</p>
+<p>If the actual numbers are lower than that, corn prices will likely jump again, experts say. The price of corn for December delivery, now about $6 a bushel, would likely rise by 75 cents a bushel if the acreage number is under 91 million, said Rich Nelson, a market analyst with Allendale Inc.</p>
+<p>Also important in addition to the total acreage is where farmers will plant the extra corn. Experts think much of the extra acreage will be in the western Plains and other areas where growing conditions are not as reliable as they are in Iowa and Illinois.</p>
+<p>Dick Gallagher, a Washington, Ia., farmer who heads the Iowa Corn Promotion Board, doesn't expect big increases in corn acreage in the state. Gallagher, like many other farmers, splits his fields 50-50 between corn and soybeans. Soybeans fix nitrogen in the soil, which helps maintain soil fertility.</p>
+<p>&quot;In Iowa, the production is pretty stable,&quot; he said. Iowa farmers planted 13.4 million acres of corn last year and 9.8 million acres of soybeans.</p>
+<p>Still, Gallagher is optimistic that farmers will grow enough corn to satisfy demand, he said.</p>
+<p>&quot;It's the markets at work, and that's good. When as farmers we're making money, we'll squeeze as hard as we can to get every bushel, or every bale, or whatever it is, out of our production,&quot; he said.</p>
+<p>A spokesman for the meatpacking industry, which has been lobbying to end incentives for ethanol, says that even if the USDA report indicates there will be sufficient corn, that doesn't mean there will be enough when the crop is harvested.</p>
+<p>&quot;The fundamental question remains: 'Do we have enough corn to meet our food, feed and fuel obligations?' The answer in our opinion is no,&quot; said Tom Super of the American Meat Institute.</p>
+<p>Copyright&copy; DesMoinesRegister.com. All rights reserved. <a href="http://www.desmoinesregister.com/article/20110330/BUSINESS01/103300352/-1/SPORTS12/USDA-s-corn-planting-report-attract-extra-attention" target="_blank">Original Article</a></p>

@@ -1,0 +1,11 @@
+
+
+<p class="newsheader_t1">Bloomberg</p>
+<p class="newssubhead_t1">Soybeans Decline to One-Year Low as Corn Drops on U.S. Weather</p>
+<p>Soybeans tumbled to the lowest level in a year and corn extended the biggest weekly loss since April as favorable growing conditions in the U.S. boosted optimism the world&rsquo;s largest producer will harvest record crops.</p>
+<p>Soybeans for delivery in November, after the U.S. harvest, fell as much as 1.6 percent to $12.775 a bushel on the Chicago Board of Trade, the cheapest for the most-active contract since June 6, 2012. Futures were at $12.8375 by 10:24 a.m. in Singapore on volume that was 78 percent above the 100-day average for that time of day.</p>
+<p>Thunderstorms forecast last weekend helped maintain surplus moisture for crops in the Midwest, while warmer weather is expected for an extended period, favoring late planted crops, DTN reported June 14. Record U.S. soybean and corn harvests, recovering from last year&rsquo;s drought, will increase world production to all-time highs, the government forecasts.</p>
+<p>&ldquo;Weather has been suitable for crop development in the U.S.,&rdquo; Hiroyuki Kikukawa, general manager for researcher at Nihon Unicom Inc., wrote in an e-mail today in a reply to Bloomberg questions. &ldquo;With favorable growing conditions in the U.S., farmers are on course to produce a record crop.&rdquo;</p>
+<p>Corn for delivery in December lost 1.1 percent to $5.2725 a bushel, after losing 4.6 percent last week. That&rsquo;s the worst weekly performance for the most-active contract since the five days ended April 5, excluding the period through May 24 when the contract rolled to December from July. Wheat for delivery in September declined 0.8 percent to $6.83 a bushel.</p>
+<p>Farmers in the U.S. will harvest a record 355.7 million metric tons of corn in the year beginning Sept. 1, boosting world output to the highest ever and rebuilding inventories, the Department of Agriculture said June 12. U.S. soybean production will surge to an all-time high of 92.3 million tons, also lifting world output and inventories to records, it said.</p>
+<p id="p2">Copyright&copy; Bloomberg. All rights reserved. <a href="http://www.bloomberg.com/news/2013-06-17/soybeans-decline-to-one-year-low-as-corn-drops-on-u-s-weather.html" target="_blank">Original Article</a></p>

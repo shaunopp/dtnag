@@ -1,0 +1,6 @@
+
+
+<p class="newsheader_t1">Marketwatch</p>
+<p class="newssubhead_t1">Corn rallies as weather threatens Midwest crops</p>
+CHICAGO (MarketWatch) -- Corn futures rose more than 5% Monday, as near-drought conditions and high temperatures threatened crops in the Midwest. Below-normal precipitation is expected for the next two weeks for most of the Midwest, save small regions in Texas, Arizona, and New Mexico, said Jim Allsopp, a National Weather Service warning coordination meteorologist based in Chicago. Although the U.S. Department of Agriculture is set to release a report with corn data on Wednesday, Telvent DTN Senior Market Analyst Darin Newsom says investor expectations will more likely be dictated by continuing weather reports. "I'm not seeing any change in patterns," he said in a telephone interview. Unless something in the weather patterns change, "we're looking at a summer's worth of problems." December corn CZ2 +2.43%  was up 37 cents, or 5.2%, at $7.29 a bushel on the Chicago Board of Trade.
+<p id="p2">Copyright&copy; Marketwatch. All rights reserved. <a href="http://www.marketwatch.com/story/corn-rallies-as-weather-threatens-midwest-crops-2012-07-09" target="_blank">Original Article</a></p>

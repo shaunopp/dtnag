@@ -1,0 +1,11 @@
+
+
+<p class="newsheader_t1">Bloomberg BusinessWeek</p>
+<p class="newssubhead_t1">Soybeans Drop as Prospects Improve for South American Crops</p>
+<p>Soybeans fell to a six-week low in Chicago and corn declined for a second day as prospects improved for crops in South America.</p>
+<p>Brazil&rsquo;s soybean harvest may reach a record 83 million metric tons in the year from Feb. 1, allowing the country&rsquo;s exports to rise, the U.S. Department of Agriculture&rsquo;s Foreign Agricultural Service said yesterday. Soybean and corn areas from the states of Rio Grande do Sul to Mato Grosso do Sul will have scattered showers and milder temperatures in the next 10 days, and planting conditions in Argentina will be favorable until at least tomorrow, Telvent DTN said today.</p>
+<p>&ldquo;Improved growing conditions in South America are putting particular pressure on prices,&rdquo; Carsten Fritsch, an analyst at Commerzbank AG in Frankfurt, said today in an e-mailed report. &ldquo;The dry weather in Argentina is forecast to continue until mid-January and is creating perfect conditions for the remaining planting. Heavy rainfall and flooding had previously fueled fears of another poor harvest.&rdquo;</p>
+<p>Soybeans for delivery in March dropped 1 percent to $13.785 a bushel at 7:06 a.m. on the Chicago Board of Trade. The oilseed touched $13.725, the lowest price for a most-active contract since Nov. 16. Corn for delivery in March slid 0.7 percent to $6.8625 a bushel.</p>
+<p>Farmers in Argentina have sown 80 percent of the estimated soybean area and 75 percent of the corn area, the Buenos Aires Cereals Exchange said Dec. 27. The country is the world&rsquo;s third- largest soybean exporter, after Brazil and the U.S.</p>
+<p>Wheat for delivery in March fell 0.1 percent to $7.5425 a bushel, erasing an increase of as much as 0.8 percent. The grain reached $7.4975, the lowest level for a most-active contract since June 29. In Paris, milling wheat for delivery in March rose 0.1 percent to 246.50 euros ($322.89) a ton on NYSE Liffe.</p>
+<p id="p2">Copyright&copy; Bloomberg BusinessWeek. All rights reserved. <a href="http://www.businessweek.com/news/2013-01-02/wheat-climbs-from-six-month-low-as-dust-bowl-wilts-u-dot-s-dot-crops" target="_blank">Original Article</a></p>

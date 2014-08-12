@@ -1,0 +1,1 @@
+<cfinclude template="/ag/_/cfm/news_and_events/stories/#URL.pageno#.cfm">

@@ -1,0 +1,16 @@
+
+
+<p class="newsheader_t1">FutureSource.com</p>
+<p class="newssubhead_t1">DJ CBOT Soy Outlook: Seen Up On Follow Through Buying</p>
+<p>CHICAGO (Dow Jones)--U.S. soybean futures are poised for a firmer start to Friday's day session, following through on overnight price strength.</p>
+<p>The market remains underpinned by a strong underlying export demand base and concerns about yield and production potential amid variable weather and field conditions for the 2010 U.S. soybean crop, analysts said.</p>
+<p>Overnight, Chicago Board of Trade November soybeans were 3 cents higher at $10.17 1/2.</p>
+<p>Strong export demand, particularly from China, continues to provide justification for price strength. The uncertainty of yields with dry weather in the eastern Midwest and southern crop areas where the majority of soybean crops are still in the pod fill stage is also serving to keep risk premiums in prices, analysts added. Also supporting prices are lingering concerns about the spread of sudden death syndrome disease in Iowa and Illinois crops.</p>
+<p>However, upside potential is seen limited by the anticipation of record U.S. soy output adding to ample global supplies.</p>
+<p>Still, until the harvest advances into the heart of the Midwest soybean belt, uncertainty about yields will continue to buoy prices, with end user buying seen emerging on price breaks, a cash connected CBOT floor broker said.</p>
+<p>A technical analyst said the next upside technical objective is pushing and closing November prices above solid technical resistance at $10.30. The next downside price objective is pushing and closing prices below solid technical support at this week's low of $9.93 1/2.</p>
+<p>The Telvent DTN weather forecast said drier weather through Monday will favor maturing crops while increasing stress to filling crops, especially soybeans in the eastern and southern Midwest. Wet weather looks to return to western areas during the middle of next week. This may favor any late filling crops but would be unfavorable for maturing crops, Telvent said in the forecast.</p>
+<p>China's soybean imports in August are likely to reach 4.56 million metric tons, the Ministry of Commerce said Friday. If realized, the estimate would be an 8% decrease on July, and below a ministry forecast earlier this month for August shipments. It would, however, still be at historically high levels, up about 46% from the same month last year.</p>
+<p>In overseas markets, soybean futures rose on the Dalian Commodity Exchange Friday, rebounding on rising oil prices, reassurances from Beijing on broad policy stability, and firmer global grain prices. The most actively traded May soybean contract gained 0.6% to settle at CNY4,025 a metric ton.</p>
+<p>Crude palm oil futures on Malaysia's derivatives exchange ended higher Friday on spillover buying interest from soyoil and a bullish price forecast, trade participants said. The benchmark November contract on the Bursa Malaysia Derivatives exchange ended MYR13 higher at MYR2,543 a metric ton.</p>
+<p>Copyright&copy; FutureSource.com. All rights reserved. <a href="http://futuresource.quote.com/news/story.action?mainNewsType=dj_newswire&subsection=Top+Stories&moreRelatedActionName=dowjones_newswire&id=DJC00ONY00827" target="_blank">Original Article</a></p>

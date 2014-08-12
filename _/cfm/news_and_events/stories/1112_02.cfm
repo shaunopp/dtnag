@@ -1,0 +1,15 @@
+
+
+<p class="newsheader_t1">Bloomberg Businessweek</p>
+<p class="newssubhead_t1">Soybeans Slide on South American Outlook and Demand Prospects</p>
+<p>Soybeans fell for a second day in Chicago, reaching the lowest price in almost five months on forecasts for improving weather in South America and prospects of declining demand.</p>
+<p>Brazil, which has experienced dry weather, had showers in northern regions yesterday and some growing areas may see as much as 2 inches (5.1 centimeters) in the next five days, Commodity Weather Group said today in a report. Argentina, where conditions have been too wet, may be mostly dry today and tomorrow before some showers occur Nov. 18, Telvent DTN said.</p>
+<p>&ldquo;Weather conditions in South America look favorable for crop development over the near term,&rdquo; Ker Chung Yang, an analyst at Phillip Futures Pte, said in a report e-mailed today. Investors also may be closing bets on price gains in the absence of news that reflects stronger demand, he said.</p>
+<p>Soybeans for delivery in January slid 1.6 percent to $13.80 a bushel at 7:01 a.m. on the Chicago Board of Trade. The oilseed touched $13.775, the lowest level for a most-active contract since June 22. Prices are down 4.9 percent this week and 23 percent below the record $17.89 reached Sept. 4 as drought cut yields in the U.S.</p>
+<p>China, the world&rsquo;s biggest soybean consumer, canceled 10 cargos totaling 600,000 metric tons, Commerzbank AG said today in an e-mailed report, citing the country&rsquo;s National Grain and Oils Information Center.</p>
+<p>December Shipment</p>
+<p>  China scrapped deliveries &ldquo;that were supposed to be dispatched in December and January and that just a few weeks ago had been agreed at significantly higher prices,&rdquo; said analyst Carsten Fritsch at Commerzbank in Frankfurt. It is &ldquo;likely that these shipments will be renegotiated at lower prices,&rdquo; he said.</p>
+<p>Corn for delivery in March declined 0.8 percent to $7.1925 a bushel. The grain has dropped 3.1 percent this week.</p>
+<p>Wheat for delivery in March fell 0.3 percent to $8.585 a bushel, poised for a sixth straight decline, the longest losing streak since September 2011. The contract is down 4.8 percent this week. In Paris, milling wheat for delivery in January rose 0.1 percent to 269.50 euros ($343.40) a ton on NYSE Liffe.</p>
+<p>The European Union issued export licenses for 695,294 tons of wheat in the week ended Nov. 13, the most grain since September 2010, data from the bloc showed yesterday. U.S. wheat export sales fell 39 percent in the week ended Nov. 1 from the prior period to 220,949 tons, according to the most recent data from the U.S. Department of Agriculture. It will release figures for the following week today.</p>
+<p id="p2">Copyright&copy; Bloomberg Businessweek. All rights reserved. <a href="http://www.businessweek.com/news/2012-11-16/soybeans-slide-on-south-american-outlook-and-demand-prospects" target="_blank">Original Article</a></p>

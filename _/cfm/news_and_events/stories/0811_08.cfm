@@ -1,0 +1,23 @@
+
+
+<p class="newsheader_t1">Northern Ag Network</p>
+<p class="newssubhead_t1">Senators: Ag Can't Avoid Cuts</p>
+<p>Ethanol tax support is likely gone, while direct payments are on the chopping block as the process to cut spending may accelerate decisions on the next farm bill.</p>
+<p>Those are some of the thoughts that veteran Republicans on the Senate Agriculture Committee see coming down the line as decisions are made to cut another $1.2 trillion in future spending before the end of the year.</p>
+<p>Sen. Mike Johanns, R-Neb., told farmers in Lincoln on Monday that the outlook and timing for the next farm bill won't become clear until after a 12-member congressional committee meets this fall to recommend the next round of cuts. But agriculture will be a place to cut, he said.</p>
+<p>&quot;With all of that going on, I think you will see cuts in farm programs. I don't see how you can avoid it,&quot; Johanns said.</p>
+<p>The budget challenges are being felt already for agriculture, Johanns noted. Ethanol policies were popular when Johanns was agriculture secretary in the Bush administration, but the 45-cent blenders' credit will likely go away at the end of the year without any further financial support for the industry.</p>
+<p>&quot;I think it will be virtually impossible to continue that after the first of the year,&quot; Johanns said.</p>
+<p>Sen. Charles Grassley, R-Iowa, also said Tuesday morning in a call with reporters that he can't be hopeful about any ethanol compromise given an earlier vote this summer to eliminate that blenders' credit. Grassley said he would be in favor of more industry investment, &quot;But I think that ethanol better realistically not count on much except retaining the Renewable Fuels Standard mandate.&quot;</p>
+<p>The $900 billion in cuts over 10 years adopted last week won't directly cut farm programs. In addressing the Standards &amp; Poor's rating cut for the U.S. Treasury debt, Johanns said that will filter down into sparking higher interest rates for local government and school-district bond issues. In town-hall meetings in Omaha and Lincoln, Johanns said he had big crowds and a lot of interest on the debt.</p>
+<p>&quot;You can't talk about any program whatsoever in Washington today without talking about the debt,&quot; he said.</p>
+<p>The coming budget that cuts will translate into is establishing a new, lower 10-year baseline for the House and Senate Agriculture Committees to craft the next farm bill. Added to whatever cuts come out of the committee, or a possible across-the-board cut, Johanns said there are 37 programs costing more than $9 billion over five years that have no budget baseline after 2012.</p>
+<p>Overall, though, the strong prices in several commodities are already leading to traditional commodity programs withering away. Johanns said he can't imagine a scenario that would lead to a loan-deficiency payment or counter-cyclical payment for most crops. Further, direct payments will struggle to remain in the fold as well.</p>
+<p>&quot;In the halls of the House and the Senate, it will be very hard to justify a direct payment under these circumstances with very strong prices,&quot; Johanns said.</p>
+<p>Grassley said the super committee process puts the onus on the Senate Agriculture Committee to detail some specific recommendations for cutting programs, or in effect begin the process of shaping the next five years of farm programs.</p>
+<p>&quot;If the Agriculture Committee wants to have input, we better be prepared to do it. So we are all preparing for a lot of work on the Agriculture Committee in September and October in order to get our input into what farm policy is going to be, even if we might not be writing a comprehensive farm bill,&quot; Grassley said.</p>
+<p>Johanns noted that crop insurance is the major safety net for most farmers, particularly in the Midwest where enrollment rates are above 90% statewide. Those programs also already have taken a $6 billion cut in the rate of growth over the next decade.</p>
+<p>Grassley said he doesn't have the slightest idea who would be on the super committee, but it does have to be announced by Aug 14. The majority and minority leaders in each chamber will pick lawmakers for the committee.</p>
+<p>If the super committee can't come to terms, then the lion's share of $1.2 trillion in cuts would come from federal payments to doctors and defense. That's a major incentive for the committee to reach an agreement, Grassley said.</p>
+<p id="p">&nbsp;</p>
+<p>Copyright&copy; Northern Ag Network. All rights reserved. <a href="http://www.northernag.net/AGNews/tabid/171/articleType/ArticleView/articleId/4518/Senators-Ag-Cant-Avoid-Cuts.aspx" target="_blank">Original Article</a></p>

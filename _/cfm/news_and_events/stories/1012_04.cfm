@@ -1,0 +1,12 @@
+
+
+<p class="newsheader_t1">Forbes</p>
+<p class="newssubhead_t1">Gold Prices Could Fall Next Week Say Majority Of Participants In Weekly Kitco News Gold Survey</p>
+<p>The majority of participants in the Kitco News Weekly Gold Survey see a weaker trend for gold prices for next week.</p>
+<p>In the Kitco News Gold Survey, out of 33 participants, 24 responded this week. Of those 24 participants, six see prices up, while 13 see prices down, and five are neutral or see prices moving sideways. Market participants include bullion dealers, investment banks, futures traders, money managers and technical-chart analysts.</p>
+<p>Participants who see prices further decaying noted the change in trader attitude and a bearish short-term momentum for gold. &ldquo;The failed breakout above $1,800 about two weeks ago shifted market momentum back to the bear camp. Barring an outside event, gold prices are poised to test and possibly penetrate the $1,690-$1,715 support zone. I would need to see prices rally all the way back over $1,775 to (be) bullish/long again,&rdquo; said Ralph Preston, principal with Heritage West Financial.</p>
+<p>Darin Newsom, DTN senior analyst noted the downward path is picking up speed. &ldquo;The downtrend in the more heavily traded December contract is gaining momentum, with initial support pegged between $1,697.70 and $1,666.80,&rdquo; he said.</p>
+<p>Furthermore, those who are bearish on gold this week cite that October is seasonally the weakest month for metal, so the trend of lower prices might persist for now.</p>
+<p>The survey participants who see higher prices said they think gold will hold around current levels and aren&rsquo;t likely to convincingly take out the $1,700-an-ounce level, especially if the European Central Bank backs up its words to do &ldquo;whatever it takes,&rdquo; as ECB President Mario Draghi said earlier, with action.</p>
+<p>Participants who are neutral on gold said given that there are three weeks to go before the U.S. presidential election, changes in the Chinese government are occurring and that the U.S. economic data are mixed to slightly improved are some of the reasons they are sticking to the sidelines.</p>
+<p id="p2">Copyright&copy; Forbes. All rights reserved. <a href="http://www.forbes.com/sites/kitconews/2012/10/19/gold-prices-could-fall-next-week-say-majority-of-participants-in-weekly-kitco-news-gold-survey/" target="_blank">Original Article</a></p>

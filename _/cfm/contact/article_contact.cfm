@@ -1,7 +1,6 @@
 <article>
         <div class="col-md-12 page-header">
-            <h1>Contact DTN</sup>
-            </h1>
+            <h1>Contact DTN</h1>
         </div>
     <div class="col-md-6 description">
         <strong>Sales</strong>
@@ -56,7 +55,7 @@
         <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i> Toll-free: 800.779.5000</abbr>
         <br>
         <br>
-        <strong>Customer Service (Web Hosting/DTN Grain Portal<sup>&trade;</sup>)</strong>
+        <strong>Customer Service (Web Hosting/DTN Grain Portal)</strong>
         <br>
         <abbr title="Phone"><i class="fa fa-mobile-phone fa-lg"></i> Toll-free: 800.290.9162</abbr>
         <br>

@@ -1,0 +1,21 @@
+
+
+<p class="newsheader_t1">MarketWatch</p>
+<p class="newssubhead_t1">China, India rock gold, oil commodity markets</p>
+<p id="p">China and India are already among the globe&rsquo;s heavyweights when it comes to influencing the commodities markets, but their power to sway the direction of oil, gold and cotton, among others, is only going to strengthen, providing further fuel for market volatility.</p>
+<p id="p">&ldquo;China and India have been the catalyst for the super cycle in commodities since 1999 in the aftermath of the Asian financial crisis,&rdquo; said Phil Flynn, a senior analyst at futures brokerage PFGBest. &ldquo;While there may be some challenges economically in the short run, their long-term prospects for demand growth are still there.&rdquo;</p>
+<p id="p">So far this month, growing concerns about an economic slowdown in China fueled weakness in industrial metals and oil. In India, confusion over an export ban shook up the price of cotton and new government taxes on gold prompted many jewelers to close up shop in protest, sending gold prices lower on demand worries.</p>
+<p id="p3">A big threat to commodities is the &ldquo;new reliance on headlines by investment traders,&rdquo; said Darin Newsom, a senior analyst at Telvent DTN.</p>
+<p id="p3">On Tuesday, as concerns about a slowdown in China flared and Indian gold jewelers extended a nationwide strike, gold futures GCJ2 +0.15%  dropped more than $20 an ounce, or 1.2% and oil futures CLK2 +1.31% sank more than $2 a barrel, or 2.3%. Read about Tuesday&rsquo;s metals trading session.</p>
+<p id="p3">&ldquo;Old-time market players knew not to believe or trade off everything they saw regarding China,&rdquo; Newsom said. &ldquo;But most of those folks are gone in this day and age of computerized, algorithm-based trade,&rdquo; which can be based on immediate reaction to headlines.</p>
+<p id="p3">&ldquo;China is at the heart of demand for most commodities, so putting focus there is understandable,&rdquo; he said. But it &ldquo;does leave the sector, as a whole, vulnerable if major problems develop.&rdquo;</p>
+<p id="p3">And &ldquo;given the situation that has developed, it is easy to envision a situation where a particular commodity melts down following a headline that may or may not be accurate. That is a concern,&rdquo; he said.</p>
+<h3>Headline hits</h3>
+<p id="p3">For commodity traders and investors, determining the accuracy and guessing the impact of any given headline is certainly a challenge.</p>
+<p id="p3">Global commodity prices are &ldquo;affected by Indian and Chinese government policies,&rdquo; said Chintan Karnani, chief analyst at Insignia Consultants in New Delhi, who personally trades soft-commodity futures in India.</p>
+<p id="p4">India rattled the global cotton markets when the country, the world&rsquo;s second biggest exporter of the commodity behind the United States, announced a ban on cotton exports on March 5, prompting a one-day rally in cotton prices that gave way to a five-session drop. In the days that followed, the government reportedly said it rolled back the ban, then said no new export permits would be issued. </p>
+<p id="p4">&ldquo;The Indian government policies are not stable and not industry friendly,&rdquo; said Karnani.</p>
+<p id="p4">China&rsquo;s policies are no exception. &ldquo;It has been tough trying to inject either China&rsquo;s import intentions or India&rsquo;s export policy into a true supply/demand evaluation as to where the price of cotton should be,&rdquo; said Mike Stevens, a Louisiana-based cotton analyst.</p>
+<p id="p4">China has been &ldquo;an enormous buyer, but mostly to rebuild their strategic stock pile and not for consumption, so this muddies the water for fundamental analysis [which] look to supply and demand to justify price discovery,&rdquo; he said.</p>
+<p id="p4">Still, when it comes to China, the commodity sector has grown more comfortable with the influence that nation has over price direction, said Telvent DTN&rsquo;s Newsom. &ldquo;It is almost viewed as a game as to what headlines and &lsquo;official&rsquo; statements actually mean.&rdquo;</p>
+<p id="p2">Copyright&copy; MarketWatch. All rights reserved. <a href="http://www.marketwatch.com/story/china-india-rock-gold-oil-commodity-markets-2012-03-23" target="_blank">Original Article</a></p>

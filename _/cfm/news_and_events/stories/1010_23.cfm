@@ -1,0 +1,25 @@
+
+
+<p class="newsheader_t1">San Angelo Standard Times</p>
+<p class="newssubhead_t1">WINDMILL COUNTRY: Farmers could face costly feed, fertilizer</p>
+<p>The Environmental Protection Agency announced it intends to grant partial waivers to increase the allowable amount of ethanol in gasoline from 10 percent to 15 percent.</p>
+<p>The level, also known as E15, was announced this past week by the EPA. Ethanol fuel is produced by fermenting raw materials such as corn.</p>
+<p>&ldquo;The high level of corn-based ethanol is one of the key factors driving price increases in corn products, including feed for cattle,&rdquo; said Dave Scott, a South Texas rancher and president of Fort Worth-based Texas and Southwestern Cattle Raisers Association.</p>
+<p>&ldquo;Over the past few years it has become very clear that putting our food and fuel in competition with one another is bad for cattle producers and consumers,&rdquo; he said. &ldquo;Texas cattle producers support renewable energy and a lessened dependence on foreign oil; however, such an investment should not sacrifice our nation&rsquo;s food supply.&rdquo;</p>
+<p>In 2008, feed costs for livestock, poultry and dairy reached a record high of $45.2 billion — an increase of more than $7 billion over 2007 costs, according to the U.S. Department of Agriculture&rsquo;s Economic Research Service. Also in 2008, the Congressional Research Service released a report that stated the dramatic increase in livestock production costs were attributed to feed.</p>
+<p>Although the price of corn is increasing, which would normally make farmers happy, think again.</p>
+<p>&ldquo;Higher grain prices seem to breed higher fertilizer prices,&rdquo; writes Alan Guebert, a freelance agricultural journalist.</p>
+<p>&ldquo;Six fertilizers have seen double-digit increases in price compare to one year ago,&rdquo; said Russ Quinn, with DTN. &ldquo;Leading the way higher is DAP, which is up 48 percent, followed by anhydrous at 47 percent, MAP at 43 percent, UAN28 at 37 percent, UAN32 at 26 percent, 10-34-0 at 15 percent and urea at 10 percent.&rdquo;</p>
+<p>&ldquo;While no one is forecasting a return to the smash-mouth prices of $1,200 anhydrous and $1,000 potash in 2008, the last high-grain price year, no one has ruled &rsquo;em out either,&rdquo; Guebert writes in the Business section of the Columbia Daily Tribune.</p>
+<p>There are two reasons for the upward fertilizer prices, he said.</p>
+<p>&ldquo;First, rising demand caused by previous production cutbacks (largely due to those lunar 2008 prices), followed by two years of wet weather that has washed most fertilizer reserves down the creek,&rdquo; he said.</p>
+<p>Guebert said the second factor is ever more basic. Like crude oil or water, fertilizer is increasingly a &ldquo;name-your-price&rdquo; game in which a handful of super agribusinesses control production, marketing and, to a great extent, pricing.</p>
+<p>One month ago, Guebert examined a $38.6 billion hostile takeover attempt of Potash Corp. of Saskatchewan Inc., a Canada-based firm that controls 30 percent of the world&rsquo;s potash production, by BHP Billiton.</p>
+<p>Potash is any of various potassium compounds used in fertilizers, soaps, etc., according to Webster&rsquo;s Dictionary.</p>
+<p>&ldquo;This is scary stuff,&rdquo; said Dr. Yates Smith of San Angelo. &ldquo;BHP is a company that has a third of the world&rsquo;s potash reserves and a marketing plan — built largely on an export cartel — that has delivered a return on investment of 40 percent.&rdquo;</p>
+<p>Yates, who retired from the Tennessee Valley Authority in Muscle Shoals, Ala., spent his career with TVA&rsquo;s munitions factory, a chemical plant manufacturing fertilizers and the hydroelectric plant now generating power for parts of seven states.</p>
+<p>&ldquo;The BHP deal remains in limbo, according to Guebert&rsquo;s story, but if the takeover becomes reality, it could become the gravest strategic issue facing the United States,&rdquo; Yates tells me. &ldquo;They could control the phosphorus market.&rdquo;</p>
+<p>&ldquo;At the current usage rates, the U.S. supply (of phosphorus) will be exhausted in 15 to 30 years,&rdquo; said C. Robert Taylor, an agriculture economist at Auburn University. &ldquo;Even more worrisome is the fact that Morocco and China hold 60 percent of the world&rsquo;s known phosphorus reserves while the U.S., South Africa and Jordan hold most of the rest.&rdquo;</p>
+<p>Trade in phosphorus is dominated by three corporations, Mosaic (Cargill) Potash Corp. of Saskatchewan and OCP, a Moroccan-sanctioned, privately traded monopoly, Taylor said.</p>
+<p>So, the agriculture industry relates to that old story about the merry-go-round: &ldquo;A round and round we go, where we stop nobody knows?&rdquo;</p>
+<p>Copyright&copy;San Angelo Standard Times. All rights reserved. <a href="http://www.gosanangelo.com/news/2010/oct/16/farmers-could-face-costly-feed-fertilizer/" target="_blank">Original Article</a></p>

@@ -35,9 +35,9 @@
                     <ul>
                         <li><i class="fa fa-angle-right"></i>  <a href="/ag/news_and_events/index.cfm">Webinars & Rebroadcasts</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtnprogressivefarmer.com/go/agsummit/" target="_blank">Ag Summit</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtnprogressivefarmer.com/go/agsummit/">Ag Summit</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Free Trial</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>">Free Trial</a>
                         </li>
                     </ul>
                 </div>
@@ -51,7 +51,7 @@
                         </li>
                         <li><i class="fa fa-angle-right"></i>  <a href="/ag/agribusiness/">Agribusiness</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/trading" target="_blank">Trading</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/trading">Trading</a>
                         </li>
                         <li><i class="fa fa-angle-right"></i>  <a href="/ag/advertising/">Advertising</a>
                         </li>
@@ -65,7 +65,7 @@
                     <ul>
                         <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/">Customer Service</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="#">Legal</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/legal/">Legal</a>
                         </li>
                         <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/">Contact Us</a>
                         </li>

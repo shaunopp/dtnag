@@ -1,0 +1,44 @@
+
+
+<p class="newsheader_t1">ColumbiaTribune.com</p>
+<p class="newssubhead_t1">Farmers benefit from broadband</p>
+<p>Without his high-speed home Internet connection, Mark Mahnken's formula for healthy, tasty grass-fed beef might not have turned into the booming business it is today.</p>
+<p>Mahnken and his wife, Susie, upgraded the connection to their Salisbury-area farm five years ago because they needed to improve the accounting system for their cattle company and family farm.</p>
+<p>But the timing couldn't have been better. A year later, Mark came up with the perfect blend of supplements and grass to create a healthy beef product. By taking advantage of the technology that links them to the world, the Mahnkens have been able to transform that product from a hobby into Missouri Legacy Beef, a company that has seen sales double in each of the past three years.</p>
+<p>Not all Missouri farmers are hooked up to broadband Internet, though, and the gap between the haves and the have-nots is growing, according to a University of Missouri study. Even though traditionalists might not realize it, those gaps have serious implications for farmers as they face the future, said Tom Johnson, an agricultural economics professor at MU who co-authored the report.</p>
+<p>&quot;If you don't have it, it doesn't open up the opportunities you would have otherwise to change your business or to market your products,&quot; he said. &quot;Once you have it, then it allows you to expand your demand.&quot;</p>
+<p>■</p>
+<p>Johnson is director of the Community Policy Analysis Center in the Truman School of Public Affairs at MU. He and co-authors released the study, &quot;The Benefits of Expanded Broadband for Missouri Farms and Agribusiness,&quot; this fall.</p>
+<p>It came on the heels of a report released earlier this year by researchers in North Carolina about the impact broadband Internet has on U.S. agriculture. In that report, researchers found that counties that received U.S. of Agriculture loans to install broadband Internet saw a net increase in farm profits of 3 percent.</p>
+<p>That might not sound like a lot, Johnson said, but that's the average within counties where some farms might not be hooked up yet.</p>
+<p>&quot;Some of the farmers who had broadband probably made a lot more money,&quot; he said.</p>
+<p>Looking at farm data for Missouri, Johnson in his study found that farmers with high-speed access see higher profits and that growth in profits has been higher in counties with above-average rates of high-speed Internet adoption.</p>
+<p>There are many benefits to farmers who have access to high-speed connections, Johnson's report says. Topping the list is having the ability to link to the outside world and increase a customer base while remaining on the farm.</p>
+<p>Susie Mahnken uses a plethora of online applications to get the Missouri Legacy Beef name out. The company sells products to customers across the country through a website, which allows for online orders and payments.</p>
+<p>But just having an online presence helps, too.</p>
+<p>A family from Kansas City recently found Missouri Legacy Beef while searching for grass-fed products online. They loaded up coolers on a Saturday in November and drove to the Columbia Farmers Market, where they spent about $600 on beef, Susie said.</p>
+<p>And she doesn't just use the Internet to attract new customers. Susie also makes sure she keeps them coming back. She has about 450 people who subscribe to her email newsletter, which advertises special deals and events. And those not on the list can check out coupons and specials on the company's Facebook page.</p>
+<p>&quot;It would be very difficult to do what we do without high-speed Internet,&quot; Susie said.</p>
+<p>Specialty farms, perhaps, have the most to gain from broadband because it allows farmers to expand markets, the report says.</p>
+<p>&quot;In today's global market place, timely and accurate information is the key to competing in commodity markets. But information is even more important for producers in higher value niche markets where value is determined by reliability, punctuality, customer services and lower transaction costs,&quot; it says.</p>
+<p>Liz Graznak needs her high-speed access to more efficiently operate her community-supported agricultural business, Happy Hollow Farm. Although her company website isn't set up to take online payments, visitors can read up on the crop share program and can subscribe through the site.</p>
+<p>Happy Hollow Farm had about 55 families this summer and has roughly 35 this winter who receive weekly boxes of organic produce from Graznak's Jamestown-area farm. Because the produce isn't always the same and is sometimes unfamiliar, she relies on technology to educate her customers without having to take time to field dozens of phone calls.</p>
+<p>During the third week of November, for instance, members got a rough-looking root in their weekly crop boxes. Through an electronic newsletter, which is emailed and posted on her website and Facebook page, Graznak was able to tell everyone at once not to be put off by the appearance of celery root. Instead, the newsletter instructed customers to soak and cut it to find celeriac inside. A recipe for cornbread-and-celeriac stuffing was included in case people still weren't sure what to do with it.</p>
+<p>&quot;I got a bunch of emails about celery root from people who had eaten it for the first time and loved it,&quot; Graznak said. &quot;It's a wonderful celery-tasting vegetable, very crunchy, so for those who never had it before and emailed me, that was really great.&quot;</p>
+<p>Graznak's farm didn't have access to high-speed Internet until January 2010. She can't imagine trying to efficiently run the business using a dial-up connection.</p>
+<p>&quot;We consider ourselves very lucky that we got high-speed Internet,&quot; she said. &quot;The way we're farming, it's very important.&quot;</p>
+<p>Johnson's study found that farmers go online mostly for email and banking, but they also use it for research.</p>
+<p>&quot;A lot of people don't realize how much agriculture has changed over the recent years, how technological and scientific it has become,&quot; Johnson said. &quot;As a result, there's an enormous amount of data that they need.&quot;</p>
+<p>Those data include real-time weather tracking, futures market information and live auction prices. Mark Mahnken gets all of that and the latest farming trends through a subscription-based website, www.telvent.com.</p>
+<p>&quot;They're constantly updating it,&quot; Mark said, giving a demonstration of the program last month on his laptop and Android-powered smartphone. &quot;I check it three or four times a day.&quot;</p>
+<p>■</p>
+<p>Agribusiness will be left in the dust unless federal policymakers make an effort to improve technology in rural communities that support farmers, Johnson said.</p>
+<p>His study suggests a federal initiative could complement the state's MoBroadband Now initiative, which has invested more than $311 million to increasing the number of high-speed connections in the state.</p>
+<p>Missouri is especially vulnerable. The gap between the percentages of Show-Me State farms with Internet access has nearly doubled compared with farms in other states over the past five years. And 60 percent of agribusinesses surveyed for a MoBroadbandNow study showed 60 percent are dissatisfied with their current connections.</p>
+<p>&quot;Missouri has done a lot, but other states have done even more,&quot; Johnson said. &quot;Our agriculture will be less competitive and evolve slower because opportunities are not there for them.&quot;</p>
+<p>The problem is dynamic as technology improves. Providers looking at cash flow are eager to meet demands for even higher-speed connections in metropolitan areas.</p>
+<p>&quot;Meanwhile, people in that particular industry, agriculture and rural communities, are falling farther and farther behind, in some sense,&quot; Johnson said.</p>
+<p>And when towns lack infrastructure, they start to dry up.</p>
+<p>Johnson's next paper will look at the impact of high-speed access in rural communities.</p>
+<p>&quot;We didn't focus much on that in this paper, but that's where we need to go,&quot; he said. &quot;The quality of life in rural areas for farmers is more dependent on all other things going on in the community. Farmers depend more on their rural community than their rural community depends on farmers, so we, for the sake of farmers and other residents, have to look broadly at the whole mix of services available in rural areas.&quot;</p>
+<p id="p2">Copyright&copy; ColumbiaTribune.com. All rights reserved. <a href="http://www.columbiatribune.com/news/2011/dec/11/farmers-benefit-broadband/" target="_blank">Original Article</a></p>

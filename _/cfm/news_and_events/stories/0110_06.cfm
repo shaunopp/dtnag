@@ -1,0 +1,20 @@
+
+<p class="newsheader_t1">Forbes.com</p>
+<p class="newssubhead_t1">Food And Bytes Rule 2010</p>
+      <p>
+      Alexandra Zendrian 01.07.10, 6:00 AM ET</p>
+<p>
+Several financial advisers agree that while 2009 was about the rally of embattled companies such as Citigroup , Fannie Mae and Freddie Mac, which were often the top traded stocks last year, 2010 will be a flight toward quality.</p>
+<p>This makes the technology sector ripe for the investment picking. &quot;In this sector, you have some of the best capitalized companies in the world,&quot; says president of Jurika, Mills &amp; Keifer Karl Mills.</p>
+<p>Mills recommends companies that are tied to mobile wireless. He sees this as a productivity play, given that companies are trying to do more, or at least the same, with less. &quot;And these companies are selling at about 16.5 times earnings as a broad group,&quot; Mills adds.</p>
+<p>There's a lot of ways to play that. Google and Apple are obvious since they're out making phones, but chipmakers like Intel make a lot of sense too since those phones need brains. Some analysts see it as more of a broad semiconductor play. (See &quot;Semiconductors To Set New Records In 2010.&quot;)</p>
+<p>A&amp;G Capital Research Chief Investment Officer Hilary Kramer says to watch the valuations and not to fall in love with the story. Google at $750 is no buy for her, should it reach that price.</p>
+<p>Kramer likes some stocks in the Internet support software and green technology area. <font style="background-color:#E6EEFF">Her top pick in the green technology space is Telvent Git, S.A. This company has information technology services in areas such as meteorology, hydrology and air quality monitoring. The stock is up almost 175% from a year ago and has gone up more than 215% in the past five years. </font>Kramer says the stock could double from this point; she anticipates the company being acquired by a firm looking to get into this area.</p>
+<p><font style="background-color:#E6EEFF">Kramer sees smart-grid technology as another sweet spot in the sector; Telvent provides smart-grid solutions in metering, networking and operations for utilities companies.</font></p>
+<p>Another sector that is consistently overlooked and could do well this year is agriculture. Head of Thesis Fund Management Stephen Roseman says that since many agriculture companies suffered more during the downturn than the market overall, they have very compelling valuations. &quot;And there are demographic shifts that are taking place that are going to continue to drive that,&quot; Roseman says.</p>
+<p>The agriculture sector will continue to recover as the global economy returns to more normal levels of demand and consumption, Kramer says. She recommends Bunge Limited, a global oil seed producer and a fertilizer manufacturing company. Bunge is one of the largest suppliers to Brazil, and Kramer anticipates the firm growing its revenue base as Brazil continues to grow its agriculture industry.</p>
+<p>Another company poised to grow is Syngenta AG, a Swiss company that specializes in chemicals for agriculture, Kramer says. &quot;Syngenta benefits as disease amongst crops continues to plague farmers globally,&quot; she says, adding that, &quot;as the prices of agricultural commodities rebound, the demand for crop protection grows even stronger.&quot;</p>
+<p>The Mosaic Company is another agricultural stock that should do well this year, Kramer says. &quot;Eventually, Mosaic will probably be acquired as the fertilizer industry is gobbled up by multinationals wanting access to this industry,&quot; she says.</p>
+<p>Kramer adds that investors can also get diversified agricultural exposure through exchange-traded funds, such as Market Vectors Agribusiness.</p>
+<p><font style="background-color:#E6EEFF"></font></p>
+<p>Copyright&copy;  2010 Forbes.com. All rights reserved. <a href="http://www.forbes.com/2010/01/06/agriculture-technology-sector-intelligent-investing-google.html" target="_blank">Original Article</a></p>

@@ -1,0 +1,13 @@
+
+
+<p class="newsheader_t1">Dairyherd Network</p>
+<p class="newssubhead_t1">CBOT corn outlook: Seen down 5c-7c on beneficial weekend rains</p>
+<p>U.S. corn futures are expected to start lower Monday as weekend rains and forecasts for milder temperatures ease concerns about heat stressing crops.</p>
+<p>Traders predict corn for December delivery, the most actively traded contract, will open down 5 cents to 7 cents a bushel at the Chicago Board of Trade. In overnight electronic trading, the contract dropped 7 3/4 cents, or 1.1%, to $6.77 3/4 a bushel.</p>
+<p>Futures prices are pulling back after climbing Friday on concerns hot weather was reducing the size of the corn crop. Heavier-than-expected weekend rains in parts of Iowa, Illinois, Indiana and Ohio sparked the overnight setback, and weather conditions look less threatening this week, analysts said.</p>
+<p>&quot;Weather forecasts have a good chance of rains for stressed areas this week, with some of the extreme heat looking to moderate in the deferred forecasts,&quot; said Taylor Smalley, analyst for Country Hedging, a brokerage in Minnesota.</p>
+<p>Traders are paying close attention to the weather because farmers need favorable conditions to grow a large crop to replenish low inventories. Corn prices have pulled back nearly 15% since reaching an all-time high in early June on supply concerns. Yet, users of the grain remain uncertain about the outcome of the crop, which will be harvested in the autumn.</p>
+<p>Crops will benefit from weekend rains and cooler temperatures through the northern and eastern Midwest region, according to private weather firm Telvent DTN. Yet, drier and somewhat hotter weather is still a concern through southern and some central areas of the Midwest, where rains were much less and the cooling trend was somewhat slower to develop during the weekend, the firm said in a forecast.</p>
+<p>The U.S. Department of Agriculture will issue an update on crop conditions in a weekly report due at 4 p.m. EDT. Traders expect the government to lower its good-to-excellent rating for the corn crop by two to four percentage points due to the stressful heat last week.</p>
+<p>In other news, the USDA said private exporters struck deals to sell 105,156 tons of corn to Japan in the 2011-12 marketing year, which starts in September. Japan is the top buyer of U.S. corn.</p>
+<p id="p2">Copyright&copy; Dairyherd Network. All rights reserved. <a href="http://www.dairyherd.com/dairy-news/CBOT-corn-outlook-Seen-down-5c-7c-on-beneficial-weekend-rains-126116258.html" target="_blank">Original Article</a></p>

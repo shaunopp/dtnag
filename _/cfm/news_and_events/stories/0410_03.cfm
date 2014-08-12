@@ -1,0 +1,31 @@
+
+
+<p class="newsheader_t1">AgFax.com</p>
+<p class="newssubhead_t1">Giving Grain Bagging Technology a Try</p>
+<p>Grain bagging has been catching on in the U.S. During the late, wet harvest of 2009, I, like many other farmers, gave the technology a try.</p>
+<p>We loaded grain bags with a rented Richiger R-10 loader, which filled our 10-foot diameter bags. This spring we rented a Richiger EA 180 unloader from Steve Wetherbee in Fairmount, N.D. The Richiger is imported from Argentina. Three other bagging systems are available: Akron from Argentina, Loftness from Minnesota and Renn from Alberta, Canada. All four brands work on similar principles.</p>
+<p>UNLOADING ALTERATIONS</p>
+<p>The EA 180 loader was designed for 9-foot bags, so we had to use extra care, and make a few modifications, to unload our 10-foot bags. A welder built two flanges that clamped on each side of the roller to extend the amount of bag it can hold and to reduce the tendency for the large 10-foot bag to come off the edges.</p>
+<p>We still needed to watch the sides to make sure that they wrap within the fixed roller width; at times, we had to push the side of bag inward so it lined up with the roller edges.</p>
+<p>We also added a 4.5-foot-long, 14-inch-wide PVC pipe to the end of the unloader's upright auger spout to position our cart farther away from the bag and lower the exit spout. The original auger spout is 6 feet above the grain cart, and wind blows grain as it falls.</p>
+<p>While unloading the 10-foot bags, we were rolling up more bag fabric on the edges, causing the fabric to bulge faster on the outside edges of the roller. As the edges build diameter, this causes the two sides of the bag to gather up faster yet, stretching the sides of bag so they want to tear.</p>
+<p>I also learned while unloading that it is imperative to keep the tractor and unloader straight. Otherwise, as the unloader pulls backwards, it gathers unevenly, putting more tension on one side and tearing the bag. That happened to us once.</p>
+<p>Our John Deere 4440 with two full fuel tanks and tractor weights was too heavy to pull backward, which put too much tension on the bag's bottom. Wetherbee said putting on dual tires helps heavy tractors roll easier. We had to cheat by putting the tractor in reverse and backing up a little once in a while. He also unloaded in 10-degree weather, and said bags didn't tear as easily in the cold.</p>
+<p>Because of the wide bag and heavy tractor weight, we needed two people to unload -- one watching the unloader as it tracks backward and controlling roller speed, the other operating the unloader and cart tractor. It only took 10 minutes to pull out 500 bushels, so I have no complaints.</p>
+<p>ECONOMICS</p>
+<p>The bagger and unloader together cost between $50,000 and $60,000, so that is a steep capital cost for a small operator. However, the cost to rent the machines, plus buy bags, is about $0.25 a bushel, acceptable compared to building bins with fans and drying floors.</p>
+<p>Chris Finck at Show-me Shortline at Centralia, Mo., said most farmers can get by with the smaller, 9-foot bagger and loader, and that the smaller bags are easier to mount and load.</p>
+<p>The R-10 bag weighs more than 300 pounds and requires three guys to mount on the filling bell. Mounting them was a task, even with the mechanized bag lift.</p>
+<p>Fink said dealers feel they need to sell the bigger R-10 bagger for larger growers.</p>
+<p>HARVEST LOADING LESSONS</p>
+<p>With a normal harvest, loading bags is simple and quick. Pull up with the grain cart, power up the unloader with the tractor PTO and start dumping. It required only two people, a combine operator and a grain cart operator.</p>
+<p>The R-10 can load more than 20,000 bushels an hour, which is more than the 12,500-bushel, 250-foot-long bags hold. We combined 1,000 to 1,500 bushels an hour. So while the R-10 emptied a cart in 5 minutes, the bagger sat idle three quarters of the time while we waited for the next combine load. For growers running several combines and two or three grain carts with capacity to dump 6,000 bushels an hour, the R-10 would be necessary. For a single combine, an R-9 is enough.</p>
+<p>Corn was 20 percent moisture at harvest, and we could bag it immediately. No need to wait for trucks to return from an elevator line or to match the slow pace of drying corn on farm. We could unload and dry grain later when we had time.</p>
+<p>We did discover that the technology wasn't designed for a cold, icy December harvest.</p>
+<p>The plastic bags are designed to stretch as you load. Bags are printed with small rectangular boxes; you measure those boxes while filling to adjust pack density. With the Richiger bagger, the box needs to stretch to 18 centimeters. You adjust brake press on the bagger's wheel to maintain that value. </p>
+<p>When air temperatures are below freezing, bags aren't pliant and don't stretch. I kept increasing brake pressure to get the bag to stretch, but eventually, the bag ripped, spilling corn. We lost a day getting a grain vac, cleaning up about 1,000 bushels of corn, tying off the end of the bag and starting over. </p>
+<p>A blizzard kept the combine out of the field for a week, and snow and ice built up under the bagger. When harvest resumed, all the brake pressure in the world couldn't stop the unloader from sliding across the ice, creating a shorter, squat bag with insufficient pack density. Once we were back on dry soil, brakes worked and normal filling resumed. </p>
+<p>NOTE TO NAYSAYERS</p>
+<p>To the naysayers, storing wet grain in bags over winter worked. A lot of farmers don't believe wet grain will keep. I received calls all winter from growers wondering how my bagged grain was doing, and all I could say was that I felt it was doing fine.</p>
+<p>Grain we took out in March was 20 percent moisture, at 35 F. It was in as good a shape as the day we put it in the bag with no musty, fermented odor. However, with temperatures rising, time isn't on our side. We need to move it rapidly to keep it in market shape.</p>
+<p>Copyright&copy;  AgFax.com. All rights reserved. <a href="http://agfax.com/Content/dtn-grain-bagging-04052010.aspx" target="_blank">Original Article</a></p>

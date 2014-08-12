@@ -31,20 +31,12 @@
     <!--- header --->
 
     <section class="container" role="main">
+        <div class="page-header"><h1>News & Events</h1></div>
         <div class="row">
-            <section class="container hidden-xs">
-                <div class="row">
-                    <div class="col-md-12">
-                        <cfinclude template="/ag/_/cfm/snippet_carousel.cfm">
-                    </div>
-                </div>
+            <section class="col-md-9">
+                <cfinclude template="/ag/_/cfm/news_and_events/snippet_news_tabs.cfm">
             </section>
-            <!--- carousel --->
-
-            <section class="col-md-8">
-                <cfinclude template="/ag/_/cfm/snippet_news_tabs.cfm">
-            </section>
-            <section class="col-md-4">
+            <section class="col-md-3">
                 <cfinclude template="/ag/_/cfm/aside_contact.cfm">
             </section>
         </div>

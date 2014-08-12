@@ -1,0 +1,13 @@
+
+
+<p class="newsheader_t1">Forbes</p>
+<p class="newssubhead_t1">No Strong Consensus On Gold's Direction For Next Week In Survey</p>
+<p>There&rsquo;s a lack of definite consensus in for survey participants the Kitco News Gold Survey in their outlook for prices next week, with bullish and bearish traders largely split.</p>
+<p>In the Kitco News Gold Survey, out of 33 participants, 22 responded this week. Of those 22 participants, 10 see prices up, while eight see prices down, and four are neutral. Market participants include bullion dealers, investment banks, futures traders, money managers and technical-chart analysts.</p>
+<p>Most participants who see higher prices next week cite the lower-than-expected U.S. unemployment figures released Friday as a reason to think the Federal Reserve may be seek to launch a third round of quantitative easing sooner than later.</p>
+<p>Interestingly, those who see lower prices also cite the jobs data, but have a different view, suggesting that gold&rsquo;s inability to rally on the poor data means the market will likely test the downside. Also, a few who see weaker prices said renewed worries from Europe, particularly ahead of the weekend elections in France and Greece will be problematic for gold. Voters are likely to turn away from austerity programs in Europe, which will pressure the euro currency and support the U.S. dollar, weighing on gold.</p>
+<p>Frank Lesh, futures analyst at FuturePath Trading, said he sees the gold market trade as sideways with a downward bias, based on technical charts. There&rsquo;s little fundamental news to push the market out, either.</p>
+<p>&ldquo;Uncertainty about the economies of the U.S., Europe, and China, and their interest rate policies will keep these markets in a holding pattern until there is more clarity. I do see that investment demand is not as strong as it used to be and this is because no one has made any money holding positions long this year. Most futures traders are now content to trade this market, long or short, and not hold positions,&rdquo; Lesh said.</p>
+<p>Those who are neutral on gold cite the fact the market remains trapped in the range it has carved out for the past several weeks and see no reason that gold will break out.</p>
+<p>&ldquo;The June (gold futures) contract was unable to follow-through on its bullish technical patterns from last week. The likely range is between $1,623 and $1,672,&rdquo; said Darin Newsom Telvent DTN senior analyst.</p>
+<p id="p2">Copyright&copy; Forbes. All rights reserved. <a href="http://www.forbes.com/sites/kitconews/2012/05/04/no-strong-consensus-on-golds-direction-for-next-week-in-survey/" target="_blank">Original Article</a></p>

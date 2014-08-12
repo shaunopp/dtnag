@@ -1,0 +1,18 @@
+
+
+<p class="newsheader_t1">Bloomberg</p>
+<p class="newssubhead_t1">Farm-Economy Pessimism Seen in U.S. Producer Survey   </p>
+<p> April 19 (Bloomberg) -- U.S. farmers are pessimistic about their current economic situation, according to a new survey- based index produced by DTN/The Progressive Farmer, an agricultural news service.</p>
+<p>The initial survey produced a score of 34.2 for the present economic situation, Progressive Farmer said today in a statement. Any score below 50 indicates pessimism, according to Progressive Farmer, a unit of Madrid, Spain-based Telvent GIT SA. The index rises to 36.9 when farmers are asked about expectations, the news service said.</p>
+<p>&ldquo;I can&rsquo;t give a rosy outlook,&rdquo; said Gordie Cook, who milks about 65 dairy cows outside of Hadley, Massachusetts. &ldquo;At some point, the milk supply may be under control, but it may take years for that to happen.&rdquo;</p>
+<p>Dairy futures traded in Chicago are down 8 percent this year, after rebounding from a six-year low in February 2009. Corn, wheat and soybean prices are down at least 5 percent this year and 40 percent from the records reached in 2008.</p>
+<p>Still, farm profit in the U.S. will jump 12 percent to $63 billion this year as livestock sales expand, the U.S. Department of Agriculture said in a February report. Revenue from grain, oilseed and fiber crops will drop 2.6 percent, and livestock sales will gain 10 percent, the USDA said. Input costs will be little changed.</p>
+<p>Livestock Outlook</p>
+<p>In Progressive Farmer&rsquo;s index covering the farmers&rsquo; attitudes toward their current situation, livestock producers were more bearish than crop growers, with a score of 26.8 compared with 31.2. Ranchers were more optimistic on expectations with a score of 40.1 compared with 35.6 for crop farmers.</p>
+<p>Hog futures are up 31 percent this year, reaching the highest price in almost 14 years last week, as producers cut their breeding herds, possibly to levels not seen since the 1850s, according to livestock economist Ron Plain at the University of Missouri in Columbia. Cattle futures have gained 10 percent on the lowest feedlot inventories in seven years.</p>
+<p>&ldquo;The futures market has made a huge turnaround&rdquo; for hogs, said Jeff Wuebker, who raises about 1,800 sows near Versailles, Ohio. &ldquo;We&rsquo;ve produced too much pork in the past, and what really killed us last year was the swine flu. But people are buying across the board, and things are definitely looking up.&rdquo;</p>
+<p>Additional Surveys</p>
+<p>The survey, which was based on 500 telephone interviews from a sampling of agricultural producers with farm revenue of more than $100,000, is the first of its kind by DTN/The Progressive Farmer. The survey will be repeated in September and December. A score of 50 indicates neutral sentiment, with a score above that an indication of a positive outlook.</p>
+<p>The index&rsquo;s scoring system is similar to that of the Conference Board&rsquo;s Consumer Confidence Index and other measures of consumer sentiment.</p>
+<p>DTN/The Progressive farmer said respondents were surveyed on current and future prices for seed, fertilizer and other inputs, net-farm income and future household income. They were also asked to rate their current financial situation and predict where they&rsquo;ll stand a year in the future.</p>
+<p>Copyright&copy;  Bloomberg. All rights reserved. <a href="http://www.businessweek.com/news/2010-04-19/farm-economy-pessimism-seen-in-u-s-producer-survey-update1-.html" target="_blank">Original Article</a></p>
