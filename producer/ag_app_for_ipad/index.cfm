@@ -35,7 +35,7 @@
             </section>
             <section class="col-md-4">
                 <div class="well hidden-sm hidden-xs">
-                    <a style="margin:0px 0px 5px 0px" href="itms://itunes.apple.com/us/app/dtn-the-progressive-farmer/id404268539?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the app </a>
+                    <a style="margin:0px 0px 5px 0px" href="itms://itunes.apple.com/us/app/dtn-the-progressive-farmer/id404268539?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_app_aside"><i class="fa fa-apple"></i> Download the app </a>
                 </div>
                 <cfinclude template="/ag/_/cfm/agappforipad/aside_agappforipad.cfm">
             </section>

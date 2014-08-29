@@ -13,7 +13,7 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Focus on revenue-generating activities</strong> with solutions that streamline and simplify</li>
             </ul>
-            <a href="http://www.dtn.com/forms/ag/gtpdemo/new/<cfoutput>#portal_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Request a demo </a>
+            <a href="http://www.dtn.com/forms/ag/gtpdemo/new/<cfoutput>#portal_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="demo_button"><i class="fa fa-chevron-right"></i> Request a demo </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/agribusiness_products/portal_lg.jpg" alt="mobile photo" height="170px" width="170px">

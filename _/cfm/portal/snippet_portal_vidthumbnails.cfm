@@ -1,5 +1,5 @@
 
-<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1">
+<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1" id="portal video" onClick="ga('send', 'event', 'Video', 'Clicked', 'DTN Portal', {'nonInteraction': 1})">
     <div class="row">
         <div class="col-md-5 pull-left">
             <i class="fa fa-youtube-play fa-3x"></i>

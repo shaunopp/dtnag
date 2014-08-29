@@ -1,4 +1,4 @@
-<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#12">
+<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#12" id="marketer vid" onClick="ga('send', 'event', 'Video', 'Clicked', 'DTN Marketer', {'nonInteraction': 1})">
     <div class="row">
         <div class="col-md-5 pull-left">
             <i class="fa fa-youtube-play fa-3x"></i>

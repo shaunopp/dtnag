@@ -1,6 +1,6 @@
-<a href="#" class="list-group-item bg-gray" data-toggle="collapse" data-target="#more_cs">Case Studies <!--- <span id="swap_cs" class="pull-right showArchieved">more <i class="fa fa-angle-down"></i></span> ---></a>
-    <a href="/ag/_/pdf/ag_essential/CS_HESS_FAMILY_FARMS_0414.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>Hess Family Farm</a>
-        <a href="/ag/_/pdf/ag_essential/CS_KEENE_FARMS_0414.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>Keene Farms LLC</a>
+<a href="#" class="list-group-item bg-gray" data-toggle="collapse" data-target="#more_cs" id="casestudy_hd_aside">Case Studies <!--- <span id="swap_cs" class="pull-right showArchieved">more <i class="fa fa-angle-down"></i></span> ---></a>
+    <a href="/ag/_/pdf/ag_essential/CS_HESS_FAMILY_FARMS_0414.pdf" target="_blank" class="list-group-item" id="hess family" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Hess Family Farm', {'nonInteraction': 1})"><i class="fa fa-file-pdf-o pad-rt"></i>Hess Family Farm</a>
+        <a href="/ag/_/pdf/ag_essential/CS_KEENE_FARMS_0414.pdf" target="_blank" class="list-group-item" id="keene farms" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Keene Farms LLC', {'nonInteraction': 1})"><i class="fa fa-file-pdf-o pad-rt"></i>Keene Farms LLC</a>
 
 <!---     <a href="/ag/_/pdf/canada/CS_DCARLSON_1013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>Diane Carlson Farm</a>
     <a href="/ag/_/pdf/canada/CS_LEAMYBROS_1013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>Leamy Brothers Farm</a>

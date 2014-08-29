@@ -1,4 +1,4 @@
-<a href="#" class="list-group-item bg-gray" data-toggle="collapse" data-target="#more_cs">Case Studies  <span id="swap_cs" class="pull-right showArchieved">more <i class="fa fa-angle-down"></i></span> </a>
+<a href="#" class="list-group-item bg-gray" data-toggle="collapse" data-target="#more_cs" id="casestudies_hd_aside">Case Studies  <span id="swap_cs" class="pull-right showArchieved">more <i class="fa fa-angle-down"></i></span> </a>
 <a href="/ag/_/pdf/aghost/cs_farm_country_2013.pdf" target="_blank" class="list-group-item">
     <i class="fa fa-file-pdf-o pad-rt"></i> Farm Country Cooperative
 </a>

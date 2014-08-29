@@ -6,7 +6,7 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/producer/ag_weather_tools_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/ag_weather_tools_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_agwxtools_app">
                         <img src="/ag/images/producer_products/ag_wx_tools_sm.jpg" alt="mobile for ipad thumbnail" class="img-rounded pull-left">
                         <div class="caption" class="pull-right">
                             <h4>Ag Weather Tools App<sup>&reg;</sup>
@@ -15,7 +15,7 @@
                             </p>
                         </div>
                     </a>
-                    <a href="/ag/producer/market_strategies_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/market_strategies_app/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_marketstrat">
                         <img src="/ag/images/producer_products/market_strategies_sm.jpg" alt="premium services thumbnail" class="pull-left img-rounded">
                         <div class="caption" class="pull-right">
                             <h4>DTN Market Strategies<sup>&reg;</sup> App</h4>
@@ -24,7 +24,7 @@
                     </a>
                 </div>
                 <div class="row">
-                    <a href="/ag/producer/ag_app_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/ag_app_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="ag_app_for_ipad">
                         <img src="/ag/images/producer_products/ag_app_for_ipad_sm.jpg" alt="premium services thumbnail" class="img-rounded pull-left">
                         <div class="caption" class="pull-right">
                             <h4>Agriculture App for the iPad<sup>&reg;</sup>

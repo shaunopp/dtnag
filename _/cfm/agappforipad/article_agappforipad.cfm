@@ -21,7 +21,7 @@
     </div>
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-            <a style="margin:0px 5px 5px 0px" href="itms://itunes.apple.com/us/app/dtn-the-progressive-farmer/id404268539?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the app </a>
+            <a style="margin:0px 5px 5px 0px" href="itms://itunes.apple.com/us/app/dtn-the-progressive-farmer/id404268539?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_app_button"><i class="fa fa-apple"></i> Download the app </a>
         </div>
     </div>
     <br>

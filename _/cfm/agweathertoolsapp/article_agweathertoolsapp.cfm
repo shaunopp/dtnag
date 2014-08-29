@@ -8,11 +8,11 @@
 
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Quickly make important decisions</strong>with easy to navigate information in a summarized format</li>
+                    <strong>Quickly make important decisions</strong> with easy to navigate information in a summarized format</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Stay on top of changing weather</strong>with customized alerts and observations based on your location and chosen thresholds</li>
+                    <strong>Stay on top of changing weather</strong> with customized alerts and observations based on your location and chosen thresholds</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
-                    <strong>Easily monitor the bigger picture</strong>with our daily market weather outlook video and unmatched news and analysis</li>
+                    <strong>Easily monitor the bigger picture</strong> with our daily market weather outlook video and unmatched news and analysis</li>
             </ul>
 
         </div>
@@ -22,7 +22,7 @@
     </div>
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-            <a style="margin:0px 5px 5px 0px" href="https://itunes.apple.com/us/app/dtn-ag-weather-tools/id445062163?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the iPhone app </a><a style="margin:0px 5px 5px 0px"href="https://play.google.com/store/apps/details?id=com.telventdtn.agweather" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-android"></i> Download the Android app </a>
+            <a style="margin:0px 5px 5px 0px" href="https://itunes.apple.com/us/app/dtn-ag-weather-tools/id445062163?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_iphone_app"><i class="fa fa-apple"></i> Download the iPhone app </a><a style="margin:0px 5px 5px 0px"href="https://play.google.com/store/apps/details?id=com.telventdtn.agweather" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_android_app"><i class="fa fa-android"></i> Download the Android app </a>
         </div>
     </div>
     <br>

@@ -6,7 +6,7 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_portal">
                         <img src="/ag/images/agribusiness_products/portal_sm.jpg" alt="portal thumbnail" class="img-circle pull-left">
                         <div class="caption" class="pull-right">
                             <h4>DTN Portal<sup>&reg;</sup>

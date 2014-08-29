@@ -17,7 +17,7 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Take orders at the point of sale</strong> by using our Order-to-Cash module that will allow orders for fertilizer contracts, seed bookings or chemical prepays.</li>
             </ul>
-            <a href="http://www.dtn.com/forms/ag/connect/new/<cfoutput>#connect_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Learn more now </a>
+            <a href="http://www.dtn.com/forms/ag/connect/new/<cfoutput>#connect_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="learnmore_button"><i class="fa fa-chevron-right"></i> Learn more now </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/agribusiness_products/connect_lg.jpg" alt="mobile photo" height="170px" width="170px">

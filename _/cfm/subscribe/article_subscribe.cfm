@@ -24,7 +24,7 @@
                 </ul>
                 <div class="text-center">
                     <p><strong>Start simplifying your business today:</strong></p>
-                    <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg top-trial" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+                    <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg top-trial" role="button" id="trial_button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
                 </div>
                 <br>
                 <blockquote>

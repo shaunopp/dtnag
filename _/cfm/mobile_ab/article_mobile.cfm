@@ -19,7 +19,7 @@
     </div>
         <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12">
-    <a href="http://www.dtn.com/forms/ag/try/mobile/new/<cfoutput>#mobiletryab_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a> <a href="http://www.dtn.com/forms/ag/buy/mobile/<cfoutput>#mobilebuyab_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Sign up now </a>
+    <a href="http://www.dtn.com/forms/ag/try/mobile/new/<cfoutput>#mobiletryab_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="trial_button"><i class="fa fa-chevron-right"></i> Start your free trial </a> <a href="http://www.dtn.com/forms/ag/buy/mobile/<cfoutput>#mobilebuyab_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="buy_button"><i class="fa fa-chevron-right"></i> Sign up now </a>
     </div>
     </div>
     <br>

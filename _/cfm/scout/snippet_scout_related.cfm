@@ -6,7 +6,7 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/agribusiness/connect/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/agribusiness/connect/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_connect">
                         <img src="/ag/images/agribusiness_products/connect_sm.jpg" alt="connect thumbnail" class="img-rounded pull-left">
                         <div class="caption" class="pull-right">
                             <h4>DTN Connect</h4>

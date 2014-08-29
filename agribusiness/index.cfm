@@ -35,7 +35,7 @@
                     </div>
                     <div class="panel-body">
                         <div class="row">
-                            <a href="/ag/agribusiness/aghost/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/aghost/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_aghost">
                                 <img src="/ag/images/agribusiness_products/aghost_sm.jpg" class="img-circle img-responsive" alt="aghost thumbnail">
                                 <div class="caption">
                                     <h4>DTN AgHost<sup>&reg;</sup>
@@ -43,7 +43,7 @@
                                     <p>A professional, results-oriented Web solution, just for agribusinesses</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/aghost_mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/aghost_mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_aghost_mobile">
                                 <img src="/ag/images/agribusiness_products/aghostmobile_sm.jpg" class="img-circle pull-left img-responsive" alt="aghost mobile thumbnail">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN AgHost<sup>&reg;</sup> Mobile
@@ -51,7 +51,7 @@
                                     <p>Take your website mobile in less than five minutes</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/marketer/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/marketer/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_marketer">
                                 <img src="/ag/images/agribusiness_products/marketer_sm.jpg" alt="marketer thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Marketer<sup>&reg;</sup>
@@ -59,7 +59,7 @@
                                     <p>A high-impact solution to support your marketing efforts</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_portal">
                                 <img src="/ag/images/agribusiness_products/portal_sm.jpg" alt="portal thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Portal<sup>&reg;</sup>
@@ -69,7 +69,7 @@
                             </a>
                         </div>
                         <div class="row">
-                            <a href="/ag/agribusiness/connect/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/connect/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_connect">
                                 <img src="/ag/images/agribusiness_products/connect_sm.jpg" alt="connect thumbnail" class="img-rounded pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Connect</h4>
@@ -90,7 +90,7 @@
                     </div>
                     <div class="panel-body">
                         <div class="row">
-                            <a href="/ag/agribusiness/marketer/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/marketer/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_marketer2">
                                 <img src="/ag/images/agribusiness_products/marketer_sm.jpg" alt="marketer thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Marketer<sup>&reg;</sup>
@@ -98,7 +98,7 @@
                                     <p>A high-impact solution to support your marketing efforts</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/aghost/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/aghost/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_aghost2">
                                 <img src="/ag/images/agribusiness_products/aghost_sm.jpg" class="img-circle img-responsive" alt="aghost thumbnail">
                                 <div class="caption">
                                     <h4>DTN AgHost<sup>&reg;</sup>
@@ -106,7 +106,7 @@
                                     <p>A professional, results-oriented Web solution, just for agribusinesses</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/aghost_mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/aghost_mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_aghost_mobile2">
                                 <img src="/ag/images/agribusiness_products/aghostmobile_sm.jpg" class="img-circle pull-left img-responsive" alt="aghost mobile thumbnail">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN AgHost<sup>&reg;</sup> Mobile
@@ -127,7 +127,7 @@
                     </div>
                     <div class="panel-body">
                         <div class="row">
-                            <a href="/ag/agribusiness/prophetx/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/prophetx/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_prophx">
                                 <img src="/ag/images/agribusiness_products/prophetx_sm.jpg" alt="prophetx thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN ProphetX<sup>&reg;</sup>
@@ -136,14 +136,14 @@
                                 </div>
                             </a>
                             <a href="/ag/agribusiness/portal/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
-                                <img src="/ag/images/agribusiness_products/portal_sm.jpg" alt="portal thumbnail" class="img-circle pull-left">
+                                <img src="/ag/images/agribusiness_products/portal_sm.jpg" alt="portal thumbnail" class="img-circle pull-left" id="mini_portal2">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Portal<sup>&reg;</sup>
                                     </h4>
                                     <p>A centralized offer and hedge management system</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/instant/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/instant/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_instant">
                                 <img src="/ag/images/agribusiness_products/instant_sm.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Instant<sup>&reg;</sup>
@@ -151,7 +151,7 @@
                                     <p>A convenient connection to vital tick-by-tick market quotes</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/multisight/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/multisight/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_multisight">
                                 <img src="/ag/images/agribusiness_products/multisight_sm.jpg" alt="multisight thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN MultiSight<sup>&trade;</sup>
@@ -159,14 +159,14 @@
                                     <p>Optimize your operations with the only video system designed for multiple locations</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/premium_services/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/premium_services/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_premsvs">
                                 <img src="/ag/images/agribusiness_products/premiumservices_sm.jpg" alt="premium services thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>Premium Services</h4>
                                     <p>A high-impact solution to support your marketing efforts</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_mobile">
                                 <img src="/ag/images/agribusiness_products/mobile_sm.jpg" alt="mobile thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Mobile<sup>&reg;</sup>
@@ -174,7 +174,7 @@
                                     <p>Stay on top of important changes wherever you go</p>
                                 </div>
                             </a>
-                            <a href="/ag/agribusiness/scout/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix">
+                            <a href="/ag/agribusiness/scout/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_scout">
                                 <img src="/ag/images/agribusiness_products/scout_sm.jpg" alt="scout thumbnail" class="pull-left img-rounded">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Scout</h4>

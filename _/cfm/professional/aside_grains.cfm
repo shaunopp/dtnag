@@ -1,5 +1,5 @@
 <section class="list-group css3-shadow">
-    <a href="#" class="list-group-item active">Resources</a>
+    <a href="#" class="list-group-item active" id="resource_header_aside">Resources</a>
 
 <!---     <a href="#" class="list-group-item bg-gray">Brochures</a>
     <a href="/ag/_/pdf/professional/ss_dtn_grains_2013.pdf" target="_blank" class="list-group-item"><i class="fa fa-file-pdf-o pad-rt"></i>DTN Grains<sup>&reg;</sup></a>

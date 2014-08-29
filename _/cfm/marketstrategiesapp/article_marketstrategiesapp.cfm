@@ -21,7 +21,7 @@
     </div>
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-            <a style="margin:0px 5px 5px 0px" href="http://itunes.apple.com/us/app/dtn-progressive-farmer-market/id503976323?ls=1mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the iPhone app </a><a style="margin:0px 5px 5px 0px"href="https://play.google.com/store/apps/details?id=com.telventdtn.agmarketstrategies&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50ZWx2ZW50ZHRuLmFnbWFya2V0c3RyYXRlZ2llcyJd" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-android"></i> Download the Android app </a>
+            <a style="margin:0px 5px 5px 0px" href="http://itunes.apple.com/us/app/dtn-progressive-farmer-market/id503976323?ls=1mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_iphone_app"><i class="fa fa-apple"></i> Download the iPhone app </a><a style="margin:0px 5px 5px 0px"href="https://play.google.com/store/apps/details?id=com.telventdtn.agmarketstrategies&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50ZWx2ZW50ZHRuLmFnbWFya2V0c3RyYXRlZ2llcyJd" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_android_app"><i class="fa fa-android"></i> Download the Android app </a>
         </div>
     </div>
     <br>

@@ -35,7 +35,7 @@
             </section>
             <section class="col-md-4">
                 <div class="well hidden-sm hidden-xs">
-                    <a style="margin:0px 0px 5px 0px" href="https://itunes.apple.com/us/app/dtn-ag-weather-tools/id445062163?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-apple"></i> Download the iPhone app </a><a href="https://play.google.com/store/apps/details?id=com.telventdtn.agweather" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-android"></i> Download the Android app </a>
+                    <a style="margin:0px 0px 5px 0px" href="https://itunes.apple.com/us/app/dtn-ag-weather-tools/id445062163?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_iphone_aside"><i class="fa fa-apple"></i> Download the iPhone app </a><a href="https://play.google.com/store/apps/details?id=com.telventdtn.agweather" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_android_aside"><i class="fa fa-android"></i> Download the Android app </a>
                 </div>
                 <cfinclude template="/ag/_/cfm/agweathertoolsapp/aside_agweathertoolsapp.cfm">
             </section>

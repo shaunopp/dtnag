@@ -1,14 +1,14 @@
-<a href="#" class="list-group-item bg-gray" data-toggle="collapse" data-target="#more_cs">Case Studies  <span id="swap_cs" class="pull-right showArchieved">more <i class="fa fa-angle-down"></i></span> </a>
-<a href="/ag/_/pdf/aghost/cs_farm_country_2013.pdf" target="_blank" class="list-group-item">
+<a href="#" class="list-group-item bg-gray" data-toggle="collapse" data-target="#more_cs" id="casestudies_hd_aside">Case Studies  <span id="swap_cs" class="pull-right showArchieved">more <i class="fa fa-angle-down"></i></span> </a>
+<a href="/ag/_/pdf/aghost/cs_farm_country_2013.pdf" target="_blank" class="list-group-item" id="farm country coop" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Farm Country Cooperative', {'nonInteraction': 1})">
     <i class="fa fa-file-pdf-o pad-rt"></i> Farm Country Cooperative
 </a>
-<a href="/ag/_/pdf/aghost/cs_freeland_bean_and_grain_2014.pdf" target="_blank" class="list-group-item">
+<a href="/ag/_/pdf/aghost/cs_freeland_bean_and_grain_2014.pdf" target="_blank" class="list-group-item" id="freeland" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Freeland Bean and Grain', {'nonInteraction': 1})">
     <i class="fa fa-file-pdf-o pad-rt"></i> Freeland Bean and Grain
 </a>
-<a href="/ag/_/pdf/aghost/cs_kanza_2013.pdf" target="_blank" class="list-group-item">
+<a href="/ag/_/pdf/aghost/cs_kanza_2013.pdf" target="_blank" class="list-group-item" id="kanza coop" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Kanza Cooperative', {'nonInteraction': 1})"> 
     <i class="fa fa-file-pdf-o pad-rt"></i> Kanza Cooperative
 </a>
-<a href="/ag/_/pdf/aghost/cs_miaba_2013.pdf" target="_blank" class="list-group-item">
+<a href="/ag/_/pdf/aghost/cs_miaba_2013.pdf" target="_blank" class="list-group-item" id="michigan agribusiness assoc" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Michigan Agri-Business Association', {'nonInteraction': 1})">
     <i class="fa fa-file-pdf-o pad-rt"></i> Michigan Agri-Business Association
 </a>
 
@@ -20,16 +20,16 @@
 <!--- hide all but 4 --->
 
 <div class="collapse-group collapse" id="more_cs">
-    <a href="/ag/_/pdf/aghost/cs_maplehurst_2013.pdf" target="_blank" class="list-group-item">
+    <a href="/ag/_/pdf/aghost/cs_maplehurst_2013.pdf" target="_blank" class="list-group-item" id="maplehurst" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Maplehurst Farms', {'nonInteraction': 1})">
         <i class="fa fa-file-pdf-o pad-rt"></i> Maplehurst Farms
     </a>
-    <a href="/ag/_/pdf/aghost/cs_mi_farm_2013.pdf" target="_blank" class="list-group-item">
+    <a href="/ag/_/pdf/aghost/cs_mi_farm_2013.pdf" target="_blank" class="list-group-item" id="mich farm bureau" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Michigan Farm Bureau', {'nonInteraction': 1})">
         <i class="fa fa-file-pdf-o pad-rt"></i> Michigan Farm Bureau
     </a>
-    <a href="/ag/_/pdf/aghost/cs_national_farmers_2013.pdf" target="_blank" class="list-group-item">
+    <a href="/ag/_/pdf/aghost/cs_national_farmers_2013.pdf" target="_blank" class="list-group-item" id="nat farmers org" onClick="ga('send', 'event', 'PDF', 'Clicked', 'National Farmers Organization', {'nonInteraction': 1})">
         <i class="fa fa-file-pdf-o pad-rt"></i> National Farmers Organization
     </a>
-    <a href="/ag/_/pdf/aghost/cs_southeast_NE_coop_2014.pdf" target="_blank" class="list-group-item">
+    <a href="/ag/_/pdf/aghost/cs_southeast_NE_coop_2014.pdf" target="_blank" class="list-group-item" id="southeast neb coop" onClick="ga('send', 'event', 'PDF', 'Clicked', 'Southeast Nebraska Coop', {'nonInteraction': 1})">
         <i class="fa fa-file-pdf-o pad-rt"></i> Southeast Nebraska Coop
     </a>
 </div>

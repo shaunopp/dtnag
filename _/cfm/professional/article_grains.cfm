@@ -16,8 +16,15 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Improve pesticide timing</strong> with field-specific corn growth projections to protect and maximize yields</li>
             </ul>
-            <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
-        </div>
+<!---   LIVE<a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+ --->
+
+<!--- PRE AGONLINE TEST <a href="http://pre-agonline.dtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+ --->
+
+ <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="trial_button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+
+         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/producer_products/grains_lg.jpg" alt="grains photo" height="170px" width="170px">
         </div>

@@ -6,7 +6,7 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/agribusiness/aghost/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/agribusiness/aghost/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_aghost">
                         <img src="/ag/images/agribusiness_products/aghost_sm.jpg" class="img-circle img-responsive" alt="aghost thumbnail">
                         <div class="caption">
                             <h4>DTN AgHost<sup>&reg;</sup>

@@ -1,4 +1,4 @@
-<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#12">
+<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#12" id="dtn aghost mob video" onClick="ga('send', 'event', 'Video', 'Clicked', 'DTN AgHost Mobile', {'nonInteraction': 1})">
     <div class="row">
         <div class="col-md-5 pull-left">
             <i class="fa fa-youtube-play fa-3x"></i>
@@ -10,7 +10,7 @@
         </div>
     </div>
 </a>
-<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1">
+<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1" id="dtn aghost vid" onClick="ga('send', 'event', 'Video', 'Clicked', 'DTN AgHost', {'nonInteraction': 1})">
     <div class="row">
         <div class="col-md-5 pull-left">
             <i class="fa fa-youtube-play fa-3x"></i>

@@ -14,7 +14,7 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Further streamline your workflows</strong> by allowing customers to find your information and transact business using mobile devices</li>
             </ul>
-            <a href="http://www.dtn.com/forms/ag/aghost/new/<cfoutput>#aghostmobile_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button"><i class="fa fa-chevron-right"></i> Request a demo </a>
+            <a href="http://www.dtn.com/forms/ag/aghost/new/<cfoutput>#aghostmobile_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="request_demo_button"><i class="fa fa-chevron-right"></i> Request a demo </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/agribusiness_products/aghostmobile_lg.jpg" alt="mobile photo" height="170px" width="170px">

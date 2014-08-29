@@ -9,19 +9,19 @@
 </p>
                     <!-- Social Media -->
                     <div class="social">
-                        <a href="http://www.twitter.com/dtnpf" target="_blank">
+                        <a href="http://www.twitter.com/dtnpf" target="_blank" id="footer_twitter_icon" onClick="ga('send', 'event', 'Link', 'Clicked', 'Footer_Twitter', {'nonInteraction': 1})">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                        <a href="http://www.facebook.com/dtnprogressivefarmer" target="_blank">
+                        <a href="http://www.facebook.com/dtnprogressivefarmer" target="_blank" id="footer_facebook_icon" onClick="ga('send', 'event', 'Link', 'Clicked', 'Footer_Facebook', {'nonInteraction': 1})">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="http://www.youtube.com/dtnprogressivefarmer" target="_blank">
+                    <a href="http://www.youtube.com/dtnprogressivefarmer" target="_blank" id="footer_youtube_icon" onClick="ga('send', 'event', 'Link', 'Clicked', 'Footer_Youtube', {'nonInteraction': 1})">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="http://www.linkedin.com/groups/DTN-Progressive-Farmer-2162056/about" target="_blank">
+                    <a href="http://www.linkedin.com/groups/DTN-Progressive-Farmer-2162056/about" target="_blank" id="footer_linkedin_icon" onClick="ga('send', 'event', 'Link', 'Clicked', 'Footer_LinkedIn', {'nonInteraction': 1})">
                         <span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
@@ -33,11 +33,11 @@
                 <div class="widget">
                     <h4>Sign-Up</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/news_and_events/index.cfm">Webinars & Rebroadcasts</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/news_and_events/index.cfm" id="footer_webinars">Webinars & Rebroadcasts</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtnprogressivefarmer.com/go/agsummit/">Ag Summit</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtnprogressivefarmer.com/go/agsummit/" id="footer_agsummit">Ag Summit</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>">Free Trial</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" id="footer_freetrial">Free Trial</a>
                         </li>
                     </ul>
                 </div>
@@ -47,13 +47,13 @@
                 <div class="widget">
                     <h4>DTN Products</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/producer/">Producer</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/producer/" id="footer_producer">Producer</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/agribusiness/">Agribusiness</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/agribusiness/" id="footer_agribusiness">Agribusiness</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/trading">Trading</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/trading" id="footer_trading">Trading</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/advertising/">Advertising</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/advertising/" id="footer_advertising">Advertising</a>
                         </li>
                     </ul>
                 </div>
@@ -63,11 +63,11 @@
                 <div class="widget">
                     <h4>Help & Info</h4>
                     <ul>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/">Customer Service</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/" id="footer_custserv">Customer Service</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/legal/">Legal</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/legal/" id="footer_legal">Legal</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/">Contact Us</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="/ag/contact/" id="footer_contact">Contact Us</a>
                         </li>
                     </ul>
                 </div>

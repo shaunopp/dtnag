@@ -15,7 +15,7 @@
     </ul>
     <div class="text-center">
         <p><strong>Go ahead, it's free:</strong></p>
-        <a href="http://about.dtnpf.com/ag/forms/registration.cfm?dtnpf_reg_form=http://www.dtnprogressivefarmer.com/dtnag/view/common/register2.do" class="btn btn-dtnorange btn-lg top-trial" role="button"><i class="fa fa-chevron-right"></i> Register now </a>
+        <a href="http://about.dtnpf.com/ag/forms/registration.cfm?dtnpf_reg_form=http://www.dtnprogressivefarmer.com/dtnag/view/common/register2.do" class="btn btn-dtnorange btn-lg top-trial" role="button" id="register_button"><i class="fa fa-chevron-right"></i> Register now </a>
     </div>
     <h3>Subscribe to
         <em>The Progressive Farmer magazine</em>
@@ -36,7 +36,7 @@
     </ul>    <div class="text-center">
 
             <p><strong>Sign up for your 13 issues:</strong></p>
-        <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=OrderPages/pf/1312/order_2001.jsp&MSRSMAG=PF&MSCEKX=PFBF7A6" class="btn btn-dtnorange btn-lg top-trial" role="button"><i class="fa fa-chevron-right"></i> Subscribe now </a><br><br>
+        <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=OrderPages/pf/1312/order_2001.jsp&MSRSMAG=PF&MSCEKX=PFBF7A6" class="btn btn-dtnorange btn-lg top-trial" role="button"><i class="fa fa-chevron-right" id="subscribe_button"></i> Subscribe now </a><br><br>
 <a href="http://browndigital.bpc.com/publication?m=27946&l=1"><img src="http://about.dtnpf.com/ag/lib/images/subscribe_digital_2.jpg" alt=""></a>
             </div>
 

@@ -6,7 +6,7 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_agwxstation">
                         <img src="/ag/images/producer_products/ag_wx_station_sm.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
                         <div class="caption" class="pull-right">
                             <h4>DTN Ag Weather Station
@@ -15,7 +15,7 @@
                             <p>Increase yields and savings with precision weather</p>
                         </div>
                     </a>
-                    <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/ag_essential/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_agessential">
                         <img src="/ag/images/producer_products/agessential_sm.jpg" alt="ag essential thumbnail" class="img-circle pull-left">
                         <div class="caption" class="pull-right">
                             <h4>Ag Essential<sup>&trade;</sup> 

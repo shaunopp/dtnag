@@ -35,7 +35,7 @@
             </section>
             <section class="col-md-4">
                 <div class="well hidden-sm hidden-xs">
-                    <a href="http://www.dtn.com/forms/ag/aghost/new/<cfoutput>#aghostmobile_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button"><i class="fa fa-chevron-right"></i> Request a demo </a>
+                    <a href="http://www.dtn.com/forms/ag/aghost/new/<cfoutput>#aghostmobile_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button" id="reqest_demo_button_aside"><i class="fa fa-chevron-right"></i> Request a demo </a>
                 </div>
                 <cfinclude template="/ag/_/cfm/aghostmobile/aside_aghostmobile.cfm">
             </section>

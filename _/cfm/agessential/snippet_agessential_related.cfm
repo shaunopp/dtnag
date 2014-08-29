@@ -6,20 +6,18 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <a href="/ag/producer/professional/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
-                        <img src="/ag/images/producer_products/grains_sm.jpg" class="img-circle img-responsive" alt="grains thumbnail">
+                    <a href="/ag/producer/mydtn/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_mydtn">
+                        <img src="/ag/images/producer_products/mydtn_sm.jpg" class="img-circle img-responsive" alt="grains thumbnail">
                         <div class="caption">
-                            <h4>DTN Professional<sup>&reg;</sup>
+                            <h4>MyDTN<sup>&trade;</sup> <span class="label label-primary">New</span>
                             </h4>
-                            <p>Become more profitable and efficient.</p>
+                            <p>Increase margins and efficiency.</p>
                         </div>
                     </a>
-                    <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix">
+                    <a href="/ag/producer/ag_weather_station/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_agwxstation">
                         <img src="/ag/images/producer_products/ag_wx_station_sm.jpg" alt="ag weather station thumbnail" class="img-circle pull-left">
                         <div class="caption" class="pull-right">
-                            <h4>DTN Ag Weather Station
-                                <span class="label label-primary">New</span>
-                            </h4>
+                            <h4>DTN Ag Weather Station</h4>
                             <p>Increase yields and savings with precision weather</p>
                         </div>
                     </a>

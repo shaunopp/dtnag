@@ -56,9 +56,6 @@
 // });
 
 
-
-
-
     // stop modal videos from continuing to play when modal closes
     // solution from here: https://teamtreehouse.com/forum/bootstrap-video-modal-will-not-stop-playing
 
