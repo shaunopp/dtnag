@@ -5,11 +5,34 @@
                 <th>Date</th>
                 <th>Description</th>
             </tr>
+            <tr>
+              <td>8/21/14</td>
+              <td><strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=32888|32891|32896|32902|wcreb_farmcontingency0814&amp;DCMP=AG_wcreb_farmcontingency0814  " target="_blank">Free-one hour webinar, hosted by DTN/The Progressive Farmer 
+                Co-sponsored by the National Corn Growers Association</a><br />
+                Which Farm Contingency Plan is Right for You?<br /></a></strong> <br />
+                Activate the right revenue risk management strategies when you enroll in the new farm program later this year. While direct payments are ending, the new safety net triggers payments when growers suffer abnormally low prices or revenues. Economists Carl Zulauf of Ohio State University and Gary Schnitkey of the University of Illinois will help you analyze your options and prepare landowners for critical one-time decisions in play for 2014-2018 crops. Learn which conditions favor Agriculture Risk Coverage(ARC) or Production Loss Coverage (PLC) and how they will influence your crop insurance purchases in the years ahead.<br />
+                <a href="http://www.dtn.com/forms/ag/wcreb?vars=32888|32891|32896|32902|wcreb_farmcontingency0814&amp;DCMP=AG_wcreb_farmcontingency0814  " target="_blank"><i class="fa fa-desktop fa-lg"></i> Watch now</a></td>
+            </tr>
+            <tr>
+              <td>8/14/14</td>
+              <td><strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=32581|32584|32580|32583|wcreb_biofuel0814&amp;DCMP=AG_wcreb_biofuel0814  " target="_blank">Corn Projections and the Possible Impact on the Biofuels Industry</a> </strong> <br />
+                With a massive corn crop on the way and biofuels feedstock prices tumbling, the second half of 2014 could be pivotal for U.S. ethanol market dynamics. As the corn market heads into a new marketing year in September, will its demand market come to an end? What is expected for U.S. production? Will domestic and global ending stocks climb? Discover this and more by joining Jordan Godwin, U.S. biofuels editor for Platts and our own Darin Newsom, DTN senior analyst.<br />
+                <a href="http://www.dtn.com/forms/ag/wcreb?vars=32581|32584|32580|32583|wcreb_biofuel0814&amp;DCMP=AG_wcreb_biofuel0814  " target="_blank"><i class="fa fa-desktop fa-lg"></i> Watch now</a></td>
+            </tr>
         </thead>
         <tbody>
 
 
 
+            <tr>
+                <td>8/12/14</td>
+                <td>
+                    <strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=32663|32666|32677|32683|wcreb_cropdemand_0814&amp;DCMP=AG_wcreb_cropdemand_0814  " target="_blank">Crop Production and Supply and Demand </a>
+                    </strong>
+                    <br />
+                    DTN Senior Analyst Darin Newsom will take a look at the latest USDA Supply and Demand and Crop Production estimates and what they might mean for the markets.<br /><a href="http://www.dtn.com/forms/ag/wcreb?vars=32663|32666|32677|32683|wcreb_cropdemand_0814&amp;DCMP=AG_wcreb_cropdemand_0814" target="_blank"><i class="fa fa-desktop fa-lg"></i> Watch now</a>
+                </td>
+            </tr>
             <tr>
                 <td>6/30/14</td>
                 <td>

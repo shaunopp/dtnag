@@ -22,7 +22,7 @@
     </div>
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-            <a style="margin:0px 5px 5px 0px" href="https://itunes.apple.com/us/app/dtn-ag-weather-tools/id445062163?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_iphone_app"><i class="fa fa-apple"></i> Download the iPhone app </a><a style="margin:0px 5px 5px 0px"href="https://play.google.com/store/apps/details?id=com.telventdtn.agweather" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_android_app"><i class="fa fa-android"></i> Download the Android app </a>
+            <a style="margin:0px 5px 5px 0px" href="https://itunes.apple.com/us/app/dtn-ag-weather-tools/id445062163?mt=8" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_iphone_app"><i class="fa fa-apple"></i> Download the iPhone app </a><!--- <a style="margin:0px 5px 5px 0px"href="https://play.google.com/store/apps/details?id=com.telventdtn.agweather" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="download_android_app"><i class="fa fa-android"></i> Download the Android app </a> --->
         </div>
     </div>
     <br>

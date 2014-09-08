@@ -16,13 +16,16 @@
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Stay connected and informed</strong> with &ldquo;anywhere access&rdquo; and mobile alerting for buying/selling opportunities, changing weather conditions, and more </li>
             </ul>
-<!---   LIVE<a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+<!---  V3 LIVE <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
  --->
 
 <!--- PRE AGONLINE TEST <a href="http://pre-agonline.dtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
  --->
 
- <a href="http://pre-agonline.dtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+ <!--- AGONLINE LIVE <a href="http://www.mydtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="trial_button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+ --->
+
+ <a href="http://www.mydtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" target="_blank" id="trial_button" onClick="ga('send', 'event', 'Link', 'Clicked', 'MyDTN_orange_trial_btn_left', {'nonInteraction': 1})"><i class="fa fa-chevron-right"></i> Start your free trial </a>
 
          </div>
         <div class="col-md-4 hidden-sm hidden-xs">

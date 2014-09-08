@@ -11,27 +11,6 @@
         </thead>
         <tbody>
             <tr>
-                <td>Aug. 5-7</td>
-                <td>FarmFest</td>
-                <td>Redwood Falls, MN</td>
-                <td><i class="fa fa-leaf dtngreen"></i>
-                </td>
-            </tr>
-            <tr>
-                <td>Aug. 19-21</td>
-                <td>DakotaFest</td>
-                <td>Mitchell, SD</td>
-                <td><i class="fa fa-leaf dtngreen"></i>
-                </td>
-            </tr>
-            <tr>
-                <td>Aug. 26-28</td>
-                <td>Farm Progress</td>
-                <td>Boone, IA</td>
-                <td><i class="fa fa-leaf dtngreen"></i>
-                </td>
-            </tr>
-            <tr>
                 <td>Sept. 9-11</td>
                 <td>Big Iron</td>
                 <td>Fargo, ND</td>

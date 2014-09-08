@@ -156,14 +156,14 @@
                     </div>
                     <div class="panel-body">
                         <div class="row">
-                            <a href="/ag/producer/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_dtnmobile">
+                            <!--- <a href="/ag/producer/mobile/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_dtnmobile">
                                 <img src="/ag/images/producer_products/mobile_sm.jpg" alt="mobile thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Mobile<sup>&reg;</sup>
                                     </h4>
                                     <p>Stay on top of markets, news, and weather wherever you go</p>
                                 </div>
-                            </a>
+                            </a> --->
                             <a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_mobileipad">
                                 <img src="/ag/images/producer_products/mobileforipad_sm.jpg" alt="mobile for ipad thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
@@ -188,9 +188,9 @@
                                     <p>Market strategies on the go
                                 </div>
                             </a>
-                        </div>
-                        <div class="row">
-                            <a href="/ag/producer/ag_app_for_ipad/index.cfm" class="thumbnail right-caption col-md-6 col-sm-6 col-xs-12 clearfix" id="mini_agipadapp">
+                        <!--- </div>
+                        <div class="row"> --->
+                            <a href="/ag/producer/ag_app_for_ipad/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_agipadapp">
                                 <img src="/ag/images/producer_products/ag_app_for_ipad_sm.jpg" alt="premium services thumbnail" class="img-rounded pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>Agriculture App for the iPad<sup>&reg;</sup>

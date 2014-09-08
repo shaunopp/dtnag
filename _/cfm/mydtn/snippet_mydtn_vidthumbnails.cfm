@@ -11,7 +11,19 @@
         </div>
     </div>
 </a> --->
-    <a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#2" onClick="ga('send', 'event', 'Video', 'Played', 'Measurement and Currency Preference Settings', {'nonInteraction': 1})" id="Measurement and Currency Preference Settings">
+<a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#1" onClick="ga('send', 'event', 'Video', 'Played', 'MyDTN_0914', {'nonInteraction': 1})" id="MyDTN 0914">
+        <div class="row">
+            <div class="col-md-5 pull-left">
+                <i class="fa fa-youtube-play fa-3x"></i>
+                <img src="http://i.vimeocdn.com/video/487334914_640.jpg" class="img-rounded" height="72px" width="128px">
+            </div>
+            <div class="col-md-7">
+                <!--- <h4 class="list-group-item-heading">Heading</h4> --->
+                <p class="list-group-item-text">MyDTN<sup>&trade;</sup></p>
+            </div>
+        </div>
+    </a>
+ <!---   <a href="#" class="list-group-item vidpreview" data-toggle="modal" data-target="#2" onClick="ga('send', 'event', 'Video', 'Played', 'Measurement and Currency Preference Settings', {'nonInteraction': 1})" id="Measurement and Currency Preference Settings">
         <div class="row">
             <div class="col-md-5 pull-left">
                 <i class="fa fa-youtube-play fa-3x"></i>
@@ -34,7 +46,7 @@
                 <p class="list-group-item-text">Chart Study and Indicator Alerts</p>
             </div>
         </div>
-    </a>
+    </a> --->
 
 
 <!--- collapse all but 2 videos --->

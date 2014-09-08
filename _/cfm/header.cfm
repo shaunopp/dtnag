@@ -30,7 +30,7 @@
                         <a href="/ag/producer/index.cfm" id="prodnav_producer">Producer <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <!--- <li class="dropdown-header"><i class="fa fa-desktop"></i> DTN Online</li> --->
-                            <li><a href="/ag/producer/mydtn/index.cfm" id="prodnav_professional">MyDTN&trade;</a>
+                            <li><a href="/ag/producer/mydtn/index.cfm" id="prodnav_mydtn">MyDTN&trade;</a>
                             </li>
                             <!--- <li><a href="/ag/producer/livestock/index.cfm">DTN Livestock<sup>&reg;</sup></a>
                             </li>
@@ -98,6 +98,8 @@
                             </li>
                             <!--- <li class="divider"></li>
                             <li class="dropdown-header"><i class="fa fa-mobile"></i> Mobile Apps</li> --->
+                            <li><a href="/ag/producer/mydtn/index.cfm" id="abnav_mydtn">MyDTN&trade;</a>
+                            </li>
                         </ul>
                     </li>
                     <!--- agribusiness --->

@@ -85,7 +85,7 @@
 <cfcookie name="dtnprofessional_wavs" value="#dtnprofessional_wavs#" expires="30"></cfcookie>
 </cfif>
 <!--- Look for dtnprofessional_wavs cookie and set a new variable with ?vars= for output to link  --->
-<cfparam name="dtnprofessional_cookie_value" default="">
+<cfparam name="dtnprofessional_cookie_value" default="?vars=33067|33068|33071|33073|33070|33072|1001">
 <cfif isDefined("cookie.dtnprofessional_wavs")>
 <cfset dtnprofessional_cookie_value = "?vars=" & cookie.dtnprofessional_wavs>
 </cfif>

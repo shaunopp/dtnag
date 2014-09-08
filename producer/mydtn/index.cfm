@@ -35,7 +35,7 @@
             </section>
             <section class="col-md-4">
                 <div class="well hidden-sm hidden-xs">
-                    <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+                    <a href="http://www.mydtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button" onClick="ga('send', 'event', 'Link', 'Clicked', 'MyDTN_orange_trial_btn_right', {'nonInteraction': 1})"><i class="fa fa-chevron-right"></i> Start your free trial </a>
                 </div>
                 <cfinclude template="/ag/_/cfm/mydtn/aside_mydtn.cfm">
             </section>

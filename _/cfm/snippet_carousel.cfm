@@ -8,7 +8,7 @@
     <!-- Indicators -->
     <div class="carousel-inner">
         <div class="item active">
-            <a href="/ag/producer/mydtn/index.cfm" id="carousel_producer" onClick="ga('send', 'event', 'Link', 'Clicked', 'Carousel_MyDTN, {'nonInteraction': 1})">
+            <a href="/ag/producer/mydtn/index.cfm" id="carousel_producer" onClick="ga('send', 'event', 'Link', 'Clicked', 'Carousel_MyDTN', {'nonInteraction': 1})">
                 <img src="/ag/images/carousel_mydtn.jpg" alt="producer photo">
             </a>
         </div>
