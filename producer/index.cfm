@@ -167,7 +167,7 @@
                             <a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_mobileipad">
                                 <img src="/ag/images/producer_products/mobileforipad_sm.jpg" alt="mobile for ipad thumbnail" class="img-circle pull-left">
                                 <div class="caption" class="pull-right">
-                                    <h4>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
+                                    <h4>MyDTN<sup>&reg;</sup> Bundle with iPad<sup>&reg;</sup>
                                     </h4>
                                     <p>Your mobile command center starts here</p>
                                 </div>

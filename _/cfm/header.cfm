@@ -55,7 +55,7 @@
                             </li> --->
 <!---                             <li><a href="/ag/producer/six_factors/index.cfm">DTN Six Factors<sup>&reg;</sup></a>
                             </li>
- --->                            <li><a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" id="prodnav_mobile_ipad">DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup></a>
+ --->                            <li><a href="/ag/producer/mobile_bundle_for_ipad/index.cfm" id="prodnav_mobile_ipad">MyDTN<sup>&reg;</sup> Bundle with iPad<sup>&reg;</sup></a>
                             </li>
                             
 <!---                             <li class="divider"></li>
@@ -65,6 +65,8 @@
                             <li><a href="/ag/producer/market_strategies_app/index.cfm" id="prodnav_marketstrat">DTN Market Strategies App</a>
                             </li>
                             <li><a href="/ag/producer/ag_app_for_ipad/index.cfm" id="prodnav_agappforipad">Agriculture App for the iPad<sup>&reg;</sup></a>
+                            </li>
+                            <li><a href="/ag/agribusiness/scout/" id="abnav_scout">DTN Scout<sup>&trade;</sup></a>
                             </li>
                         </ul>
                     </li>

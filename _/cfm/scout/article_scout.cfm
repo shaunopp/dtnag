@@ -14,12 +14,15 @@
                     <strong>Work on the fly</strong> to maximize your scouting efforts in minimal time.</li>
                 <li><i class="fa-li fa fa-check-square-o"></i>
                     <strong>Work outside</strong> without squinting at the screen so that you can get the most out of each scouting event.</li>
-
             </ul>
-            <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/scout.cfm<cfoutput>#scout_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="learnmore_button"><i class="fa fa-chevron-right"></i> Learn more now </a>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
             <img class="img-circle spotlight img-responsive" src="/ag/images/agribusiness_products/scout_lg.jpg" alt="mobile photo" height="170px" width="170px">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <a style="margin:0px 5px 5px 0px" href="http://www.dtn.com/forms/ag/try/dtnonline/new/scout.cfm<cfoutput>#scout_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg" role="button" id="learnmore_button"><i class="fa fa-chevron-right"></i> Learn more now </a><a style="margin:0px 5px 5px 0px"href="http://www.revcoscout.com" class="btn btn-dtnorange btn-lg" role="button" id="getitnow_button_article"><i class="fa fa-chevron-right"></i> Get it now </a>
         </div>
     </div>
     <br>

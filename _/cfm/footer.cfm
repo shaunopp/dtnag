@@ -37,7 +37,7 @@
                         </li>
                         <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtnprogressivefarmer.com/go/agsummit/" id="footer_agsummit">Ag Summit</a>
                         </li>
-                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.dtn.com/forms/ag/try/dtnonline/new/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" id="footer_freetrial">Free Trial</a>
+                        <li><i class="fa fa-angle-right"></i>  <a href="http://www.mydtn.com/agriculture/web/ag/signup/<cfoutput>#dtnprofessional_cookie_value#</cfoutput>" id="footer_freetrial">Free Trial</a>
                         </li>
                     </ul>
                 </div>

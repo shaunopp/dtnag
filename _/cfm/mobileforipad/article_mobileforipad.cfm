@@ -1,7 +1,7 @@
 <article>
     <div class="row">
         <div class="col-md-8 col-sm-12 col-xs-12 description">
-            <h1>DTN Mobile<sup>&reg;</sup> bundle for iPad<sup>&reg;</sup>
+            <h1>MyDTN<sup>&reg;</sup> Bundle with iPad<sup>&reg;</sup>
             </h1>
             <h2>Your mobile command center starts here</h2>
             <p>DTN&rsquo;s Mobile Bundle for iPad is your personal mobile command center for complete decision support freedom. Stay connected with the information you need for an added edge and greater confidence in making business and operational decisions. </p>

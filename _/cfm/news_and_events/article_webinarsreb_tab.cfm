@@ -6,11 +6,24 @@
                 <th>Description</th>
             </tr>
             <tr>
+              <td>9/30/14</td>
+              <td><strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=32699|32702|32689|32695|wcreb_usdareport0914&amp;DCMP=AG_wcreb_usdareport0914" target="_blank">Quarterly Stocks and Small Grains Summary<br />
+                </a></strong>
+                DTN Senior Analyst Darin Newsom will take a look at the latest USDA estimates, including Quarterly Grain Stocks, evaluating what they might mean for the markets.<br />
+                <a href="http://www.dtn.com/forms/ag/wcreb?vars=32699|32702|32689|32695|wcreb_usdareport0914&amp;DCMP=AG_wcreb_usdareport0914" target="_blank"><i class="fa fa-desktop fa-lg"></i> Watch now</a></td>
+            </tr>
+            <tr>
+              <td>9/16/14</td>
+              <td><strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=33018|33019|33022|33024|wcreb_mktoutlook0914&amp;DCMP=AG_wcreb_mktoutlook0914" target="_blank">Quarterly Market Outlook<br />
+                </a></strong>
+               Join us for a live video discussion featuring Darin Newsom, DTN/The Progressive Farmer senior analyst. Darin will provide an in-depth look at grains markets, and related factors, as farmers begin the 2014 fall harvest.<br />
+                <a href="http://www.dtn.com/forms/ag/wcreb?vars=33018|33019|33022|33024|wcreb_mktoutlook0914&amp;DCMP=AG_wcreb_mktoutlook0914" target="_blank"><i class="fa fa-desktop fa-lg"></i> Watch now</a></td>
+            </tr>
+            <tr>
               <td>8/21/14</td>
-              <td><strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=32888|32891|32896|32902|wcreb_farmcontingency0814&amp;DCMP=AG_wcreb_farmcontingency0814  " target="_blank">Free-one hour webinar, hosted by DTN/The Progressive Farmer 
-                Co-sponsored by the National Corn Growers Association</a><br />
-                Which Farm Contingency Plan is Right for You?<br /></a></strong> <br />
-                Activate the right revenue risk management strategies when you enroll in the new farm program later this year. While direct payments are ending, the new safety net triggers payments when growers suffer abnormally low prices or revenues. Economists Carl Zulauf of Ohio State University and Gary Schnitkey of the University of Illinois will help you analyze your options and prepare landowners for critical one-time decisions in play for 2014-2018 crops. Learn which conditions favor Agriculture Risk Coverage(ARC) or Production Loss Coverage (PLC) and how they will influence your crop insurance purchases in the years ahead.<br />
+              <td><strong><a href="http://www.dtn.com/forms/ag/wcreb?vars=32888|32891|32896|32902|wcreb_farmcontingency0814&amp;DCMP=AG_wcreb_farmcontingency0814  " target="_blank">Which Farm Contingency Plan is Right for You?</a></strong> <br />
+                Free-one hour webinar, hosted by DTN/The Progressive Farmer 
+                Co-sponsored by the National Corn Growers Association. Activate the right revenue risk management strategies when you enroll in the new farm program later this year. While direct payments are ending, the new safety net triggers payments when growers suffer abnormally low prices or revenues. Economists Carl Zulauf of Ohio State University and Gary Schnitkey of the University of Illinois will help you analyze your options and prepare landowners for critical one-time decisions in play for 2014-2018 crops. Learn which conditions favor Agriculture Risk Coverage(ARC) or Production Loss Coverage (PLC) and how they will influence your crop insurance purchases in the years ahead.<br />
                 <a href="http://www.dtn.com/forms/ag/wcreb?vars=32888|32891|32896|32902|wcreb_farmcontingency0814&amp;DCMP=AG_wcreb_farmcontingency0814  " target="_blank"><i class="fa fa-desktop fa-lg"></i> Watch now</a></td>
             </tr>
             <tr>
