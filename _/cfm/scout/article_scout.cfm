@@ -17,7 +17,7 @@
             </ul>
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
-            <img class="img-circle spotlight img-responsive" src="/ag/images/agribusiness_products/scout_lg.jpg" alt="mobile photo" height="170px" width="170px">
+            <img class="img-responsive" src="/ag/images/agribusiness_products/scout_lg.png" alt="mobile photo" height="170px" width="170px">
         </div>
     </div>
     <div class="row">

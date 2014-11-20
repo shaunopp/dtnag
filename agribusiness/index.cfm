@@ -70,7 +70,7 @@
                         </div>
                         <div class="row">
                             <a href="/ag/agribusiness/connect/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_connect">
-                                <img src="/ag/images/agribusiness_products/connect_sm.jpg" alt="connect thumbnail" class="img-rounded pull-left">
+                                <img src="/ag/images/agribusiness_products/connect_sm.png" alt="connect thumbnail" class="img-rounded pull-left">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Connect</h4>
                                     <p>Become a trusted advisor to your customers
@@ -175,7 +175,7 @@
                                 </div>
                             </a>
                             <a href="/ag/agribusiness/scout/index.cfm" class="thumbnail right-caption col-md-3 col-sm-6 col-xs-12 clearfix" id="mini_scout">
-                                <img src="/ag/images/agribusiness_products/scout_sm.jpg" alt="scout thumbnail" class="pull-left img-rounded">
+                                <img src="/ag/images/agribusiness_products/scout_sm.png" alt="scout thumbnail" class="pull-left img-rounded">
                                 <div class="caption" class="pull-right">
                                     <h4>DTN Scout</h4>
                                     <p>Connect the identification of issues to a spatial reference for better data quality.

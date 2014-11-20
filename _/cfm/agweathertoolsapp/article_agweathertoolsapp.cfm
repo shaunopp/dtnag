@@ -17,7 +17,7 @@
 
         </div>
         <div class="col-md-4 hidden-sm hidden-xs">
-            <img class="img-responsive" src="/ag/images/producer_products/ag_wx_tools_lg.jpg" alt="six factors photo" height="170px" width="170px">
+            <img class="img-responsive" src="/ag/images/producer_products/ag_wx_tools_lg.png" alt="six factors photo" height="170px" width="170px">
         </div>
     </div>
     <div class="row">

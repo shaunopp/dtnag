@@ -35,7 +35,7 @@
             </section>
             <section class="col-md-4">
                 <div class="well hidden-sm hidden-xs">
-                    <a href="http://www.dtn.com/forms/tr/try/prophetxag/" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button" id="trial_button_aside"><i class="fa fa-chevron-right"></i> Start your free trial </a>
+                    <a href="http://www.dtn.com/forms/tr/try/prophetxag/<cfoutput>#dtnprophetx_cookie_value#</cfoutput>" class="btn btn-dtnorange btn-lg btn-block top-trial" role="button" id="trial_button_aside"><i class="fa fa-chevron-right"></i> Start your free trial </a>
                 </div>
                 <cfinclude template="/ag/_/cfm/prophetx/aside_prophetx.cfm">
             </section>

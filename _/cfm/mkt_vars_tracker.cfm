@@ -78,6 +78,18 @@
 <!--- ************************************************* --->
 <!--- ************** SET MARKETING WAVS *************** --->
 <!--- ************************************************* --->
+<!--- PROPHETX --->
+<!--- Look for dtnprophetx_wavs variable in URL and set cookie if found --->
+<cfparam name="dtnprophetx_wavs" default="">
+<cfif isDefined("URL.dtnprophetx_wavs")>
+<cfcookie name="dtnprophetx_wavs" value="#dtnprophetx_wavs#" expires="30"></cfcookie>
+</cfif>
+<!--- Look for dtnprophetx_wavs cookie and set a new variable with ?vars= for output to link  --->
+<cfparam name="dtnprophetx_cookie_value" default="?vars=WVE0031110|WVE0031116">
+<cfif isDefined("cookie.dtnprophetx_wavs")>
+<cfset dtnprophetx_cookie_value = "?vars=" & cookie.dtnprophetx_wavs>
+</cfif>
+
 <!--- PROFESSIONAL --->
 <!--- Look for dtnprofessional_wavs variable in URL and set cookie if found --->
 <cfparam name="dtnprofessional_wavs" default="">
